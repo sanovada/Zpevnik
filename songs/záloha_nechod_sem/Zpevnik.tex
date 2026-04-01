@@ -1,0 +1,80 @@
+\documentclass [twoside,a5paper,11pt]{article} % nastaveni tak aby bylo pismo dostatecne velike
+% ideální použití: 
+% 1. vytvořit vlastní textový soubor, pojmenovat ho jménem zpěvníku "jmeno_zpevniku.txt" a vložit něj jednotlivé písně podle vzoru "\add{nazev_souboru_pisne.tex}"
+%%% nazev_souboru je názem pod kterým je píseň ve správném formátu v kódování utf-8 uložená ve složce songs
+% 2.  vložit soubor s písněmi sem pomocí "\input{nazev_meho_zpevniku.txt}", taky ve správném formátu a kódování utf-8
+% 3. změnit následující příkaz tak, aby tam byla cesta ke složce, kde budou obrázky zpěvníku např: "\newcommand{\folder}{jmeno_zpevniku}"
+% 4. do uvedené složky nahrát obrázky do zpěvníku - pouze některé písně mají v sobě obrázky, vkládají se jako "nazev_souboru_pisne.eps"
+% 5. vytvořit zpěvník
+\newcommand{\folder}{images}
+
+
+
+\usepackage[a5paper, top = 0.7cm, left = 1cm, right = 1cm, bottom = 1.5cm]{geometry} % aby byly mensi okraje
+\usepackage    [utf8] {inputenc} %píšeme v utf-8, aby to pěkně jelo i linuxákům
+\usepackage	[czech]	{babel}% nějaké další potřebné balíčky
+\usepackage{guitar}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{hyperref} %tvoří interaktivní obsah - kliknutím se dostaneš na danou písničku
+
+
+\newcommand{\ch}[1]{\guitarChord{\textbf{#1}}}
+\newcommand{\song}[1]{\clearpage\newpage \subsection{#1} \begin{enumerate}}    
+\newcommand{\esong}{\end{enumerate}}
+\newcommand{\ve}{\item }
+\newcommand{\cho}[1]{\item[R:]#1}
+\newcommand{\re}[1]{\item[#1]}
+\newcommand{\add}[1]{\input{songs/#1}}
+%\newcommand*\doublepage{  %vkládá se na začátek dlouhých písniček; zajistí, že bude začínat vždy na levé stránce, jinak doplní 1 bílou.
+%  \clearpage
+%  \ifodd\value{page}
+%    \hbox{} \newpage
+%  \fi
+%}
+\newcommand*\doublepage{\cleardoublepage}
+
+\widowpenalties 1 10000 %zakáže zlom stránky uprostřed sloky
+\raggedbottom %souvisí s widowpenalties; aby tex potom nezvětšoval mezery mezi řádky
+
+\begin{document}
+
+\author{Martin a Mara}%je vidět jen zde
+\title{Zpěvník na Vánočku 2019} %název se taky nikde nezobrazuje, ale pro pořádek
+
+
+\setcounter{secnumdepth}{1} % only chapter and sections will be numbered
+\setcounter{tocdepth}{3} %== nastavení tak aby se zde v obsahu objevily pouze písně (ne sloky atd.)
+
+\newpage
+\pagestyle{plain}     % zapne obyčejné číslování
+\setcounter{page}{2}  % nastaví čítač stránek znovu od jedné a můžeme začít vkládat písně
+% většina chyb, ktré vzniknou souvisí s vkládáním obrázků - některé písně v sobě mají vložený obrázek, ale ten nenajdou protože tam není.
+% některá varování a bad boxy jsou způsobena sazbou písní (prázdné odstavce atd.). Nikdy nejsou fatální, ale možná s tím půjde něco udělat.
+% překlad se musí nastavit na tex -> ps -> pdf
+
+%\input{songs//koledy/_seznam2.txt} % možnost přidání celého textového souboru s písněmi - více písní najednou
+\newpage
+
+\pagestyle{empty}
+\tableofcontents %tady se generuje automatický obsah, tady se dá měnit. Správně se vygeneruje vždy až při druhém překladu.
+
+\add{akordy.tex} % jednotlivé písničky
+
+
+%\newpage %začátek konce - tady začíná poslední strana
+%\pagestyle{empty}
+%\vspace*{\fill} %vertikální zarovnání na střed
+%\begin{center} %horizontální zarovnání
+%Pro tábor "šablona"\\
+%v roce 2014\\
+%kolektiv schopných autorů\\
+%ve spolupráci s jazykem \TeX .\\
+%Za skautské oddíly\\[2em] %vertikální mezera velikosti 2 písmen m
+%3. roj světlušek "Světýlka"\\
+%3. smečka vlčat\\
+%20. oddíl "Králováci"\\
+%\vspace*{\fill}
+
+%\end{center}
+\end{document}

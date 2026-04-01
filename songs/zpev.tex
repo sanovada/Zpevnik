@@ -1,0 +1,140 @@
+%Optimalizovano pro tištěnou verzi:
+% - se zobrazením na dvě stránky - tištěná brožura 
+% - Je potřeba doladit zobrazení písniček, které se na 1 stránku nevešly
+% - nově (21.4.2020) je v příkazu \esong implementováno taky vložení obrázku stejného jména jako soubor písničky!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ZÁKLADNÍ NASTAVENÍ STRÁNKY %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[twoside,
+			   11pt,					% Základní velikost písma: 10pt, 11pt, 12pt
+			   notitlepage]
+			   {article}
+
+%NASTAVENÍ VELIKOSTI STRÁNKY - GEOMETRY
+\usepackage[a5paper, 					% Pro čtečku volit [papersize={135mm, 182mm}, pro běžné použití a5paper
+			top = 0.7cm,				% horní okraj
+			left = 1cm,				% levý okraj
+			right = 1cm,				% pravý okraj
+			bottom = 1.5cm]				% spodní okraj
+			{geometry}
+			
+\usepackage[utf8]{inputenc} 			% píšeme v utf-8, aby to pěkně jelo i linuxákům
+\usepackage[T1]{fontenc}				% kvůli polským písničkám (Hej sokoly)
+\usepackage[czech]{babel}				% nějaké další potřebné balíčky
+\usepackage{guitar} 					% knihovna pro akordy
+\usepackage{multicol} 					% knihovna pro více sloupců
+\usepackage{graphicx} 					% knihovna pro obrázky
+\usepackage{setspace} 					% knihovna aby šlo měnit řádkování v průběhu stránky
+\usepackage{refcount} 					% knihovna pro počítání rozdílů stránek mezi referencemi. Potřebná pro automatické přidávání bílých.
+\usepackage{calc}						% Knihovna pro nějaké výpočty a matematiku
+\usepackage{currfile}					% Knihovna pro získání jména současného souboru -- aby mohl vzít obrázek
+
+%INTERAKTIVNÍ OBSAH - HYPERREF
+\usepackage[pdfusetitle, 				% Nastavení jména PDF souboru (třeba v záhlaví dokumentu)
+			hidelinks, 					% Odkazy nebudou zvýrazněny
+			unicode=true, 				% Kódování znaků v bočním obsahu - aby se zobrazily všechny správně (unicode)
+			pdfdisplaydoctitle=true,	% Aby se zobrazoval v záhlaví název dokumentu
+			pdftoolbar=false,			% Skryje některé nástroje PDF prohlížeče
+			pdfmenubar=false,			% Skryje některé menu PDF prohlížeče
+			pdfpagelayout=TwoPageLeft,	% defaultní rozložení stránky
+			pdfwindowui=false]			% Zase něco zakáže
+			{hyperref}
+			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DEFINICE PŘÍKAZŮ, MAKER A FUNKCÍ %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\pagedifference}[2]{		% spočítá rozdíl stránek, na kterých jsou 2 dané záložky
+	\number\numexpr\getpagerefnumber{#2}-\getpagerefnumber{#1}\relax}
+
+% Podsekce (subsection) budou číslovány, ale číslo se nikde nezobrazí. Dá se však použit k odkazování se na danou sekci.
+\makeatletter
+	\def\@seccntformat#1{	
+		\csname @seccntformat#1\expandafter\endcsname\csname the#1\endcsname\quad
+	}
+	\def\@seccntformatsubsection#1#2{}
+	\def\numberline#1{}
+\makeatother
+
+% POUŽÍVANÉ PŘÍKAZY PRO SAZBU ZPĚVNÍKU
+\newcommand{\ch}[1]{\guitarChord{\textbf{#1}}}		% \ch pro akord
+\newcommand{\song}[1]{								% \song pro začátek písničky
+	\clearpage\newpage 
+	\subsection[#1]{\hyperlink{obsah}{#1}}	%dělá z nadpis hyperaktivní odkaz na 1. stránku.
+		%Chtělo by dodělat, aby vracel ne na 1., ale na tu, kde daná písnička v obsahu je.
+	\begin{enumerate}
+	}
+
+\newcommand{\ve}{\item }							% \ve pro sloku (1. ...)
+\newcommand{\cho}[1]{\item[R:]#1}				 	% \cho pro refrén R: ...)
+\newcommand{\re}[1]{\item[#1]}						% \re pro něco jiného
+\newcommand{\add}[1]{\input{songs/#1}}				% \add pro přidání písničky ze složky songs
+
+
+% Příkaz, který nafituje obrázek na zbývající místo na stránce:
+\newlength{\imgwidth}
+\newlength{\imgheight}
+\newcommand{\scalegraphics}[1]{						
+    \settowidth{\imgwidth}{\includegraphics{#1}}
+    \settoheight{\imgheight}{\includegraphics{#1}}
+    \setlength{\imgwidth}{\minof{\imgwidth}{\textwidth}}
+    \setlength{\imgheight}{\minof{\imgheight}{\the\dimexpr\pagegoal-\pagetotal\relax}}
+    \includegraphics[width=\imgwidth, height=\imgheight, keepaspectratio=true]{#1}
+}
+
+\newcommand{\pic}{							% Automaticky vloží na zbytek stránky JPG obrázek stejného jména jako má písnička
+	\IfFileExists{{images/\currfilebase}.jpg}{
+		\begin{center}
+			\vspace*{\fill}
+			\scalegraphics{{images/\currfilebase}.jpg}
+			\vspace*{\fill}
+		\end{center}
+	}
+}
+
+\newcommand{\esong}{								% \esong pro konec písničky
+	\end{enumerate} 
+	\pic{}											% vkládá obrázek, pokud existuje
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+% ZBÝVAJÍCÍ NASTAVENÍ %
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\widowpenalties 1 10000 				% zakáže zlom stránky uprostřed sloky
+\raggedbottom 							% souvisí s widowpenalties; aby TeX potom nezvětšoval mezery mezi řádky
+
+\AtBeginDocument{\renewcommand{\abstractname}{Popis}}	% Název "abstraktu", pokud je vložený
+\setcounter{tocdepth}{3} 				% Aby se v obsahu objevily pouze písně (ne sloky atd.)
+\newcommand{\folder}{images}			% Název složky s obrázky %%Zrušit!
+
+\author{Mara} 							% Autor zpěvníku
+\title{Zpěvník -- Švestka 2020}			% Název zpěvníku
+
+%%%%%%%%%%%%%%%%%%%%%
+% ZAČÁTEK DOKUMENTU %
+%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\setcounter{page}{3}  					% nastaví čítač stránek. V základu začne od 1, ale když by třeba bylo v plánu připojit ještě obálku...
+
+%Nastavení číslování stránek pro úvod a obsah
+%\pagestyle{empty}	%bez čísla
+\pagestyle{plain}	%s číslem
+
+%Vytvoření automatického obsahu. Správně se vygeneruje vždy až při druhém překladu.
+\label{obsah}
+\tableofcontents
+
+
+%Nastavení číslování stránek pro samotný zpěvník
+%\pagestyle{empty}
+\pagestyle{plain}
+
+%vložení .txt souboru se seznamem písniček
+\input{songs/_seznam2.txt} % přidání celého textového souboru s písněmi - více písní najednou
+
+
+\end{document}

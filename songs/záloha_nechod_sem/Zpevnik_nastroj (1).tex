@@ -1,0 +1,78 @@
+% Hlavička - nastavení dokumentu
+
+\documentclass[a5paper,
+		       11pt]{article} % nastaveni tak aby bylo pismo dostatecne velike
+\usepackage[a5paper,
+			top = 0.7cm,
+			left = 1cm,
+			right = 1cm,
+			bottom = 1.5cm]{geometry} % Knihovna na nastavení velikosti okrajů stránky
+\usepackage [utf8] {inputenc} % Kódování textu. Píšeme v utf-8, aby to pěkně jelo i linuxákům a všem a nedělalo to čínský znaky
+\usepackage[T1]{fontenc}
+\usepackage	[czech]	{babel} % nějaké další potřebné balíčky
+\usepackage{guitar} %knihovna pro sazbu akordů
+\usepackage{multicol} %knihovna pro možnost sazby ve více sloupcích
+\usepackage{graphicx} % knihovna pro vkládání obrázků
+\usepackage{setspace}
+
+% následuje definice maker pro přehlednější práci
+
+\newcommand{\ch}[1]{\guitarChord{\textbf{#1}}}
+\newcommand{\song}[1]{\newpage \subsection{#1} \begin{enumerate}} 
+\newcommand{\esong}{\end{enumerate}}
+\newcommand{\ve}{\item }				% sloka
+\newcommand{\cho}[1]{\item[R:]#1}		% refrén
+\newcommand{\re}[1]{\item[#1]}			% něco jiného, odstavec
+\newcommand{\add}[1]{\input{songs/#1.tex}}
+
+%widowpenalties 1 10000 %zakáže zlom stránky uprostřed sloky
+
+\author{Mara a Martin} % je zvykem vyplnit
+\title{Zpěvník -- nástroj} % taky
+
+\setcounter{secnumdepth}{1} % Nastavení, aby se nečíslovaly názvy písniček jako kapitoly
+
+\widowpenalties 1 10000 				% zakáže zlom stránky uprostřed sloky
+\raggedbottom
+
+% ZAČÁTEK SAMOTNÉHO DOKUMENTU
+\begin{document}
+
+
+\song{Amerika (Lucie)}
+
+\ve{}
+\ch{G}Nandej mi \ch{D}do hlavy tvý \ch{Ami}brouky\\
+A Bůh nám seber bezna\ch{G}děj\\
+V duši zbylo světlo z jedny holky\\
+Tak mi teď za to vynadej\\
+Zima a promarněný touhy\\
+Do vrásek stromů padá déšť\\
+Zbejvaj roky \ch{D}asi ne moc \ch{Ami}dlouhý\\
+Do vlasů mi zabroukej\ch{C}... pa pa pa \ch{G}pá\\
+pa pa pa \ch{Emi}pá, pá pa pa \ch{G}pá\\
+pa pa pa \ch{Emi}pá, pá pa pa \ch{G}pá
+ 
+\ve{}
+Tvoje oči jenom žhavý tóny\\
+Dotek slunce zapadá\\
+Horkej vítr rozezní mý zvony\\
+Do vlasů ti zabrou\ch{C}ká\\
+pa pa pa pá, pa pa pa pá, pá pa pa pá ...
+
+\ve{}
+Na obloze křídla tažnejch ptáků\\
+Tak už na svý bráchy zavolej\\
+Na tváře ti padaj slzy z mraků\\
+A Bůh nám sebral beznaděj\\
+V duši zbylo světlo z jedný holky\\
+Do vrásek stromů padá déšť\\
+Poslední dny hodiny a roky\\
+Do vlasů ti zabrouká...\\
+pa pa pa pá, pa pa pa pá, pá pa pa pá ...
+
+\esong{}
+
+\end{document}
+
+

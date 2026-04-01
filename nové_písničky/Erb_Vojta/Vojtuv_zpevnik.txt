@@ -1,0 +1,64 @@
+\add{andel.tex}
+\add{amazonka}
+\add{a_te_rehradice.tex}
+\add{banana.tex}
+%\add{batalion.tex}
+\add{bedna_od_whisky.tex}
+\add{blaznova_ukolebavka.tex}
+\add{blues_folsomske_veznice_E.tex}	%Můj děda bejval blazen
+\add{buraky.tex}
+\add{delani.tex}
+\add{dokud_se_zpiva.tex}
+\add{franky_dlouhan.tex}
+\add{hlidac_krav.tex}
+\add{hlupaku_najdu_te.tex}
+\add{ho_ho_watanay.tex}
+\add{hoja_hoj.tex}
+\add{holubi_dum_Emi.tex}
+\add{hrobar.tex}
+\add{hruska.tex}
+\add{huslicky}
+\add{jdem_zpatky_do_lesu.tex}
+\add{jdou_po_me_jdou.tex}
+\add{jednou_mi_fotr_povida.tex}
+\add{jesse_james.tex}				
+\add{jo_tresne_zraly.tex}  
+\add{jozin_z_bazin.tex}	     
+%\add{.tex}                             %junacka hymna                             
+\add{kdyby_tady_byla_takova_panenka.tex}
+\add{kdyz_nas_tata_hral.tex}   
+\add{kocabka.tex}                             %stara archa
+\add{kometa}
+\add{kozel.tex}                             %kozel, snecek
+\add{mezi_horami.tex}
+\add{mlyny.tex}          %bozi mlyny
+\add{morituri_te_salutant_E}
+\add{mravenci_ukolebavka.tex}
+\add{my_pluli_dal_a_dal.tex}          
+\add{na_kolena.tex}
+\add{nad_stadem_koni.tex}
+%\add{.tex}                             %nikdo nema zdani
+\add{okor.tex}                             %okoř
+%\add{oranzovy_expres.tex}
+\add{panenka_poutnici.tex}
+\add{promeny.tex}
+%\add{pisen_co_me_ucil_listopad.tex}
+					%píseň proti trudomyslnosti
+\add{rada_se_miluje.tex}
+\add{rana_v_trave}
+\add{rosa_na_kolejich.tex}
+\add{ruty_suty}
+\add{ruze_z_texasu.tex}
+\add{saro!_traband.tex}
+\add{sbohem_galanecko.tex}
+\add{severni_vitr.tex}
+
+\add{slavici_z_madridu.tex}
+
+\add{stanky.tex}
+\add{take_me_home_country_roads.tex}
+\add{tri_cunici.tex}
+\add{tri_krize}
+\add{v_lese}
+\add{zabili_zabili}
+\add{_hymny.tex}

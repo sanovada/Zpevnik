@@ -1,0 +1,83 @@
+1. Vytvoř pro každou novou písničku jeden .tex soubor ve složce 'nové_písničky.'
+2. Pojmenuj ho bez mezer a diakritiky, nejlepe názvem pisničky, připadně doplněným názvem autora (např. "batalion.tex", "batalion_divokej_bill.tex"), nebo akordem od kterého začíná("amazonka.tex", "amazonka_D.tex").
+3. Vyzkoušej, že tvoje nová písnička funguje v 'Zpevnik_nastroj.tex' a oprav případné chyby ve své písničce.
+4. Ulož písničku i do složky 'songs.'
+
+(5. Pokud chceš mít u písničky obrázek, nahraj ho do složkky "images" a pod poslední sloku/refrén připoj příkaz: 
+\centering \includegraphics[scale=0.x]{images/"jmeno_tveho_obrazku.png"}  
+x je velikost- prostě párkrát zkus tak, aby obrázek byl "akorát" vidět, typicky stačí 0.1-0.8 (bacha, musí to být desetinná tečka, ne čárka!!! Napíšeš ji jako normální tečku.). Obrázek nemusí být .png, může být i .jpg a možná i další, prostě vyzkoušej :D. 
+
+POZN.: U "normálních písniček" není třeba psát akordy do každé sloky, stačí nad první. Pokud je však změna nebo si to přeješ, můžeš je nadepsat i dále.
+
+POZN. 2: Text písniček určitě NEPIŠ rukou!!! To trvá strašně dlouho, najdi si někde text a ten zkopíruj :D.
+
+PSANÍ PÍSNIČKY
+V samotném souboru bude použito několik příkazů: 
+Znak '\' se píše pomocí AltGr + Q, znak '{' pomocí AltGr + B, znak '}' pomocí AltGr + N .
+
+ZAČÁTEK A KONEC:
+\song{název písničky}       - začátek písničky. Je zvykem psát \song{název písničky (název autora)}. Tím každý soubor začne.
+\esong{}		            - konec písničky. Tím soubor skončí. Do závorek {} se zde nic nepíše.
+
+SLOKA A REFRÉN:
+\ve{} 			- nová (číslovaná) sloka. Do závorek {} se zde nic nepíše (z angl. Verse)
+\cho{}			- refrén (odrážka, která rovnou napíše R:). Do závorek {} se zde nic nepíše (z angl. Chorus)
+\re{odrážka}	- jiná odrážka. Třeba prázdná (\re{}), nebo s vlastním textem (\re{*:}, \re{R2:}, \re{holky:} (angl. Rest)
+
+pozn.: po příkazu \song... musí následovat nějaký z těchto 3 odrážkových. např. "capo 3" tedy napíšu takhle:
+
+	\song{název (autor)}
+
+	\re{}
+	capo 3
+
+	\ve{}
+	sloka...
+
+
+AKORDY:
+    \ch{akord}		- akord. Bude umístěn nad následujícím znakem.
+    			- Nepíše se za ním mezera. např. "vlasy" s akordem začínajícím nad "l" budou psány jako "v\ch{akord}lasy"
+    			- v závorce zde může být i více akordů za sebou, oddělených mezerou, typicky na konci řádku, kde pokračuje nějaká mezihra ("ko\ch{akord1 akord2 akord3}nec."
+    			- pokud má akord začínat nad znakem s diakritikou (s háčkem nebo s čárkou), je potřeba tento znak uzavřít taky do {} závorek ("... \ch{akord}{Ř}eka" 
+            
+\guitarFlat{}       - napíše znak pro b (béčko), používá se uvnitř akordů
+                    - např. \ch{B\guitarFlat{}7}  bude Bb7
+\guitarSharp{}      - napíše znak pro # (křížek), používá se uvnitř akordů
+                    -např. \ch{F\guitarSharp{}maj7} bude F#maj7
+
+OBECNÉ:
+\\                  - ukončí (zalomí) řádek.
+                    -obecně NEdoporučujeme dávat na poslední řádek před novou slokou, nebo refrénem. Příkazy '\ve{}' a '\cho{}' automaticky udělají řádek mezeru. Viz ukázka níže :D.
+(prázdný řádek)	    - ukončí odstavec (vloží vertikální mezeru před další odstavec
+%                   - Udělá ze zbytku řádku poznámku, která se nevytiskne a neprojeví
+\uv{text}		    - vloží text do (českých) uvozovek
+
+A pak je spousta příkazů pro profíky.
+
+UKÁZKA:
+\song{Já s tebou žít nebudu (Nerez)}
+
+\ve{}
+\ch{Emi}Bylas' jak poslední hlt \ch{F\guitarSharp{}}vína,\\  
+\ch{H7}sladká a k ránu bolavá,\ch{Emi Edim H7}{}\\
+\ch{Emi}za nehty výčitky a špí\ch{F\guitarSharp}na,\\
+\ch{H7}{ř}íkalas': dnešní noc je tvá.\ch{Emi Edim H7}{}
+
+\cho{}
+\ch{G}Co my dva z lásky vlastně \ch{H}máme,\\
+\ch{Ami}hlubokou \ch{Edim}{š}achtou padá zd\ch{H7}viž, já říkám \uv{kiš-kiš},\\
+\ch{Emi}navrch má vždycky těžký \ch{F\guitarSharp}kámen\\
+\ch{H7}a my jsme v koncích čím dál blíž,\ch{Emi Edim H7}{}\\
+/: \ch{Emi}A me tu ha nadži vava \ch{Ami}jaj dari \ch{Edim H7}dari daj. :/
+
+\ve{}
+Zejtra tě potkám za svým stínem,\\
+neznámí známí v tramvaji,\\
+v cukrárně kávu s harlekýnem,\\
+hořká a sladká splývají.
+
+...
+
+\includegraphics[scale=0.x]{images/"nazev"}
+\esong{}

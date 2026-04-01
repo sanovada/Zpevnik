@@ -1,0 +1,31 @@
+\song{Půlnoční (Václav Neckář)}
+
+\ve{}
+\ch{D}Jedu domů po trati,jedu přes kop\ch{G}ce.\ch{A}\\
+Za okny padá,padá sníh, budou Vánoce.\\
+Chmury, trable, starosti,nechal jsem ve městě.\\
+Už slyším lidi na půlnoční,zpívat v kostele.\\
+\Hale\ch{D}luja, Hale\ch{Hmi}lu-ch{G}ja\ch{A}\\
+
+\ve{}
+Ježíš na kříži ztrápený,občas se usměje.\\
+Na ty co v zázrak uvěří,na ty co zpívají.
+Haleluja, Halelu-ja\\
+
+\cho{}
+\Beránku\ch{D}náš\ch{A} na nebe\ch{Hmi}sích,\ch{G}\\
+\stůj při\{D}nás,\ch{A}až přijde\ch{C}tma.\\
+\Hale\ch{D}luja, Hale\ch{Hmi}lu-ch{G}ja\ch{A}\\
+
+\ve{}
+Stojím v prázdném kostele,hvězdy nade mnou.\\
+Z kříže zbyl jenom stín,ale přesto slyším.\\
+Haleluja, halelu-ja\\
+
+\cho{}
+\cho{}
+\Beránku\ch{D}náš\ch{A} na nebe\ch{Hmi}sích,\ch{G}\\
+\neopouštěj\{D}nás,\ch{A}až začnem se\ch{G}bát.\\
+\Hale\ch{D}luja, Hale\ch{Hmi}lu-ch{G}ja\ch{A}\\
+\Hale\ch{D}luja, Hale\ch{Hmi}lu-ch{G}ja\ch{A}\\
+\Hale\ch{D}luja

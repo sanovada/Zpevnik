@@ -1,0 +1,1 @@
+for /f %%1 in (_seznam_kluci_2020.txt) do (echo \add{%%1}) >> _seznam_kluci.txt
