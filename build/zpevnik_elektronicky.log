@@ -1,0 +1,2989 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.16)  17 JUN 2026 20:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/kohohamak/acer_mint/old_pc_lenovo/zpěvník/zpevnik_elektronicky.tex
+(/home/kohohamak/acer_mint/old_pc_lenovo/zpěvník/zpevnik_elektronicky.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/04/15 v26.6 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count286
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen159
+\l@unhyphenated=\language89
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count287
+Package babel Info: You haven't specified a language as a class or package
+(babel)             option. I'll load 'nil'. Reported on input line 4265.
+Package babel Info: Importing font and identification data for nil
+(babel)             from babel-und-x-nil.ini. Reported on input line 4330.
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2026/04/15 v26.6 Nil language
+\l@nil=\language90
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (./guitar.sty
+Package: guitar 2025/12/15 Finalni verze - opraveny krizek a velikost
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count288
+\mult@box=\box53
+\multicol@leftmargin=\dimen162
+\c@unbalance=\count289
+\c@collectmore=\count290
+\doublecol@number=\count291
+\multicoltolerance=\count292
+\multicolpretolerance=\count293
+\full@width=\dimen163
+\page@free=\dimen164
+\premulticols=\dimen165
+\postmulticols=\dimen166
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box54
+\last@line=\box55
+\mc@boxedresult=\box56
+\maxbalancingoverflow=\dimen167
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count294
+\c@columnbadness=\count295
+\c@finalcolumnbadness=\count296
+\last@try=\dimen168
+\multicolovershoot=\dimen169
+\multicolundershoot=\dimen170
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count297
+\g__mc_curr_col_int=\count298
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count299
+\calc@Bcount=\count300
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count301
+\calc@Cskip=\skip55
+) (/usr/share/texlive/texmf-dist/tex/latex/currfile/currfile.sty
+Package: currfile 2024/03/14 v1.0 Provides the file path elements of the current input file
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2022/10/25 v0.8b Hooks for input files
+ (/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook-2020.sty
+Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
+))
+\c@currfiledepth=\count302
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-04-24 v7.01q Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count303
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count304
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count305
+\Hy@pagecounter=\count306
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-04-24 v7.01q Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count307
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-04-24 v7.01q Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `pdfusetitle' set `true' on input line 4070.
+Package hyperref Info: Option `unicode' set `true' on input line 4070.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 4070.
+Package hyperref Info: Option `pdftoolbar' set `false' on input line 4070.
+Package hyperref Info: Option `pdfmenubar' set `false' on input line 4070.
+Package hyperref Info: Option `pdfwindowui' set `false' on input line 4070.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count308
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen174
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count309
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count310
+\c@Item=\count311
+\c@Hfootnote=\count312
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-04-24 v7.01q Hyperref driver for pdfTeX
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip56
+)
+\imgwidth=\skip57
+\imgheight=\skip58
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+) (build/zpevnik_elektronicky.aux)
+\openout1 = `zpevnik_elektronicky.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(14.22636pt, 392.64806pt, 14.22636pt)
+* v-part:(T,H,B)=(14.22636pt, 540.60239pt, 42.67912pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=392.64806pt
+* \textheight=540.60239pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-95.04362pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count316
+\scratchdimen=\dimen177
+\scratchbox=\box99
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen178
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 135.
+ (build/zpevnik_elektronicky.out) (build/zpevnik_elektronicky.out)
+\@outlinefile=\write3
+\openout3 = `zpevnik_elektronicky.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 142.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 142.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 142.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (build/zpevnik_elektronicky.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+ [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14])
+\tf@toc=\write4
+\openout4 = `zpevnik_elektronicky.toc'.
+
+ (./songs/_seznam2.txt (./songs/9_crimes.tex [15]) (./songs/akordy.tex [16
+
+]) (./songs/alenka_v_risi_divu.tex [17
+
+]) (./songs/alison_gross.tex [18
+
+] [19
+
+]) (./songs/all_my_loving.tex [20]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+) (./songs/amazonka.tex [21
+
+]) (./songs/amazonka_(D).tex [22
+
+]) (./songs/amerika.tex [23
+
+]) (./songs/amnestie.tex [24
+
+]) (./songs/amor_magor.tex [25
+
+]) (./songs/andel.tex [26
+
+]) (./songs/andele_nade_mnou_bdi.tex [27
+
+]) (./songs/andel_mirai.tex [28
+
+]) (./songs/andelska.tex [29
+
+]) (./songs/andulce_z_becka.tex [30
+
+]) (./songs/angel_robbie_williams.tex [31
+
+]) (./songs/antidepresivni_rybicka.tex [32
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./songs/at_pozehnan_je_buh.tex [33
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+<images/at_pozehnan_je_buh.jpg, id=2893, 385.44pt x 385.44pt>
+File: images/at_pozehnan_je_buh.jpg Graphic file (type jpg)
+<use images/at_pozehnan_je_buh.jpg>
+Package pdftex.def Info: images/at_pozehnan_je_buh.jpg  used on input line 42.
+(pdftex.def)             Requested size: 385.43906pt x 385.43906pt.
+File: images/at_pozehnan_je_buh.jpg Graphic file (type jpg)
+<use images/at_pozehnan_je_buh.jpg>
+Package pdftex.def Info: images/at_pozehnan_je_buh.jpg  used on input line 42.
+(pdftex.def)             Requested size: 385.43906pt x 385.43906pt.
+File: images/at_pozehnan_je_buh.jpg Graphic file (type jpg)
+<use images/at_pozehnan_je_buh.jpg>
+Package pdftex.def Info: images/at_pozehnan_je_buh.jpg  used on input line 42.
+(pdftex.def)             Requested size: 89.06691pt x 89.06691pt.
+) (./songs/auld_lang_syne.tex [34
+
+ <./images/at_pozehnan_je_buh.jpg>]) (./songs/az_se_zepta_rano.tex [35
+
+]) (./songs/a_od_tech_casu.tex [36
+
+]) (./songs/a_pak.tex [37
+
+]
+<images/a_pak.jpg, id=2931, 238.64156pt x 110.66344pt>
+File: images/a_pak.jpg Graphic file (type jpg)
+<use images/a_pak.jpg>
+Package pdftex.def Info: images/a_pak.jpg  used on input line 24.
+(pdftex.def)             Requested size: 238.64096pt x 110.66315pt.
+File: images/a_pak.jpg Graphic file (type jpg)
+<use images/a_pak.jpg>
+Package pdftex.def Info: images/a_pak.jpg  used on input line 24.
+(pdftex.def)             Requested size: 238.64096pt x 110.66315pt.
+File: images/a_pak.jpg Graphic file (type jpg)
+<use images/a_pak.jpg>
+Package pdftex.def Info: images/a_pak.jpg  used on input line 24.
+(pdftex.def)             Requested size: 238.64096pt x 110.66315pt.
+) (./songs/a_pohadky_je_konec.tex [38
+
+ <./images/a_pak.jpg>]) (./songs/a_te_rehradice.tex [39
+
+]) (./songs/a_thousand_years.tex [40
+
+]) (./songs/babylon.tex [41
+
+] [42
+
+] [43
+
+]) (./songs/baletka.tex [44]) (./songs/banka.tex [45
+
+]) (./songs/bara.tex [46
+
+]) (./songs/barbora_pise_z_tabora.tex [47
+
+] [48
+
+] [49
+
+]) (./songs/barevny_svet.tex [50]
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+) (./songs/batalion.tex [51
+
+]
+<images/batalion.jpg, id=3038, 266.9975pt x 481.8pt>
+File: images/batalion.jpg Graphic file (type jpg)
+<use images/batalion.jpg>
+Package pdftex.def Info: images/batalion.jpg  used on input line 33.
+(pdftex.def)             Requested size: 266.99683pt x 481.79881pt.
+File: images/batalion.jpg Graphic file (type jpg)
+<use images/batalion.jpg>
+Package pdftex.def Info: images/batalion.jpg  used on input line 33.
+(pdftex.def)             Requested size: 266.99683pt x 481.79881pt.
+File: images/batalion.jpg Graphic file (type jpg)
+<use images/batalion.jpg>
+Package pdftex.def Info: images/batalion.jpg  used on input line 33.
+(pdftex.def)             Requested size: 113.08334pt x 204.0602pt.
+) (./songs/batalion_bill.tex [52
+
+ <./images/batalion.jpg>]) (./songs/battledress.tex [53
+
+] [54
+
+] [55
+
+]) (./songs/beda_porazenym.tex [56]) (./songs/bedna_od_whisky.tex [57
+
+]) (./songs/bily_sex.tex [58
+
+]) (./songs/blay_nelly.tex [59
+
+]) (./songs/blaznova_ukolebavka.tex [60
+
+]) (./songs/blbej_den.tex [61
+
+] [62
+
+] [63
+
+]) (./songs/blizko_little_big_hornu.tex [64]) (./songs/blowing_in_the_wind.tex [65
+
+]) (./songs/blues_folsomske_veznice.tex [66
+
+]) (./songs/blues_na_cestu_posledni.tex [67
+
+]) (./songs/boty_proti_lasce.tex [68
+
+]) (./songs/bratricku_zavirej_vratka.tex [69
+
+]) (./songs/brej_den.tex [70
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+ []
+
+) (./songs/buchet_je_spousta.tex [71
+
+]) (./songs/bude_mi_lehka_zem.tex [72
+
+]) (./songs/bud_a_nebe.tex [73
+
+]) (./songs/buh_v_nas.tex [74
+
+]) (./songs/carodejnice_z_amesbury.tex [75
+
+]) (./songs/carpe_diem.tex [76
+
+]) (./songs/castle_on_the_hill.tex [77
+
+] [78
+
+] [79
+
+]) (./songs/castusky.tex [80]) (./songs/cernej_pasazer.tex [81
+
+]) (./songs/cert_vi_proc.tex [82
+
+]) (./songs/cesta.tex [83
+
+]) (./songs/cestou_do_jenkovic.tex [84
+
+]) (./songs/cest_la_vie.tex [85
+
+]) (./songs/chci_tancit.tex [86
+
+]) (./songs/chci_ti_rict.tex [87
+
+]) (./songs/chci_zas_v_tobe_spat.tex [88
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[89
+
+]) (./songs/chvile.tex [90]
+<images/chvile.jpg, id=3350, 1003.75pt x 1003.75pt>
+File: images/chvile.jpg Graphic file (type jpg)
+<use images/chvile.jpg>
+Package pdftex.def Info: images/chvile.jpg  used on input line 33.
+(pdftex.def)             Requested size: 1003.74756pt x 1003.74756pt.
+File: images/chvile.jpg Graphic file (type jpg)
+<use images/chvile.jpg>
+Package pdftex.def Info: images/chvile.jpg  used on input line 33.
+(pdftex.def)             Requested size: 1003.74756pt x 1003.74756pt.
+File: images/chvile.jpg Graphic file (type jpg)
+<use images/chvile.jpg>
+Package pdftex.def Info: images/chvile.jpg  used on input line 33.
+(pdftex.def)             Requested size: 180.13115pt x 180.13115pt.
+) (./songs/cokolada.tex [91
+
+ <./images/chvile.jpg>]) (./songs/colorado.tex [92
+
+]) (./songs/co_kdyz.tex [93
+
+]) (./songs/ctyri_slunce.tex [94
+
+]
+<images/ctyri_slunce.jpg, id=3389, 162.6075pt x 145.29282pt>
+File: images/ctyri_slunce.jpg Graphic file (type jpg)
+<use images/ctyri_slunce.jpg>
+Package pdftex.def Info: images/ctyri_slunce.jpg  used on input line 34.
+(pdftex.def)             Requested size: 162.6071pt x 145.29245pt.
+File: images/ctyri_slunce.jpg Graphic file (type jpg)
+<use images/ctyri_slunce.jpg>
+Package pdftex.def Info: images/ctyri_slunce.jpg  used on input line 34.
+(pdftex.def)             Requested size: 162.6071pt x 145.29245pt.
+File: images/ctyri_slunce.jpg Graphic file (type jpg)
+<use images/ctyri_slunce.jpg>
+Package pdftex.def Info: images/ctyri_slunce.jpg  used on input line 34.
+(pdftex.def)             Requested size: 162.6195pt x 145.30353pt.
+) (./songs/cudzinka_v_tvojej_zemi.tex [95
+
+ <./images/ctyri_slunce.jpg>] [96
+
+] [97
+
+]) (./songs/cukrarska_bossanova.tex [98]) (./songs/cundr.tex [99
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+<images/cundr.jpg, id=3430, 189.70876pt x 268.00125pt>
+File: images/cundr.jpg Graphic file (type jpg)
+<use images/cundr.jpg>
+Package pdftex.def Info: images/cundr.jpg  used on input line 80.
+(pdftex.def)             Requested size: 189.70828pt x 268.00058pt.
+File: images/cundr.jpg Graphic file (type jpg)
+<use images/cundr.jpg>
+Package pdftex.def Info: images/cundr.jpg  used on input line 80.
+(pdftex.def)             Requested size: 189.70828pt x 268.00058pt.
+File: images/cundr.jpg Graphic file (type jpg)
+<use images/cundr.jpg>
+Package pdftex.def Info: images/cundr.jpg  used on input line 80.
+(pdftex.def)             Requested size: 46.49207pt x 65.67928pt.
+[100
+
+]) (./songs/dabel_a_syn.tex [101 <./images/cundr.jpg>] [102
+
+] [103
+
+]) (./songs/dablovy_namluvy.tex [104] [105
+
+]) (./songs/dajana.tex) (./songs/danse_macabre.tex [106
+
+]) (./songs/darmodej.tex [107
+
+] [108
+
+] [109
+
+]) (./songs/davno.tex [110]) (./songs/dej_mi_vic_sve_lasky.tex [111
+
+]) (./songs/dekuji.tex [112
+
+] [113
+
+]) (./songs/demons.tex [114]) (./songs/desatero.tex [115
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+) (./songs/dezolat.tex [116
+
+]) (./songs/de_nimes.tex [117
+
+]
+<images/_de_nimes.png, id=3581, 1867.97874pt x 4308.095pt>
+File: images/_de_nimes.png Graphic file (type png)
+<use images/_de_nimes.png>
+Package pdftex.def Info: images/_de_nimes.png  used on input line 53.
+(pdftex.def)             Requested size: 177.63649pt x 409.6677pt.
+) (./songs/diga_diga_dou.tex [118
+
+ <./images/_de_nimes.png>]) (./songs/divokej_horskej_tymian(C).tex [119
+
+]) (./songs/divokej_horskej_tymian.tex [120
+
+]) (./songs/dlazebni_kostka.tex [121
+
+]) (./songs/dlouhej_kour.tex [122
+
+]) (./songs/dobrak_od_kosti.tex [123
+
+]) (./songs/dobrej_vitr.tex [124
+
+]) (./songs/dobry_kafe.tex [125
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+
+ []
+
+) (./songs/dokud_se_zpiva.tex [126
+
+]) (./songs/domu.tex [127
+
+]) (./songs/dont_think_twice_its_all_right.tex [128
+
+]) (./songs/dopis.tex [129
+
+] [130
+
+] [131
+
+]) (./songs/drevo.tex [132] [133
+
+]
+<images/drevo.jpg, id=3713, 1627.07875pt x 1630.09pt>
+File: images/drevo.jpg Graphic file (type jpg)
+<use images/drevo.jpg>
+Package pdftex.def Info: images/drevo.jpg  used on input line 60.
+(pdftex.def)             Requested size: 1627.07478pt x 1630.08603pt.
+File: images/drevo.jpg Graphic file (type jpg)
+<use images/drevo.jpg>
+Package pdftex.def Info: images/drevo.jpg  used on input line 60.
+(pdftex.def)             Requested size: 1627.07478pt x 1630.08603pt.
+File: images/drevo.jpg Graphic file (type jpg)
+<use images/drevo.jpg>
+Package pdftex.def Info: images/drevo.jpg  used on input line 60.
+(pdftex.def)             Requested size: 392.64201pt x 393.36868pt.
+) (./songs/drnova_chajda.tex [134 <./images/drevo.jpg>]) (./songs/drunken_sailor.tex [135
+
+]) (./songs/dum_u_vychazejiciho_slunce.tex [136
+
+]) (./songs/dva_havrani.tex [137
+
+]) (./songs/dve_spaleny_srdce.tex [138
+
+]
+<images/dve_spaleny_srdce.jpg, id=3764, 229.85875pt x 220.825pt>
+File: images/dve_spaleny_srdce.jpg Graphic file (type jpg)
+<use images/dve_spaleny_srdce.jpg>
+Package pdftex.def Info: images/dve_spaleny_srdce.jpg  used on input line 27.
+(pdftex.def)             Requested size: 229.85817pt x 220.82445pt.
+File: images/dve_spaleny_srdce.jpg Graphic file (type jpg)
+<use images/dve_spaleny_srdce.jpg>
+Package pdftex.def Info: images/dve_spaleny_srdce.jpg  used on input line 27.
+(pdftex.def)             Requested size: 229.85817pt x 220.82445pt.
+File: images/dve_spaleny_srdce.jpg Graphic file (type jpg)
+<use images/dve_spaleny_srdce.jpg>
+Package pdftex.def Info: images/dve_spaleny_srdce.jpg  used on input line 27.
+(pdftex.def)             Requested size: 214.78354pt x 206.34227pt.
+) (./songs/ekosong.tex [139
+
+ <./images/dve_spaleny_srdce.jpg>]) (./songs/eldorado.tex [140
+
+]) (./songs/este_si_ja_pohar_vina.tex [141
+
+]) (./songs/este_som_sa_neozenil.tex [142
+
+]) (./songs/falling_slowly.tex [143
+
+]) (./songs/franky_dlouhan.tex [144
+
+]) (./songs/gastrosexual.tex [145
+
+]) (./songs/gorale.tex [146
+
+]) (./songs/gronska_pisnicka.tex [147
+
+]) (./songs/hadej.tex [148
+
+]) (./songs/hajny_je_lesa_pan.tex [149
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+) (./songs/haleluja_slava.tex [150
+
+]) (./songs/hallelujah.tex [151
+
+]) (./songs/hanging_tree.tex [152
+
+]) (./songs/hejkal.tex [153
+
+]
+<images/hejkal.jpg, id=3896, 867.24pt x 867.24pt>
+File: images/hejkal.jpg Graphic file (type jpg)
+<use images/hejkal.jpg>
+Package pdftex.def Info: images/hejkal.jpg  used on input line 33.
+(pdftex.def)             Requested size: 867.2379pt x 867.2379pt.
+File: images/hejkal.jpg Graphic file (type jpg)
+<use images/hejkal.jpg>
+Package pdftex.def Info: images/hejkal.jpg  used on input line 33.
+(pdftex.def)             Requested size: 867.2379pt x 867.2379pt.
+File: images/hejkal.jpg Graphic file (type jpg)
+<use images/hejkal.jpg>
+Package pdftex.def Info: images/hejkal.jpg  used on input line 33.
+(pdftex.def)             Requested size: 117.89279pt x 117.89279pt.
+) (./songs/hej_jude.tex [154
+
+ <./images/hejkal.jpg>]) (./songs/hejna_vcel.tex [155
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+
+ []
+
+) (./songs/hejno_vran.tex [156
+
+]) (./songs/hej_sokoly.tex [157
+
+]) (./songs/hej_teto.tex [158
+
+]
+<images/hej_teto.jpg, id=3941, 1084.05pt x 1124.2pt>
+File: images/hej_teto.jpg Graphic file (type jpg)
+<use images/hej_teto.jpg>
+Package pdftex.def Info: images/hej_teto.jpg  used on input line 70.
+(pdftex.def)             Requested size: 1084.04736pt x 1124.19727pt.
+File: images/hej_teto.jpg Graphic file (type jpg)
+<use images/hej_teto.jpg>
+Package pdftex.def Info: images/hej_teto.jpg  used on input line 70.
+(pdftex.def)             Requested size: 1084.04736pt x 1124.19727pt.
+File: images/hej_teto.jpg Graphic file (type jpg)
+<use images/hej_teto.jpg>
+Package pdftex.def Info: images/hej_teto.jpg  used on input line 70.
+(pdftex.def)             Requested size: 113.58876pt x 117.79575pt.
+) (./songs/hello.tex [159
+
+ <./images/hej_teto.jpg>] [160
+
+] [161
+
+]) (./songs/hlavne_ze_sme_na_vzduchu.tex [162]
+Underfull \hbox (badness 10000) in paragraph at lines 6--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
+
+ []
+
+<images/hlavne_ze_sme_na_vzduchu.jpg, id=3971, 409.53pt x 327.2225pt>
+File: images/hlavne_ze_sme_na_vzduchu.jpg Graphic file (type jpg)
+<use images/hlavne_ze_sme_na_vzduchu.jpg>
+Package pdftex.def Info: images/hlavne_ze_sme_na_vzduchu.jpg  used on input line 45.
+(pdftex.def)             Requested size: 177.63649pt x 141.9362pt.
+File: images/hlavne_ze_sme_na_vzduchu.jpg Graphic file (type jpg)
+<use images/hlavne_ze_sme_na_vzduchu.jpg>
+Package pdftex.def Info: images/hlavne_ze_sme_na_vzduchu.jpg  used on input line 48.
+(pdftex.def)             Requested size: 409.52899pt x 327.2217pt.
+File: images/hlavne_ze_sme_na_vzduchu.jpg Graphic file (type jpg)
+<use images/hlavne_ze_sme_na_vzduchu.jpg>
+Package pdftex.def Info: images/hlavne_ze_sme_na_vzduchu.jpg  used on input line 48.
+(pdftex.def)             Requested size: 409.52899pt x 327.2217pt.
+File: images/hlavne_ze_sme_na_vzduchu.jpg Graphic file (type jpg)
+<use images/hlavne_ze_sme_na_vzduchu.jpg>
+Package pdftex.def Info: images/hlavne_ze_sme_na_vzduchu.jpg  used on input line 48.
+(pdftex.def)             Requested size: 30.57594pt x 24.43077pt.
+[163
+
+ <./images/hlavne_ze_sme_na_vzduchu.jpg>]) (./songs/hned_ted.tex [164]) (./songs/hoden_jsi.tex [165
+
+]
+<images/hoden_jsi.jpg, id=3993, 781.41937pt x 1005.7575pt>
+File: images/hoden_jsi.jpg Graphic file (type jpg)
+<use images/hoden_jsi.jpg>
+Package pdftex.def Info: images/hoden_jsi.jpg  used on input line 30.
+(pdftex.def)             Requested size: 781.41747pt x 1005.75505pt.
+File: images/hoden_jsi.jpg Graphic file (type jpg)
+<use images/hoden_jsi.jpg>
+Package pdftex.def Info: images/hoden_jsi.jpg  used on input line 30.
+(pdftex.def)             Requested size: 781.41747pt x 1005.75505pt.
+File: images/hoden_jsi.jpg Graphic file (type jpg)
+<use images/hoden_jsi.jpg>
+Package pdftex.def Info: images/hoden_jsi.jpg  used on input line 30.
+(pdftex.def)             Requested size: 152.31058pt x 196.03752pt.
+) (./songs/hodinovy_hotel.tex [166
+
+ <./images/hoden_jsi.jpg>]) (./songs/hoja_hoj.tex [167
+
+]) (./songs/holka_nebo_kluk.tex [168
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+) (./songs/holubi_dum.tex [169
+
+]
+<images/holubi_dum.jpg, id=4027, 286.82156pt x 344.78813pt>
+File: images/holubi_dum.jpg Graphic file (type jpg)
+<use images/holubi_dum.jpg>
+Package pdftex.def Info: images/holubi_dum.jpg  used on input line 41.
+(pdftex.def)             Requested size: 177.63649pt x 213.54019pt.
+File: images/holubi_dum.jpg Graphic file (type jpg)
+<use images/holubi_dum.jpg>
+Package pdftex.def Info: images/holubi_dum.jpg  used on input line 43.
+(pdftex.def)             Requested size: 286.82085pt x 344.78728pt.
+File: images/holubi_dum.jpg Graphic file (type jpg)
+<use images/holubi_dum.jpg>
+Package pdftex.def Info: images/holubi_dum.jpg  used on input line 43.
+(pdftex.def)             Requested size: 286.82085pt x 344.78728pt.
+File: images/holubi_dum.jpg Graphic file (type jpg)
+<use images/holubi_dum.jpg>
+Package pdftex.def Info: images/holubi_dum.jpg  used on input line 43.
+(pdftex.def)             Requested size: 67.70943pt x 81.39348pt.
+ [170
+
+ <./images/holubi_dum.jpg>]) (./songs/horkosladka_komedie.tex [171]) (./songs/houby_magicky.tex [172
+
+]) (./songs/house_of_gold.tex [173
+
+]) (./songs/how_far_ill_go.tex [174
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+
+ []
+
+[175
+
+]
+<images/how_far_ill_go.jpg, id=4077, 481.8pt x 517.935pt>
+File: images/how_far_ill_go.jpg Graphic file (type jpg)
+<use images/how_far_ill_go.jpg>
+Package pdftex.def Info: images/how_far_ill_go.jpg  used on input line 46.
+(pdftex.def)             Requested size: 481.79881pt x 517.93372pt.
+File: images/how_far_ill_go.jpg Graphic file (type jpg)
+<use images/how_far_ill_go.jpg>
+Package pdftex.def Info: images/how_far_ill_go.jpg  used on input line 46.
+(pdftex.def)             Requested size: 481.79881pt x 517.93372pt.
+File: images/how_far_ill_go.jpg Graphic file (type jpg)
+<use images/how_far_ill_go.jpg>
+Package pdftex.def Info: images/how_far_ill_go.jpg  used on input line 46.
+(pdftex.def)             Requested size: 387.771pt x 416.8538pt.
+ [176]) (./songs/ho_ho_watanay.tex [177 <./images/How_far_ill_go.jpg>]) (./songs/ho_ho_watanay_D.tex [178
+
+]) (./songs/hrobar.tex [179
+
+]) (./songs/hruska.tex [180
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5--9
+
+ []
+
+<images/hruska.jpg, id=4120, 300.12125pt x 451.6875pt>
+File: images/hruska.jpg Graphic file (type jpg)
+<use images/hruska.jpg>
+Package pdftex.def Info: images/hruska.jpg  used on input line 24.
+(pdftex.def)             Requested size: 300.12051pt x 451.68639pt.
+File: images/hruska.jpg Graphic file (type jpg)
+<use images/hruska.jpg>
+Package pdftex.def Info: images/hruska.jpg  used on input line 24.
+(pdftex.def)             Requested size: 300.12051pt x 451.68639pt.
+File: images/hruska.jpg Graphic file (type jpg)
+<use images/hruska.jpg>
+Package pdftex.def Info: images/hruska.jpg  used on input line 24.
+(pdftex.def)             Requested size: 194.33005pt x 292.46996pt.
+) (./songs/hudsonsky_sify.tex [181
+
+ <./images/hruska.jpg>]) (./songs/hvezdar.tex [182
+
+]
+<images/hvezdar.jpg, id=4141, 192.72pt x 144.54pt>
+File: images/hvezdar.jpg Graphic file (type jpg)
+<use images/hvezdar.jpg>
+Package pdftex.def Info: images/hvezdar.jpg  used on input line 45.
+(pdftex.def)             Requested size: 192.71951pt x 144.53963pt.
+File: images/hvezdar.jpg Graphic file (type jpg)
+<use images/hvezdar.jpg>
+Package pdftex.def Info: images/hvezdar.jpg  used on input line 45.
+(pdftex.def)             Requested size: 192.71951pt x 144.53963pt.
+File: images/hvezdar.jpg Graphic file (type jpg)
+<use images/hvezdar.jpg>
+Package pdftex.def Info: images/hvezdar.jpg  used on input line 45.
+(pdftex.def)             Requested size: 111.68062pt x 83.76045pt.
+) (./songs/hvezda_na_vrbe.tex [183
+
+ <./images/hvezdar.jpg>]) (./songs/hymna_svetlusek.tex [184
+
+]) (./songs/igor_pelech.tex [185
+
+] [186
+
+] [187
+
+]) (./songs/ikarus.tex [188]) (./songs/island.tex [189
+
+]) (./songs/i_cesta_muze_byt_cil.tex [190
+
+]) (./songs/jablone.tex [191
+
+]) (./songs/jarni_tani.tex [192
+
+]) (./songs/jaro_(fesaci).tex [193
+
+]) (./songs/jaro_priessnitz.tex [194
+
+]) (./songs/jasna_zprava.tex [195
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
+
+ []
+
+) (./songs/javor.tex [196
+
+]) (./songs/ja_a_dabel.tex [197
+
+] [198
+
+] [199
+
+]) (./songs/ja_budu_chodit_po_spickach.tex [200]) (./songs/ja_chci_poezii.tex [201
+
+]) (./songs/ja_na_tom_delam.tex [202
+
+]) (./songs/ja_pisnicka.tex [203]) (./songs/ja_s_tebou_zit_nebudu.tex [204
+
+]) (./songs/jdem_zpatky_do_lesu.tex [205
+
+]) (./songs/jdi_za_stestim.tex [206
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
+
+ []
+
+) (./songs/jdou_po_me_jdou.tex [207
+
+]) (./songs/jednoducha.tex [208
+
+]) (./songs/jednou.tex [209
+
+]) (./songs/jednou_mi_fotr_povida.tex [210
+
+]) (./songs/jelen.tex [211
+
+]
+<images/jelen.jpg, id=4367, 572.1375pt x 787.94376pt>
+File: images/jelen.jpg Graphic file (type jpg)
+<use images/jelen.jpg>
+Package pdftex.def Info: images/jelen.jpg  used on input line 56.
+(pdftex.def)             Requested size: 572.1361pt x 787.94183pt.
+File: images/jelen.jpg Graphic file (type jpg)
+<use images/jelen.jpg>
+Package pdftex.def Info: images/jelen.jpg  used on input line 56.
+(pdftex.def)             Requested size: 572.1361pt x 787.94183pt.
+File: images/jelen.jpg Graphic file (type jpg)
+<use images/jelen.jpg>
+Package pdftex.def Info: images/jelen.jpg  used on input line 56.
+(pdftex.def)             Requested size: 177.52666pt x 244.48848pt.
+) (./songs/jericho.tex [212
+
+ <./images/jelen.jpg>]) (./songs/jesse_james.tex [213
+
+]) (./songs/jeste_jedno_kafe.tex [214
+
+]) (./songs/jeste_jednu_noc.tex [215
+
+]) (./songs/jeste_mi_chvilku_zpivej.tex [216
+
+]) (./songs/jeste_mi_schazis.tex [217
+
+]) (./songs/jezisek.tex [218
+
+]) (./songs/je_to_tak.tex [219
+
+] [220
+
+] [221
+
+]) (./songs/jidas.tex [222]) (./songs/jo_tresne_zraly.tex [223
+
+]) (./songs/johanka.tex [224
+
+]) (./songs/john_brown.tex [225
+
+]) (./songs/jozin_z_bazin.tex [226
+
+]
+<images/jozin_z_bazin.jpg, id=4490, 1405.25pt x 904.37875pt>
+File: images/jozin_z_bazin.jpg Graphic file (type jpg)
+<use images/jozin_z_bazin.jpg>
+Package pdftex.def Info: images/jozin_z_bazin.jpg  used on input line 40.
+(pdftex.def)             Requested size: 1405.24658pt x 904.37656pt.
+File: images/jozin_z_bazin.jpg Graphic file (type jpg)
+<use images/jozin_z_bazin.jpg>
+Package pdftex.def Info: images/jozin_z_bazin.jpg  used on input line 40.
+(pdftex.def)             Requested size: 1405.24658pt x 904.37656pt.
+File: images/jozin_z_bazin.jpg Graphic file (type jpg)
+<use images/jozin_z_bazin.jpg>
+Package pdftex.def Info: images/jozin_z_bazin.jpg  used on input line 40.
+(pdftex.def)             Requested size: 112.59383pt x 72.46217pt.
+) (./songs/karavana_mraku.tex [227
+
+ <./images/jozin_z_bazin.jpg>]) (./songs/karneval.tex [228
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+
+ []
+
+) (./songs/kaubojuv_narek.tex [229
+
+]) (./songs/kazde_rano.tex [230
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+) (./songs/kazdy_rano.tex [231
+
+] [232
+
+] [233
+
+]) (./songs/kdo_na_moje_misto.tex [234]) (./songs/kdyby_nam_v_palaci.tex [235
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+) (./songs/kdyby_tady_byla_takova_panenka.tex [236
+
+]) (./songs/kdyz_me_brali_za_vojaka.tex [237
+
+]) (./songs/kdyz_nemuzes_tak_pridej.tex [238
+
+]) (./songs/kdyz_prijdou_chvile.tex [239
+
+]
+<images/kdyz_prijdou_chvile.jpg, id=4597, 225.84375pt x 109.1578pt>
+File: images/kdyz_prijdou_chvile.jpg Graphic file (type jpg)
+<use images/kdyz_prijdou_chvile.jpg>
+Package pdftex.def Info: images/kdyz_prijdou_chvile.jpg  used on input line 31.
+(pdftex.def)             Requested size: 225.84319pt x 109.15753pt.
+File: images/kdyz_prijdou_chvile.jpg Graphic file (type jpg)
+<use images/kdyz_prijdou_chvile.jpg>
+Package pdftex.def Info: images/kdyz_prijdou_chvile.jpg  used on input line 31.
+(pdftex.def)             Requested size: 225.84319pt x 109.15753pt.
+File: images/kdyz_prijdou_chvile.jpg Graphic file (type jpg)
+<use images/kdyz_prijdou_chvile.jpg>
+Package pdftex.def Info: images/kdyz_prijdou_chvile.jpg  used on input line 31.
+(pdftex.def)             Requested size: 225.84319pt x 109.15753pt.
+) (./songs/kdyz_si_te_divko_predstavim.tex [240
+
+ <./images/kdyz_prijdou_chvile.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 5--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+) (./songs/kdy_vzletnu_ja.tex [241
+
+]) (./songs/klada.tex [242
+
+]
+<images/klada.jpg, id=4624, 1927.2pt x 1362.08875pt>
+File: images/klada.jpg Graphic file (type jpg)
+<use images/klada.jpg>
+Package pdftex.def Info: images/klada.jpg  used on input line 34.
+(pdftex.def)             Requested size: 1927.19533pt x 1362.08543pt.
+File: images/klada.jpg Graphic file (type jpg)
+<use images/klada.jpg>
+Package pdftex.def Info: images/klada.jpg  used on input line 34.
+(pdftex.def)             Requested size: 1927.19533pt x 1362.08543pt.
+File: images/klada.jpg Graphic file (type jpg)
+<use images/klada.jpg>
+Package pdftex.def Info: images/klada.jpg  used on input line 34.
+(pdftex.def)             Requested size: 225.28447pt x 159.22449pt.
+) (./songs/kladivo.tex [243
+
+ <./images/klada.jpg>]) (./songs/klara.tex [244
+
+]) (./songs/klidna_jako_voda.tex [245
+
+]) (./songs/klukem_byt.tex [246
+
+]) (./songs/kluziste.tex [247
+
+]
+<images/kluziste.jpg, id=4668, 376.40625pt x 335.2525pt>
+File: images/kluziste.jpg Graphic file (type jpg)
+<use images/kluziste.jpg>
+Package pdftex.def Info: images/kluziste.jpg  used on input line 32.
+(pdftex.def)             Requested size: 376.40532pt x 335.25168pt.
+File: images/kluziste.jpg Graphic file (type jpg)
+<use images/kluziste.jpg>
+Package pdftex.def Info: images/kluziste.jpg  used on input line 32.
+(pdftex.def)             Requested size: 376.40532pt x 335.25168pt.
+File: images/kluziste.jpg Graphic file (type jpg)
+<use images/kluziste.jpg>
+Package pdftex.def Info: images/kluziste.jpg  used on input line 32.
+(pdftex.def)             Requested size: 198.62134pt x 176.90541pt.
+) (./songs/knockin_on_heavens_door.tex [248
+
+ <./images/kluziste.jpg>]) (./songs/kocovni_herci.tex [249
+
+]) (./songs/kohout.tex [250
+
+]) (./songs/kometa.tex [251
+
+]) (./songs/kosilka.tex [252
+
+]) (./songs/kral_a_klaun.tex [253
+
+] [254
+
+] [255
+
+]) (./songs/kratky_popis_leta.tex [256]) (./songs/kridla_like_it.tex [257
+
+]) (./songs/kridla_motyli.tex [258
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+[259
+
+]) (./songs/kruta_valka.tex [260]) (./songs/kurtizana.tex [261
+
+]) (./songs/kutil.tex [262
+
+]
+<images/kutil.jpg, id=4780, 250.9375pt x 202.7575pt>
+File: images/kutil.jpg Graphic file (type jpg)
+<use images/kutil.jpg>
+Package pdftex.def Info: images/kutil.jpg  used on input line 30.
+(pdftex.def)             Requested size: 250.93687pt x 202.757pt.
+File: images/kutil.jpg Graphic file (type jpg)
+<use images/kutil.jpg>
+Package pdftex.def Info: images/kutil.jpg  used on input line 30.
+(pdftex.def)             Requested size: 250.93687pt x 202.757pt.
+File: images/kutil.jpg Graphic file (type jpg)
+<use images/kutil.jpg>
+Package pdftex.def Info: images/kutil.jpg  used on input line 30.
+(pdftex.def)             Requested size: 250.94452pt x 202.76318pt.
+) (./songs/kytka.tex [263
+
+ <./images/kutil.jpg>]) (./songs/lachtani.tex [264
+
+]) (./songs/lady_in_black.tex [265
+
+] [266
+
+] [267
+
+]) (./songs/LAG_song.tex [268]) (./songs/lajos.tex [269
+
+]
+<images/lajos.jpg, id=4833, 225.84375pt x 225.84375pt>
+File: images/lajos.jpg Graphic file (type jpg)
+<use images/lajos.jpg>
+Package pdftex.def Info: images/lajos.jpg  used on input line 22.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+File: images/lajos.jpg Graphic file (type jpg)
+<use images/lajos.jpg>
+Package pdftex.def Info: images/lajos.jpg  used on input line 22.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+File: images/lajos.jpg Graphic file (type jpg)
+<use images/lajos.jpg>
+Package pdftex.def Info: images/lajos.jpg  used on input line 22.
+(pdftex.def)             Requested size: 225.85696pt x 225.85696pt.
+) (./songs/lano_co_k_nebi_nas_pouta.tex [270
+
+ <./images/lajos.jpg>]) (./songs/laska_a_hvezdy.tex [271
+
+]) (./songs/laska_na_vsi.tex [272
+
+]) (./songs/leaving_on_a_jet_plane.tex [273
+
+]) (./songs/lemon_tree.tex [274
+
+]) (./songs/lepsi_nez_almuzna.tex [275
+
+]) (./songs/leto_lasky.tex [276
+
+]) (./songs/leto_s_tebou.tex [277
+
+]) (./songs/let_it_be.tex [278
+
+]) (./songs/let_it_go.tex [279
+
+] [280
+
+] [281
+
+]) (./songs/le_deserteur.tex [282]) (./songs/lilie.tex [283
+
+]
+<images/lilie.jpg, id=4942, 1161.33875pt x 1315.91624pt>
+File: images/lilie.jpg Graphic file (type jpg)
+<use images/lilie.jpg>
+Package pdftex.def Info: images/lilie.jpg  used on input line 22.
+(pdftex.def)             Requested size: 1161.33592pt x 1315.91304pt.
+File: images/lilie.jpg Graphic file (type jpg)
+<use images/lilie.jpg>
+Package pdftex.def Info: images/lilie.jpg  used on input line 22.
+(pdftex.def)             Requested size: 1161.33592pt x 1315.91304pt.
+File: images/lilie.jpg Graphic file (type jpg)
+<use images/lilie.jpg>
+Package pdftex.def Info: images/lilie.jpg  used on input line 22.
+(pdftex.def)             Requested size: 207.49026pt x 235.1078pt.
+) (./songs/lilie_skautska.tex [284
+
+ <./images/lilie.jpg>]) (./songs/linda.tex [285
+
+]) (./songs/lodka.tex [286
+
+]
+<images/lodka.jpg, id=4968, 680.5425pt x 963.6pt>
+File: images/lodka.jpg Graphic file (type jpg)
+<use images/lodka.jpg>
+Package pdftex.def Info: images/lodka.jpg  used on input line 29.
+(pdftex.def)             Requested size: 680.54083pt x 963.59766pt.
+File: images/lodka.jpg Graphic file (type jpg)
+<use images/lodka.jpg>
+Package pdftex.def Info: images/lodka.jpg  used on input line 29.
+(pdftex.def)             Requested size: 680.54083pt x 963.59766pt.
+File: images/lodka.jpg Graphic file (type jpg)
+<use images/lodka.jpg>
+Package pdftex.def Info: images/lodka.jpg  used on input line 29.
+(pdftex.def)             Requested size: 176.97841pt x 250.5889pt.
+) (./songs/lodnikuv_lament.tex [287
+
+ <./images/lodka.jpg>]) (./songs/lokomotiva.tex [288
+
+]
+<images/lokomotiva.jpg, id=4986, 602.25pt x 803.0pt>
+File: images/lokomotiva.jpg Graphic file (type jpg)
+<use images/lokomotiva.jpg>
+Package pdftex.def Info: images/lokomotiva.jpg  used on input line 40.
+(pdftex.def)             Requested size: 602.24852pt x 802.99805pt.
+File: images/lokomotiva.jpg Graphic file (type jpg)
+<use images/lokomotiva.jpg>
+Package pdftex.def Info: images/lokomotiva.jpg  used on input line 40.
+(pdftex.def)             Requested size: 602.24852pt x 802.99805pt.
+File: images/lokomotiva.jpg Graphic file (type jpg)
+<use images/lokomotiva.jpg>
+Package pdftex.def Info: images/lokomotiva.jpg  used on input line 40.
+(pdftex.def)             Requested size: 70.59438pt x 94.12582pt.
+) (./songs/loosing_my_religion.tex [289
+
+ <./images/lokomotiva.jpg>] [290
+
+] [291
+
+]) (./songs/louisiana.tex [292]) (./songs/lovec_amoru.tex [293
+
+]) (./songs/made_in_valmez.tex [294
+
+]) (./songs/magdalena.tex [295
+
+]
+<images/magdalena.jpg, id=5038, 1091.07625pt x 1143.27126pt>
+File: images/magdalena.jpg Graphic file (type jpg)
+<use images/magdalena.jpg>
+Package pdftex.def Info: images/magdalena.jpg  used on input line 45.
+(pdftex.def)             Requested size: 1091.0736pt x 1143.26846pt.
+File: images/magdalena.jpg Graphic file (type jpg)
+<use images/magdalena.jpg>
+Package pdftex.def Info: images/magdalena.jpg  used on input line 45.
+(pdftex.def)             Requested size: 1091.0736pt x 1143.26846pt.
+File: images/magdalena.jpg Graphic file (type jpg)
+<use images/magdalena.jpg>
+Package pdftex.def Info: images/magdalena.jpg  used on input line 45.
+(pdftex.def)             Requested size: 24.82285pt x 26.01033pt.
+) (./songs/magdalena_D.tex [296
+
+ <./images/magdalena.jpg>]) (./songs/maja.tex [297
+
+]) (./songs/malovani.tex [298
+
+]
+<images/malovani.jpg, id=5063, 448.67625pt x 559.08875pt>
+File: images/malovani.jpg Graphic file (type jpg)
+<use images/malovani.jpg>
+Package pdftex.def Info: images/malovani.jpg  used on input line 29.
+(pdftex.def)             Requested size: 448.67516pt x 559.08737pt.
+File: images/malovani.jpg Graphic file (type jpg)
+<use images/malovani.jpg>
+Package pdftex.def Info: images/malovani.jpg  used on input line 29.
+(pdftex.def)             Requested size: 448.67516pt x 559.08737pt.
+File: images/malovani.jpg Graphic file (type jpg)
+<use images/malovani.jpg>
+Package pdftex.def Info: images/malovani.jpg  used on input line 29.
+(pdftex.def)             Requested size: 153.78708pt x 191.63176pt.
+) (./songs/malovani_Ami.tex [299
+
+ <./images/malovani.jpg>]) (./songs/maly_vitr.tex [300
+
+]) (./songs/mama_mi_na_krk_dala_klic.tex [301
+
+]) (./songs/mamko_nedavej_me.tex [302
+
+] [303
+
+]) (./songs/mam_depresi_rad.tex [304]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) (./songs/mam_doma_kocku.tex [305
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [306
+
+
+] [307
+
+]
+<images/mam_doma_kocku.jpg, id=5141, 383.18156pt x 427.5975pt>
+File: images/mam_doma_kocku.jpg Graphic file (type jpg)
+<use images/mam_doma_kocku.jpg>
+Package pdftex.def Info: images/mam_doma_kocku.jpg  used on input line 124.
+(pdftex.def)             Requested size: 383.18062pt x 427.59645pt.
+File: images/mam_doma_kocku.jpg Graphic file (type jpg)
+<use images/mam_doma_kocku.jpg>
+Package pdftex.def Info: images/mam_doma_kocku.jpg  used on input line 124.
+(pdftex.def)             Requested size: 383.18062pt x 427.59645pt.
+File: images/mam_doma_kocku.jpg Graphic file (type jpg)
+<use images/mam_doma_kocku.jpg>
+Package pdftex.def Info: images/mam_doma_kocku.jpg  used on input line 124.
+(pdftex.def)             Requested size: 238.65762pt x 266.32127pt.
+ [308] [309 <./images/mam_doma_kocku.jpg>]) (./songs/mam_jizvu_na_rtu.tex [310
+
+
+] [311
+
+]) (./songs/mandolina.tex [312]
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+
+ []
+
+<images/mandolina.jpg, id=5176, 156.585pt x 323.2075pt>
+File: images/mandolina.jpg Graphic file (type jpg)
+<use images/mandolina.jpg>
+Package pdftex.def Info: images/mandolina.jpg  used on input line 41.
+(pdftex.def)             Requested size: 177.63649pt x 366.67508pt.
+File: images/mandolina.jpg Graphic file (type jpg)
+<use images/mandolina.jpg>
+Package pdftex.def Info: images/mandolina.jpg  used on input line 44.
+(pdftex.def)             Requested size: 156.58461pt x 323.20671pt.
+File: images/mandolina.jpg Graphic file (type jpg)
+<use images/mandolina.jpg>
+Package pdftex.def Info: images/mandolina.jpg  used on input line 44.
+(pdftex.def)             Requested size: 156.58461pt x 323.20671pt.
+File: images/mandolina.jpg Graphic file (type jpg)
+<use images/mandolina.jpg>
+Package pdftex.def Info: images/mandolina.jpg  used on input line 44.
+(pdftex.def)             Requested size: 45.31052pt x 93.52557pt.
+[313
+
+ <./images/mandolina.jpg>]) (./songs/marenka.tex [314] [315
+
+]) (./songs/marie_klus.tex [316]) (./songs/marie_klus_F.tex [317
+
+]) (./songs/marie_traband.tex [318
+
+]) (./songs/marniva_sestrenice.tex [319
+
+]) (./songs/marsyas_a_apollon.tex [320
+
+]
+<images/marsyas_a_apollon.jpg, id=5250, 225.84375pt x 225.84375pt>
+File: images/marsyas_a_apollon.jpg Graphic file (type jpg)
+<use images/marsyas_a_apollon.jpg>
+Package pdftex.def Info: images/marsyas_a_apollon.jpg  used on input line 41.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+File: images/marsyas_a_apollon.jpg Graphic file (type jpg)
+<use images/marsyas_a_apollon.jpg>
+Package pdftex.def Info: images/marsyas_a_apollon.jpg  used on input line 41.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+File: images/marsyas_a_apollon.jpg Graphic file (type jpg)
+<use images/marsyas_a_apollon.jpg>
+Package pdftex.def Info: images/marsyas_a_apollon.jpg  used on input line 41.
+(pdftex.def)             Requested size: 112.21858pt x 112.21858pt.
+) (./songs/maruska.tex [321
+
+ <./images/marsyas_a_apollon.jpg>]) (./songs/mavatka.tex [322
+
+] [323
+
+]) (./songs/mels_me_vubec_rad.tex [324] [325
+
+]) (./songs/mesic.tex [326]
+<images/mesic.jpg, id=5295, 225.84375pt x 225.84375pt>
+File: images/mesic.jpg Graphic file (type jpg)
+<use images/mesic.jpg>
+Package pdftex.def Info: images/mesic.jpg  used on input line 22.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+File: images/mesic.jpg Graphic file (type jpg)
+<use images/mesic.jpg>
+Package pdftex.def Info: images/mesic.jpg  used on input line 22.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+File: images/mesic.jpg Graphic file (type jpg)
+<use images/mesic.jpg>
+Package pdftex.def Info: images/mesic.jpg  used on input line 22.
+(pdftex.def)             Requested size: 225.85696pt x 225.85696pt.
+) (./songs/mezi_horami.tex [327
+
+ <./images/mesic.jpg>]) (./songs/mikymauz.tex [328
+
+] [329
+
+]) (./songs/milada.tex [330]) (./songs/miluju_a_maluju.tex [331
+
+]) (./songs/mimorealita.tex [332
+
+]) (./songs/minulost.tex [333
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [334
+
+
+]) (./songs/mississippi_blues.tex) (./songs/misty_mountains.tex [335
+
+
+] [336
+
+] [337
+
+]) (./songs/mladicka_basnirka.tex [338]) (./songs/modlitba_vodaka.tex [339
+
+]) (./songs/montgomery.tex [340
+
+]) (./songs/morituri_te_salutant.tex [341
+
+]) (./songs/morseovka.tex [342
+
+]) (./songs/mozna_se_mylim.tex [343
+
+] [344
+
+] [345
+
+]) (./songs/mracek.tex [346]) (./songs/mraky.tex [347
+
+]) (./songs/mravenci_ukolebavka.tex [348
+
+]) (./songs/mrtvej_vlak.tex [349
+
+]) (./songs/muchomurky_bile.tex [350
+
+]) (./songs/my_bonnie_lies_over_the_ocean.tex [351
+
+]) (./songs/nadeje.tex [352
+
+]) (./songs/nad_stadem_koni.tex [353
+
+]) (./songs/naha_pani.tex [354
+
+]) (./songs/naj_naj.tex [355
+
+]) (./songs/namornicka.tex [356
+
+]) (./songs/nam_se_stalo_neco_prekrasneho.tex [357
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 48--60
+
+ []
+
+) (./songs/napojen.tex [358
+
+]) (./songs/nastesti.tex [359
+
+] [360
+
+] [361
+
+]) (./songs/nas_tabor.tex [362]) (./songs/navidenou.tex [363
+
+]) (./songs/na_dvojhlas.tex [364
+
+]) (./songs/na_hotelu_v_olomouci.tex [365
+
+]) (./songs/na_kolena.tex [366
+
+]) (./songs/na_ruzich_ustlano.tex [367
+
+]) (./songs/na_sever.tex [368
+
+]) (./songs/na_sirem_mori.tex [369
+
+]
+<images/na_sirem_mori.jpg, id=5657, 803.0pt x 574.145pt>
+File: images/na_sirem_mori.jpg Graphic file (type jpg)
+<use images/na_sirem_mori.jpg>
+Package pdftex.def Info: images/na_sirem_mori.jpg  used on input line 47.
+(pdftex.def)             Requested size: 802.99805pt x 574.1436pt.
+File: images/na_sirem_mori.jpg Graphic file (type jpg)
+<use images/na_sirem_mori.jpg>
+Package pdftex.def Info: images/na_sirem_mori.jpg  used on input line 47.
+(pdftex.def)             Requested size: 802.99805pt x 574.1436pt.
+File: images/na_sirem_mori.jpg Graphic file (type jpg)
+<use images/na_sirem_mori.jpg>
+Package pdftex.def Info: images/na_sirem_mori.jpg  used on input line 47.
+(pdftex.def)             Requested size: 86.21054pt x 61.64053pt.
+) (./songs/na_vanoce_rano.tex [370
+
+ <./images/na_sirem_mori.jpg>]) (./songs/nebesti_jezdci.tex [371
+
+]) (./songs/nebe_peklo_raj.tex [372
+
+]) (./songs/nejlip_jim_bylo.tex [373
+
+]) (./songs/neklid.tex [374
+
+]) (./songs/neni_nutno.tex [375
+
+]) (./songs/nepudem_domu.tex [376
+
+]) (./songs/netusim.tex [377
+
+] [378
+
+] [379
+
+]) (./songs/nevidoma_divka.tex [380]) (./songs/nevinna.tex [381
+
+]) (./songs/nikdy_nerikej_nikdy.tex [382
+
+]) (./songs/nikdy_nic_nebylo.tex [383
+
+]) (./songs/nina.tex [384
+
+]) (./songs/nomadsky_stan.tex [385
+
+]) (./songs/nosorozec.tex [386
+
+]
+<images/nosorozec.jpg, id=5796, 602.25pt x 803.0pt>
+File: images/nosorozec.jpg Graphic file (type jpg)
+<use images/nosorozec.jpg>
+Package pdftex.def Info: images/nosorozec.jpg  used on input line 28.
+(pdftex.def)             Requested size: 602.24852pt x 802.99805pt.
+File: images/nosorozec.jpg Graphic file (type jpg)
+<use images/nosorozec.jpg>
+Package pdftex.def Info: images/nosorozec.jpg  used on input line 28.
+(pdftex.def)             Requested size: 602.24852pt x 802.99805pt.
+File: images/nosorozec.jpg Graphic file (type jpg)
+<use images/nosorozec.jpg>
+Package pdftex.def Info: images/nosorozec.jpg  used on input line 28.
+(pdftex.def)             Requested size: 144.13861pt x 192.18481pt.
+) (./songs/novy_den.tex [387
+
+ <./images/nosorozec.jpg>]) (./songs/obluda.tex [388
+
+]) (./songs/omnia_vincit_amor.tex [389
+
+]) (./songs/on-line.tex [390
+
+]) (./songs/ona_se_smala.tex [391
+
+] [392
+
+] [393
+
+]) (./songs/one_of_us.tex [394]) (./songs/oranzovy_expres.tex [395
+
+]) (./songs/osma_barva_duhy.tex [396
+
+]) (./songs/otec_abraham.tex [397
+
+]) (./songs/otherside.tex [398
+
+]) (./songs/o_malem_rytiri.tex [399
+
+] [400
+
+] [401
+
+]) (./songs/pacholek_a_devecka.tex [402] [403
+
+]) (./songs/panenka_klus.tex) (./songs/panenka_poutnici.tex [404
+
+]) (./songs/panubohu_do_oken.tex [405
+
+]) (./songs/par_minut.tex [406
+
+]) (./songs/pasazova_revolta.tex [407
+
+]) (./songs/pastevecka.tex [408
+
+]) (./songs/patnact_muzu.tex [409
+
+]) (./songs/pazitka.tex [410
+
+]) (./songs/perfect.tex [411
+
+] [412
+
+] [413
+
+]) (./songs/petebrurg.tex [414]) (./songs/pisek.tex [415
+
+]) (./songs/pisen_co_me_ucil_listopad.tex [416
+
+]) (./songs/pisen_o_priteli.tex [417
+
+]) (./songs/piskajici_cikan.tex [418
+
+]) (./songs/plakala.tex [419
+
+]) (./songs/plihalova_univerzalni_melodie.tex [420
+
+]) (./songs/pochod_marodu.tex [421
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+) (./songs/pocity.tex [422
+
+]) (./songs/podivej.tex [423
+
+]
+<images/podivej.jpg, id=6104, 577.40718pt x 770.88pt>
+File: images/podivej.jpg Graphic file (type jpg)
+<use images/podivej.jpg>
+Package pdftex.def Info: images/podivej.jpg  used on input line 33.
+(pdftex.def)             Requested size: 577.40578pt x 770.87813pt.
+File: images/podivej.jpg Graphic file (type jpg)
+<use images/podivej.jpg>
+Package pdftex.def Info: images/podivej.jpg  used on input line 33.
+(pdftex.def)             Requested size: 577.40578pt x 770.87813pt.
+File: images/podivej.jpg Graphic file (type jpg)
+<use images/podivej.jpg>
+Package pdftex.def Info: images/podivej.jpg  used on input line 33.
+(pdftex.def)             Requested size: 142.23691pt x 189.89648pt.
+) (./songs/podvod.tex [424
+
+ <./images/podivej.jpg>]) (./songs/pohadka.tex [425
+
+] [426
+
+] [427
+
+]) (./songs/pohadka_pokac.tex [428] [429
+
+]) (./songs/pohadka_support_lesbiens.tex [430]) (./songs/pohar_a_kalich.tex [431
+
+]
+<images/pohar_a_kalich.jpg, id=6163, 284.06125pt x 602.25pt>
+File: images/pohar_a_kalich.jpg Graphic file (type jpg)
+<use images/pohar_a_kalich.jpg>
+Package pdftex.def Info: images/pohar_a_kalich.jpg  used on input line 45.
+(pdftex.def)             Requested size: 284.06053pt x 602.24852pt.
+File: images/pohar_a_kalich.jpg Graphic file (type jpg)
+<use images/pohar_a_kalich.jpg>
+Package pdftex.def Info: images/pohar_a_kalich.jpg  used on input line 45.
+(pdftex.def)             Requested size: 284.06053pt x 602.24852pt.
+File: images/pohar_a_kalich.jpg Graphic file (type jpg)
+<use images/pohar_a_kalich.jpg>
+Package pdftex.def Info: images/pohar_a_kalich.jpg  used on input line 45.
+(pdftex.def)             Requested size: 32.42578pt x 68.74727pt.
+) (./songs/pohoda.tex [432
+
+ <./images/pohar_a_kalich.jpg>]) (./songs/pojd_se_mnou_lasko_ma.tex [433
+
+]) (./songs/pojd_si_lehnout.tex [434
+
+]) (./songs/pole_s_bavlnou.tex [435
+
+]) (./songs/popelka.tex [436
+
+] [437
+
+]) (./songs/poraneny_koleno.tex [438]) (./songs/poruba.tex [439
+
+] [440
+
+] [441
+
+]) (./songs/posledni_noc.tex [442]) (./songs/posledni_vule.tex [443
+
+]) (./songs/posta.tex [444
+
+]) (./songs/postel.tex [445
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 335.74255pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=335.74255pt
+* \textheight=574.74559pt
+* \oddsidemargin=-15.3645pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [446
+
+
+]) (./songs/potkal_jsem_te_po_letech.tex) (./songs/potulni_kejkliri.tex [447
+
+
+]) (./songs/povalaci.tex [448
+
+]) (./songs/poveste_ho_vejs.tex [449
+
+]) (./songs/po_schodoch.tex [450
+
+]) (./songs/praminek_vlasu.tex [451
+
+]
+<images/_praminek_vlasu.png, id=6334, 1063.975pt x 1919.17pt>
+File: images/_praminek_vlasu.png Graphic file (type png)
+<use images/_praminek_vlasu.png>
+Package pdftex.def Info: images/_praminek_vlasu.png  used on input line 40.
+(pdftex.def)             Requested size: 168.87204pt x 304.58432pt.
+) (./songs/pratelstvi_na_Ntou.tex [452
+
+ <./images/_praminek_vlasu.png>]) (./songs/prerie.tex [453
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+) (./songs/probuzeni.tex [454
+
+] [455
+
+]
+<images/probuzeni.jpg, id=6374, 1084.05pt x 897.3525pt>
+File: images/probuzeni.jpg Graphic file (type jpg)
+<use images/probuzeni.jpg>
+Package pdftex.def Info: images/probuzeni.jpg  used on input line 55.
+(pdftex.def)             Requested size: 1084.04736pt x 897.3503pt.
+File: images/probuzeni.jpg Graphic file (type jpg)
+<use images/probuzeni.jpg>
+Package pdftex.def Info: images/probuzeni.jpg  used on input line 55.
+(pdftex.def)             Requested size: 1084.04736pt x 897.3503pt.
+File: images/probuzeni.jpg Graphic file (type jpg)
+<use images/probuzeni.jpg>
+Package pdftex.def Info: images/probuzeni.jpg  used on input line 55.
+(pdftex.def)             Requested size: 392.63965pt x 325.01836pt.
+) (./songs/prodavac.tex [456 <./images/probuzeni.jpg>] [457
+
+]) (./songs/proklatej_vuz.tex [458]) (./songs/promeny.tex [459
+
+]) (./songs/pro_malou_lenku.tex [460
+
+]) (./songs/prvni_signalni.tex [461
+
+]
+<images/prvni_signalni.jpg, id=6427, 577.40718pt x 770.88pt>
+File: images/prvni_signalni.jpg Graphic file (type jpg)
+<use images/prvni_signalni.jpg>
+Package pdftex.def Info: images/prvni_signalni.jpg  used on input line 26.
+(pdftex.def)             Requested size: 577.40578pt x 770.87813pt.
+File: images/prvni_signalni.jpg Graphic file (type jpg)
+<use images/prvni_signalni.jpg>
+Package pdftex.def Info: images/prvni_signalni.jpg  used on input line 26.
+(pdftex.def)             Requested size: 577.40578pt x 770.87813pt.
+File: images/prvni_signalni.jpg Graphic file (type jpg)
+<use images/prvni_signalni.jpg>
+Package pdftex.def Info: images/prvni_signalni.jpg  used on input line 26.
+(pdftex.def)             Requested size: 184.69478pt x 246.58078pt.
+) (./songs/pysny_janek.tex [462
+
+ <./images/prvni_signalni.jpg>]) (./songs/racci.tex [463
+
+]) (./songs/raci_v_praci.tex [464
+
+]) (./songs/rada_se_miluje.tex [465
+
+]) (./songs/radioactive.tex [466
+
+]) (./songs/rana_v_trave.tex [467
+
+]
+<images/rana_v_trave.jpg, id=6477, 478.78876pt x 642.4pt>
+File: images/rana_v_trave.jpg Graphic file (type jpg)
+<use images/rana_v_trave.jpg>
+Package pdftex.def Info: images/rana_v_trave.jpg  used on input line 33.
+(pdftex.def)             Requested size: 478.78758pt x 642.39844pt.
+File: images/rana_v_trave.jpg Graphic file (type jpg)
+<use images/rana_v_trave.jpg>
+Package pdftex.def Info: images/rana_v_trave.jpg  used on input line 33.
+(pdftex.def)             Requested size: 478.78758pt x 642.39844pt.
+File: images/rana_v_trave.jpg Graphic file (type jpg)
+<use images/rana_v_trave.jpg>
+Package pdftex.def Info: images/rana_v_trave.jpg  used on input line 33.
+(pdftex.def)             Requested size: 135.83522pt x 182.25272pt.
+) (./songs/rekni_kde_ty_kytky_jsou.tex [468
+
+ <./images/rana_v_trave.jpg>]) (./songs/riptide.tex [469
+
+]) (./songs/rok_1849.tex [470
+
+]) (./songs/rosa_na_kolejich.tex [471
+
+]) (./songs/rose_tattoo.tex [472
+
+] [473
+
+]) (./songs/rozarka.tex [474]) (./songs/ruze_z_papiru.tex [475
+
+]) (./songs/ruze_z_texasu.tex [476
+
+]) (./songs/ruzicka.tex [477
+
+]) (./songs/rybnik.tex [478
+
+]) (./songs/rychle_sipy.tex [479
+
+]) (./songs/salome.tex [480
+
+]) (./songs/saman.tex [481
+
+]) (./songs/sarajevo.tex [482
+
+]) (./songs/saro!_traband.tex [483
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 37--41
+
+ []
+
+) (./songs/saro.tex [484
+
+]) (./songs/scarborough_fair.tex [485
+
+]) (./songs/sedi_topic_u_piana.tex [486
+
+]) (./songs/sedmikraska.tex [487
+
+]
+<images/sedmikraska.jpg, id=6651, 190.7125pt x 265.99374pt>
+File: images/sedmikraska.jpg Graphic file (type jpg)
+<use images/sedmikraska.jpg>
+Package pdftex.def Info: images/sedmikraska.jpg  used on input line 35.
+(pdftex.def)             Requested size: 190.71202pt x 265.99309pt.
+File: images/sedmikraska.jpg Graphic file (type jpg)
+<use images/sedmikraska.jpg>
+Package pdftex.def Info: images/sedmikraska.jpg  used on input line 35.
+(pdftex.def)             Requested size: 190.71202pt x 265.99309pt.
+File: images/sedmikraska.jpg Graphic file (type jpg)
+<use images/sedmikraska.jpg>
+Package pdftex.def Info: images/sedmikraska.jpg  used on input line 35.
+(pdftex.def)             Requested size: 102.07819pt x 142.37221pt.
+) (./songs/sen.tex [488
+
+ <./images/sedmikraska.jpg>]) (./songs/sen_C.tex [489
+
+]) (./songs/severni_vitr.tex [490
+
+]) (./songs/shaalu_shalom_yerushalayim.tex [491
+
+]) (./songs/sibyla.tex [492
+
+]) (./songs/sila_starejch_vin.tex [493
+
+]) (./songs/simbolice.tex [494
+
+]) (./songs/sipkova_ruzenka.tex [495
+
+]) (./songs/skladanka.tex [496
+
+]
+<images/skladanka.jpg, id=6729, 186.9384pt x 182.6022pt>
+File: images/skladanka.jpg Graphic file (type jpg)
+<use images/skladanka.jpg>
+Package pdftex.def Info: images/skladanka.jpg  used on input line 34.
+(pdftex.def)             Requested size: 186.93794pt x 182.60175pt.
+File: images/skladanka.jpg Graphic file (type jpg)
+<use images/skladanka.jpg>
+Package pdftex.def Info: images/skladanka.jpg  used on input line 34.
+(pdftex.def)             Requested size: 186.93794pt x 182.60175pt.
+File: images/skladanka.jpg Graphic file (type jpg)
+<use images/skladanka.jpg>
+Package pdftex.def Info: images/skladanka.jpg  used on input line 34.
+(pdftex.def)             Requested size: 161.16893pt x 157.43047pt.
+) (./songs/slavici_z_madridu.tex [497
+
+ <./images/skladanka.jpg>]) (./songs/slepic_pirka.tex [498
+
+]) (./songs/slunecny_hrob.tex [499
+
+]) (./songs/slunovrat.tex [500
+
+]) (./songs/snadne_je_zit.tex [501
+
+]) (./songs/soudny_den.tex [502
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [503
+
+
+]) (./songs/soutez.tex) (./songs/spinkej.tex [504
+
+
+]) (./songs/spomienky_na_buducnost.tex [505
+
+]) (./songs/srouby_a_matice.tex [506
+
+]) (./songs/stanky.tex [507
+
+]) (./songs/stara_pivnickova.tex [508
+
+]) (./songs/statistika.tex [509
+
+]) (./songs/stiznost.tex [510
+
+]) (./songs/strakapud.tex [511
+
+]) (./songs/strom.tex [512
+
+]) (./songs/studeny_nohy.tex [513
+
+]) (./songs/styskani.tex [514
+
+]) (./songs/svata_katerina.tex [515
+
+]) (./songs/svatebni.tex [516
+
+]) (./songs/svetlo_ve_tme.tex [517
+
+]) (./songs/svetlusky.tex [518
+
+]) (./songs/sweet_dreams.tex [519
+
+]) (./songs/take_me_home_country_roads.tex [520
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+) (./songs/tak_promin.tex [521
+
+]) (./songs/tak_uz_mi_ma_holka_mava.tex [522
+
+]) (./songs/tancime_spolu.tex [523
+
+]) (./songs/tata.tex [524
+
+]) (./songs/ta_nase.tex [525
+
+] [526
+
+] [527
+
+]
+<images/ta_nase.jpg, id=7005, 906.38625pt x 1137.24875pt>
+File: images/ta_nase.jpg Graphic file (type jpg)
+<use images/ta_nase.jpg>
+Package pdftex.def Info: images/ta_nase.jpg  used on input line 50.
+(pdftex.def)             Requested size: 906.38403pt x 1137.24599pt.
+File: images/ta_nase.jpg Graphic file (type jpg)
+<use images/ta_nase.jpg>
+Package pdftex.def Info: images/ta_nase.jpg  used on input line 50.
+(pdftex.def)             Requested size: 906.38403pt x 1137.24599pt.
+File: images/ta_nase.jpg Graphic file (type jpg)
+<use images/ta_nase.jpg>
+Package pdftex.def Info: images/ta_nase.jpg  used on input line 50.
+(pdftex.def)             Requested size: 329.217pt x 413.07072pt.
+) (./songs/tenkrat_v_raji.tex [528 <./images/ta_nase.jpg>]) (./songs/tereza.tex [529
+
+]) (./songs/tesinska.tex [530
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [531
+
+
+]) (./songs/the_ballad_of_lucy_gray.tex) (./songs/the_islander.tex [532
+
+
+]) (./songs/tisic_dnu_mezi_nami.tex [533
+
+]) (./songs/tisic_mil.tex [534
+
+]) (./songs/tmou.tex [535
+
+]) (./songs/touch_the_sky.tex [536
+
+]) (./songs/touha.tex [537
+
+]) (./songs/toulava.tex [538
+
+]) (./songs/toulavej.tex [539
+
+]
+<images/toulavej.jpg, id=7111, 219.82124pt x 231.86626pt>
+File: images/toulavej.jpg Graphic file (type jpg)
+<use images/toulavej.jpg>
+Package pdftex.def Info: images/toulavej.jpg  used on input line 38.
+(pdftex.def)             Requested size: 219.8207pt x 231.86568pt.
+File: images/toulavej.jpg Graphic file (type jpg)
+<use images/toulavej.jpg>
+Package pdftex.def Info: images/toulavej.jpg  used on input line 38.
+(pdftex.def)             Requested size: 219.8207pt x 231.86568pt.
+File: images/toulavej.jpg Graphic file (type jpg)
+<use images/toulavej.jpg>
+Package pdftex.def Info: images/toulavej.jpg  used on input line 38.
+(pdftex.def)             Requested size: 126.43982pt x 133.36804pt.
+) (./songs/toulavy_boty.tex [540
+
+ <./images/toulavej.jpg>]) (./songs/to_az_jednou.tex [541
+
+]) (./songs/to_ta_helpa.tex [542
+
+]
+<images/to_ta_helpa.jpg, id=7138, 1312.905pt x 1357.07pt>
+File: images/to_ta_helpa.jpg Graphic file (type jpg)
+<use images/to_ta_helpa.jpg>
+Package pdftex.def Info: images/to_ta_helpa.jpg  used on input line 20.
+(pdftex.def)             Requested size: 1312.90181pt x 1357.0667pt.
+File: images/to_ta_helpa.jpg Graphic file (type jpg)
+<use images/to_ta_helpa.jpg>
+Package pdftex.def Info: images/to_ta_helpa.jpg  used on input line 20.
+(pdftex.def)             Requested size: 1312.90181pt x 1357.0667pt.
+File: images/to_ta_helpa.jpg Graphic file (type jpg)
+<use images/to_ta_helpa.jpg>
+Package pdftex.def Info: images/to_ta_helpa.jpg  used on input line 20.
+(pdftex.def)             Requested size: 340.00502pt x 351.44249pt.
+) (./songs/trh_ve_scarborough.tex [543
+
+ <./images/to_ta_helpa.jpg>]) (./songs/trinactka.tex [544
+
+]) (./songs/tri_bratri.tex [545
+
+]) (./songs/tri_cikani.tex [546
+
+]) (./songs/tri_cunici.tex [547
+
+]) (./songs/tri_kamosky_psycholozky.tex [548
+
+]) (./songs/tri_krize.tex [549
+
+]) (./songs/tri_orisky.tex [550
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/tri_orisky.jpg, id=7220, 254.9525pt x 248.93pt>
+File: images/tri_orisky.jpg Graphic file (type jpg)
+<use images/tri_orisky.jpg>
+Package pdftex.def Info: images/tri_orisky.jpg  used on input line 53.
+(pdftex.def)             Requested size: 163.41011pt x 159.55774pt.
+File: images/tri_orisky.jpg Graphic file (type jpg)
+<use images/tri_orisky.jpg>
+Package pdftex.def Info: images/tri_orisky.jpg  used on input line 56.
+(pdftex.def)             Requested size: 254.95186pt x 248.92938pt.
+File: images/tri_orisky.jpg Graphic file (type jpg)
+<use images/tri_orisky.jpg>
+Package pdftex.def Info: images/tri_orisky.jpg  used on input line 56.
+(pdftex.def)             Requested size: 254.95186pt x 248.92938pt.
+File: images/tri_orisky.jpg Graphic file (type jpg)
+<use images/tri_orisky.jpg>
+Package pdftex.def Info: images/tri_orisky.jpg  used on input line 56.
+(pdftex.def)             Requested size: 158.60965pt x 154.86296pt.
+ [551
+
+
+ <./images/tri_orisky.jpg>] [552]) (./songs/trubadurska.tex) (./songs/tulacka_ukolebavka.tex [553
+
+
+]) (./songs/tulacky_rano.tex [554
+
+]) (./songs/tunel_jmenem_cas.tex [555
+
+]) (./songs/tu_kytaru_jsem_koupil_kvuli_tobe.tex [556
+
+]) (./songs/ukolebavka_(kryl).tex [557
+
+]) (./songs/upir.tex [558
+
+]) (./songs/uspavanka.tex [559
+
+]) (./songs/uz_to_nenapravim.tex [560
+
+]) (./songs/valcicek.tex [561
+
+]) (./songs/valecna.tex [562
+
+]) (./songs/valka_ruzi.tex [563
+
+]) (./songs/variace_na_renesancni_tema.tex [564
+
+]) (./songs/vcelin.tex [565
+
+]
+<images/vcelin.jpg, id=7351, 803.0pt x 803.0pt>
+File: images/vcelin.jpg Graphic file (type jpg)
+<use images/vcelin.jpg>
+Package pdftex.def Info: images/vcelin.jpg  used on input line 31.
+(pdftex.def)             Requested size: 802.99805pt x 802.99805pt.
+File: images/vcelin.jpg Graphic file (type jpg)
+<use images/vcelin.jpg>
+Package pdftex.def Info: images/vcelin.jpg  used on input line 31.
+(pdftex.def)             Requested size: 802.99805pt x 802.99805pt.
+File: images/vcelin.jpg Graphic file (type jpg)
+<use images/vcelin.jpg>
+Package pdftex.def Info: images/vcelin.jpg  used on input line 31.
+(pdftex.def)             Requested size: 213.5659pt x 213.5659pt.
+) (./songs/vedle_tebe_usinam.tex [566
+
+ <./images/vcelin.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 12--17
+
+ []
+
+) (./songs/ved_me_dal.tex [567
+
+]) (./songs/velicenstvo_kat.tex [568
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [569
+
+
+]) (./songs/velka_voda.tex [570
+
+
+] [571
+
+]) (./songs/velmi_nesmela.tex [572]) (./songs/velrybarska_vyprava.tex [573
+
+]) (./songs/veruncina_pisen_lasky.tex [574
+
+]) (./songs/vezenska_trilogie.tex [575
+
+] [576
+
+] [577
+
+]) (./songs/ve_znameni_blizencu.tex [578]) (./songs/vino.tex [579
+
+]) (./songs/vino_chinaski.tex [580
+
+] [581
+
+]
+<images/vino_chinaski.jpg, id=7477, 952.55875pt x 1121.18875pt>
+File: images/vino_chinaski.jpg Graphic file (type jpg)
+<use images/vino_chinaski.jpg>
+Package pdftex.def Info: images/vino_chinaski.jpg  used on input line 52.
+(pdftex.def)             Requested size: 952.55643pt x 1121.18602pt.
+File: images/vino_chinaski.jpg Graphic file (type jpg)
+<use images/vino_chinaski.jpg>
+Package pdftex.def Info: images/vino_chinaski.jpg  used on input line 52.
+(pdftex.def)             Requested size: 952.55643pt x 1121.18602pt.
+File: images/vino_chinaski.jpg Graphic file (type jpg)
+<use images/vino_chinaski.jpg>
+Package pdftex.def Info: images/vino_chinaski.jpg  used on input line 52.
+(pdftex.def)             Requested size: 350.94412pt x 413.07123pt.
+) (./songs/vis_lasko.tex [582 <./images/vino_chinaski.jpg>]) (./songs/vlastovko_let.tex [583
+
+]
+<images/vlastovko_let.jpg, id=7493, 248.93pt x 134.5025pt>
+File: images/vlastovko_let.jpg Graphic file (type jpg)
+<use images/vlastovko_let.jpg>
+Package pdftex.def Info: images/vlastovko_let.jpg  used on input line 31.
+(pdftex.def)             Requested size: 248.92938pt x 134.50215pt.
+File: images/vlastovko_let.jpg Graphic file (type jpg)
+<use images/vlastovko_let.jpg>
+Package pdftex.def Info: images/vlastovko_let.jpg  used on input line 31.
+(pdftex.def)             Requested size: 248.92938pt x 134.50215pt.
+File: images/vlastovko_let.jpg Graphic file (type jpg)
+<use images/vlastovko_let.jpg>
+Package pdftex.def Info: images/vlastovko_let.jpg  used on input line 31.
+(pdftex.def)             Requested size: 248.93317pt x 134.5042pt.
+) (./songs/vlastovky.tex [584
+
+ <./images/vlastovko_let.jpg>]
+<images/vlastovky.jpg, id=7502, 361.35pt x 243.7908pt>
+File: images/vlastovky.jpg Graphic file (type jpg)
+<use images/vlastovky.jpg>
+Package pdftex.def Info: images/vlastovky.jpg  used on input line 46.
+(pdftex.def)             Requested size: 361.34912pt x 243.7902pt.
+File: images/vlastovky.jpg Graphic file (type jpg)
+<use images/vlastovky.jpg>
+Package pdftex.def Info: images/vlastovky.jpg  used on input line 46.
+(pdftex.def)             Requested size: 361.34912pt x 243.7902pt.
+File: images/vlastovky.jpg Graphic file (type jpg)
+<use images/vlastovky.jpg>
+Package pdftex.def Info: images/vlastovky.jpg  used on input line 46.
+(pdftex.def)             Requested size: 67.91837pt x 45.82225pt.
+) (./songs/vodacka_holka.tex [585
+
+ <./images/vlastovky.jpg>]) (./songs/vymyslena.tex [586
+
+]) (./songs/vzhuru_na_palubu.tex [587
+
+]) (./songs/vzpominka.tex [588
+
+]) (./songs/v_7_25.tex [589
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+[590
+
+
+]) (./songs/v_blbym_veku.tex [591
+
+
+]) (./songs/v_case_zpatky.tex [592]) (./songs/v_lese.tex [593
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [594
+
+
+]) (./songs/v_mori_je_mista_dost.tex) (./songs/we_shall_overcome.tex [595
+
+
+]) (./songs/whats_up.tex [596
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+) (./songs/wild_world.tex [597
+
+]) (./songs/wonderwall.tex [598
+
+] [599
+
+]
+<images/wonderwall.jpg, id=7626, 1975.38pt x 2160.07pt>
+File: images/wonderwall.jpg Graphic file (type jpg)
+<use images/wonderwall.jpg>
+Package pdftex.def Info: images/wonderwall.jpg  used on input line 58.
+(pdftex.def)             Requested size: 1975.3752pt x 2160.06476pt.
+File: images/wonderwall.jpg Graphic file (type jpg)
+<use images/wonderwall.jpg>
+Package pdftex.def Info: images/wonderwall.jpg  used on input line 58.
+(pdftex.def)             Requested size: 1975.3752pt x 2160.06476pt.
+File: images/wonderwall.jpg Graphic file (type jpg)
+<use images/wonderwall.jpg>
+Package pdftex.def Info: images/wonderwall.jpg  used on input line 58.
+(pdftex.def)             Requested size: 392.62752pt x 429.3366pt.
+ [600]) (./songs/wounded_knee.tex [601 <./images/wonderwall.jpg>]) (./songs/yesterday.tex [602
+
+]) (./songs/zabili_zabili.tex [603
+
+]) (./songs/zabili_zabili2.tex [604
+
+]
+<images/zabili_zabili2.jpg, id=7663, 1406.25375pt x 1156.32pt>
+File: images/zabili_zabili2.jpg Graphic file (type jpg)
+<use images/zabili_zabili2.jpg>
+Package pdftex.def Info: images/zabili_zabili2.jpg  used on input line 30.
+(pdftex.def)             Requested size: 1406.25032pt x 1156.31718pt.
+File: images/zabili_zabili2.jpg Graphic file (type jpg)
+<use images/zabili_zabili2.jpg>
+Package pdftex.def Info: images/zabili_zabili2.jpg  used on input line 30.
+(pdftex.def)             Requested size: 1406.25032pt x 1156.31718pt.
+File: images/zabili_zabili2.jpg Graphic file (type jpg)
+<use images/zabili_zabili2.jpg>
+Package pdftex.def Info: images/zabili_zabili2.jpg  used on input line 30.
+(pdftex.def)             Requested size: 249.76735pt x 205.37616pt.
+) (./songs/zachrante_kone.tex [605
+
+ <./images/zabili_zabili2.jpg>]) (./songs/zafukane.tex [606
+
+]) (./songs/zahrada_ticha.tex [607
+
+]) (./songs/zakon_svetlusek.tex [608
+
+]
+<images/zakon_svetlusek.jpg, id=7703, 678.73575pt x 395.67825pt>
+File: images/zakon_svetlusek.jpg Graphic file (type jpg)
+<use images/zakon_svetlusek.jpg>
+Package pdftex.def Info: images/zakon_svetlusek.jpg  used on input line 4.
+(pdftex.def)             Requested size: 678.73409pt x 395.67728pt.
+File: images/zakon_svetlusek.jpg Graphic file (type jpg)
+<use images/zakon_svetlusek.jpg>
+Package pdftex.def Info: images/zakon_svetlusek.jpg  used on input line 4.
+(pdftex.def)             Requested size: 678.73409pt x 395.67728pt.
+File: images/zakon_svetlusek.jpg Graphic file (type jpg)
+<use images/zakon_svetlusek.jpg>
+Package pdftex.def Info: images/zakon_svetlusek.jpg  used on input line 4.
+(pdftex.def)             Requested size: 392.65205pt x 228.90186pt.
+) (./songs/zalinsky.tex [609
+
+ <./images/zakon_svetlusek.jpg>]) (./songs/zal_se_odklada.tex [610
+
+]) (./songs/zanedbany_sex.tex [611
+
+]) (./songs/zatanci.tex [612
+
+]) (./songs/zatancim.tex [613
+
+]) (./songs/zatancuj_si_se_mnou.tex [614
+
+]) (./songs/zatimco_se_koupes.tex [615
+
+]) (./songs/zatracenej_zivot.tex [616
+
+]) (./songs/zavolejte_straze.tex [617
+
+]) (./songs/za_100_let.tex [618
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [619
+
+
+]) (./songs/za_svou_pravdou_stat.tex) (./songs/zdalo_se_ti_zdalo.tex [620
+
+
+]) (./songs/zejtra_mam.tex [621
+
+]) (./songs/zelene_francouzske_plane.tex [622
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(19.91684pt, 574.74559pt, 2.84544pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=574.74559pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-89.35315pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [623
+
+
+]) (./songs/zeme_antilop.tex) (./songs/zeny_muzu.tex [624
+
+
+]) (./songs/zitra_rano_v_pet.tex [625
+
+]) (./songs/zizen.tex [626
+
+]
+<images/zizen.jpg, id=7861, 294.09875pt x 172.645pt>
+File: images/zizen.jpg Graphic file (type jpg)
+<use images/zizen.jpg>
+Package pdftex.def Info: images/zizen.jpg  used on input line 31.
+(pdftex.def)             Requested size: 294.09802pt x 172.64456pt.
+File: images/zizen.jpg Graphic file (type jpg)
+<use images/zizen.jpg>
+Package pdftex.def Info: images/zizen.jpg  used on input line 31.
+(pdftex.def)             Requested size: 294.09802pt x 172.64456pt.
+File: images/zizen.jpg Graphic file (type jpg)
+<use images/zizen.jpg>
+Package pdftex.def Info: images/zizen.jpg  used on input line 31.
+(pdftex.def)             Requested size: 242.91718pt x 142.59982pt.
+) (./songs/zlaty_ram.tex [627
+
+ <./images/zizen.jpg>]) (./songs/znala_panna_pana.tex [628
+
+]) (./songs/znameni_doby.tex [629
+
+]) (./songs/zombie.tex [630
+
+]) (./songs/zrozeni_hvezd.tex [631
+
+]) (./songs/zustan.tex [632
+
+]) (./songs/zvon.tex [633
+
+]) (./songs/_hymny.tex [634
+
+])) [635] (build/zpevnik_elektronicky.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+Package rerunfilecheck Info: File `zpevnik_elektronicky.out' has not changed.
+(rerunfilecheck)             Checksum: 71D575DE705F0471A2AF145B6F8FB6A7;109183.
+ ) 
+Here is how much of TeX's memory you used:
+ 21093 strings out of 467363
+ 367530 string characters out of 5419001
+ 695345 words of memory out of 6000000
+ 45301 multiletter control sequences out of 15000+600000
+ 641798 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,79p,575b,768s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{obsah} has been referenced but does not exist, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on build/zpevnik_elektronicky.pdf (635 pages, 11410090 bytes).
+PDF statistics:
+ 8656 PDF objects out of 8907 (max. 8388607)
+ 7856 compressed objects within 79 object streams
+ 3145 named destinations out of 3580 (max. 500000)
+ 4500 words of extra memory for PDF output out of 10000 (max. 10000000)
+
