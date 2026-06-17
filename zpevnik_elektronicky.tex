@@ -22,7 +22,7 @@
 			{geometry}
 			
 \usepackage[utf8]{inputenc} 			% píšeme v utf-8, aby to pěkně jelo i linuxákům
-\usepackage[czech]{babel}				% nějaké další potřebné balíčky- čeština
+\usepackage{babel}				% nějaké další potřebné balíčky- čeština
 \usepackage[T1]{fontenc}					%pro polštinu -např Hej sokoly
 \usepackage{guitar} 					% knihovna pro akordy
 \usepackage{multicol} 					% knihovna pro více sloupců
@@ -111,6 +111,8 @@
 	\label{end:\the\numexpr\value{subsection}} 		% dává značku na konec písničky kvůli dvoustranným
 	\pic{}											% vkládá obrázek, pokud existuje
 }
+
+\newcommand{\uv}[1]{\quotedblbase #1\textquotedblleft}
 
 %%%%%%%%%%%%%%%%%%%%%%%
 % ZBÝVAJÍCÍ NASTAVENÍ %

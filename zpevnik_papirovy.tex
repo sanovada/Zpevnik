@@ -1,4 +1,3 @@
-%Optimalizovano pro tištěnou verzi:
 % - se zobrazením na dvě stránky - tištěná brožura 
 % - Je potřeba doladit zobrazení písniček, které se na 1 stránku nevešly
 % - nově (21.4.2020) je v příkazu \esong implementováno taky vložení obrázku stejného jména jako soubor písničky!
@@ -22,7 +21,7 @@
 			
 \usepackage[utf8]{inputenc} 			% píšeme v utf-8, aby to pěkně jelo i linuxákům
 \usepackage[T1]{fontenc}				% kvůli polským písničkám (Hej sokoly)
-\usepackage[czech]{babel}				% nějaké další potřebné balíčky
+\usepackage{babel}				% nějaké další potřebné balíčky
 \usepackage{guitar} 					% knihovna pro akordy
 \usepackage{multicol} 					% knihovna pro více sloupců
 \usepackage{graphicx} 					% knihovna pro obrázky
@@ -77,21 +76,21 @@
 \newlength{\imgwidth}
 \newlength{\imgheight}
 \newcommand{\scalegraphics}[1]{						
-    \settowidth{\imgwidth}{\includegraphics{#1}}
+    \settowidth{\imgwidth}{\includegraphics{#1}} 
     \settoheight{\imgheight}{\includegraphics{#1}}
     \setlength{\imgwidth}{\minof{\imgwidth}{\textwidth}}
     \setlength{\imgheight}{\minof{\imgheight}{\the\dimexpr\pagegoal-\pagetotal+\baselineskip\relax}}
     \includegraphics[width=\imgwidth, height=\imgheight, keepaspectratio=true]{#1}
 }
 
-\newcommand{\pic}{							% Automaticky vloží na zbytek stránky JPG obrázek stejného jména jako má písnička
-	\IfFileExists{{images/\currfilebase}.jpg}{
+\newcommand{\pic}{				 % Automaticky vloží na zbytek stránky JPG obrázek stejného jména jako má písnička
+	\IfFileExists{{images/oskava_dea_2026/\currfilebase}.jpg}{
 		\begin{center}
 			\vspace*{\fill}
-			\scalegraphics{{images/\currfilebase}.jpg}
-			\vspace*{\fill}
+			\scalegraphics{{images/oskava_dea_2026/\currfilebase}.jpg}
+			\vspace*{\fill} 
 		\end{center}
-	}
+	} 
 }
 
 \newcommand{\esong}{								% \esong pro konec písničky
@@ -121,26 +120,28 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%
-% ZAČÁTEK DOKUMENTU %
+% ZAČÁTEK DOKUMENTU % 
 %%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-%\setcounter{page}{2}  					% nastaví čítač stránek. V základu začne od 1, ale když by třeba bylo v plánu připojit ještě obálku...
+\setcounter{page}{1}  					% nastaví čítač stránek. V základu začne od 1, ale když by třeba bylo v plánu připojit ještě obálku...
 
 %Nastavení číslování stránek pro úvod a obsahS
-\pagestyle{empty}	%bez čísla
-%\pagestyle{plain}	%s číslem
+%\pagestyle{empty}	%bez čísla
+\pagestyle{plain}	%s číslem
 
 %Vytvoření automatického obsahu. Správně se vygeneruje vždy až při druhém překladu.
-\newpage
+\newpage 
 \tableofcontents\label{obsah}
-
+ 
 
 %Nastavení číslování stránek pro samotný zpěvník
 %\pagestyle{empty}
 \pagestyle{plain}
 
 %vložení .txt souboru se seznamem písniček
-\input{songs/_seznam_12_VelMez_2024.txt} % přidání celého textového souboru s písněmi - více písní najednou
+\input{songs/oskava_2026.txt} % přidání celého textového souboru s písněmi - více písní najednou7
 
 
 \end{document}
+
+
