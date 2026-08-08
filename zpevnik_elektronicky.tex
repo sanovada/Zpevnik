@@ -31,9 +31,9 @@
 \usepackage{refcount} 					% knihovna pro počítání rozdílů stránek mezi referencemi. Potřebná pro automatické přidávání prázdných bílých stránek.
 \usepackage{calc}						% Knihovna pro nějaké výpočty a matematiku
 \usepackage{currfile}					% Knihovna pro získání jména současného souboru -- aby mohl vzít obrázek
-
+   
 %INTERAKTIVNÍ OBSAH - HYPERREF
-\usepackage[pdfusetitle, 				% Nastavení jména PDF souboru (třeba v záhlaví dokumentu)
+\usepackage[pdfusetitle, 				% Nastavení jména PDF souboru (třeba v záhlaví dokumentu) 
 			hidelinks, 					% Odkazy nebudou zvýrazněny
 			unicode=true, 				% Kódování znaků v bočním obsahu - aby se zobrazily všechny správně (unicode)
 			pdfdisplaydoctitle=true,	% Aby se zobrazoval v záhlaví název dokumentu
@@ -63,24 +63,32 @@
 
 % POUŽÍVANÉ PŘÍKAZY PRO SAZBU ZPĚVNÍKU
 \newcommand{\ch}[1]{\guitarChord{\textbf{#1}}}		% \ch pro akord
-\newcommand{\song}[1]{								% \song pro začátek písničky
-	\clearpage\newpage 
-	\ifnum \pagedifference{start:\the\numexpr\value{subsection}+1}{end:\the\numexpr\value{subsection}+1}>0 %zajišťuje vkládání prázdných stránek
-		\ifodd \number\numexpr\value{page}
-			\relax
-		\else
-		 	\ 
-			\clearpage\newpage
-		\fi	
-	\fi
-	\label{start:\the\numexpr\value{subsection}+1} 	%vkládá značku na začátek písničky
-	\subsection[#1]{\hyperlink{obsah}{#1}}	%dělá z nadpis hyperaktivní odkaz na 1. stránku.
-		%Chtělo by dodělat, aby vracel ne na 1., ale na tu, kde daná písnička v obsahu je...
-	\begin{enumerate}
-	}
+
+\newcommand{\song}[1]{                              
+    \clearpage\newpage 
+    \ifnum \pagedifference{start:\the\numexpr\value{subsection}+1}{end:\the\numexpr\value{subsection}+1}>0 
+        \ifodd \number\numexpr\value{page}
+            \relax
+        \else
+            \ 
+            \clearpage\newpage
+        \fi 
+    \fi
+    \label{start:\the\numexpr\value{subsection}+1}  
+    
+    % 1. Safely drop an invisible target into the TOC file using the numeric counter
+    \addtocontents{toc}{\protect\hypertarget{toc:\the\numexpr\value{subsection}+1}{}}
+    
+    % 2. Link the title back to that exact numeric target
+    \subsection[#1]{\hyperlink{toc:\the\numexpr\value{subsection}+1}{#1}}  
+    
+    \begin{enumerate}
+} 
+
+
 
 \newcommand{\ve}{\item }							% \ve pro sloku (1. ...)
-\newcommand{\cho}[1]{\item[R:]#1}				 	% \cho pro refrén R: ...)
+\newcommand{\cho}[1]{\item[R:]#1}		 		 	% \cho pro refrén R: ...)
 \newcommand{\re}[1]{\item[#1]}						% \re pro něco jiného
 \newcommand{\add}[1]{\input{songs/#1}}				% \add pro přidání písničky ze složky songs
 
@@ -98,12 +106,12 @@
 
 \newcommand{\pic}{							% Automaticky vloží na zbytek stránky JPG obrázek stejného jména jako má písnička
 	\IfFileExists{{images/\currfilebase}.jpg}{
-		\begin{center}
+		\begin{center} 
 			\vspace*{\fill}
 			\scalegraphics{{images/\currfilebase}.jpg}
 			\vspace*{\fill}
 		\end{center}
-	}
+	} 
 }
 
 \newcommand{\esong}{								% \esong pro konec písničky
@@ -166,6 +174,6 @@
 \pagestyle{plain}
 
 %vložení .txt souboru se seznamem písniček
-\input{songs/_seznam2.txt} % přidání celého textového souboru s písněmi - více písní najednou
+\input{all_songs.txt} % přidání celého textového souboru s písněmi - více písní najednou
 
 \end{document}

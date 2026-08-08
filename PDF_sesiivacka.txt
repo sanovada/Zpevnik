@@ -1,0 +1,17 @@
+Tento text popisuje jak mergovat A5 na A4.
+Ověřeno pro linux mint a fedora, oba příkazy z terminálu spouštět.
+
+MINT:
+sudo apt install texlive-extra-utils
+
+pdfjam prvnia5.pdf druhea5.pdf --nup 2x1 --landscape --a4paper --outfile vysledne_A4.pdf
+
+Takto se vytvoří nové PDF se jmenem vysledne_A4.pdf - všechny soubory musí být ve stejné složce.
+
+FEDORA:
+sudo dnf install texlive-pdfjam
+
+pdfjam prvni_a5.pdf druhe_a5.pdf --nup 2x1 --landscape --a4paper --outfile vysledne_A4.pdf
+
+
+Určitě to umí i další věci, dokumentace: https://github.com/pdfjam/pdfjam
