@@ -1,8 +1,13 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{guitar}[2025/12/15 Finalni verze - opraveny krizek a velikost]
+\ProvidesPackage{guitar}[2026/08/08 Upgraded version - Vertical Space Fix]
 
 \RequirePackage{xcolor}
 \RequirePackage{graphicx}
+\RequirePackage{contour}
+
+% Nastavení bílého obrysu (halo) kolem textu akordu
+\contourlength{0.9pt}
+\contournumber{16}
 
 % --- Barva akordů ---
 \newcommand{\guitar@chordcolor}{black}
@@ -11,28 +16,25 @@
 }
 
 % --- Hlavní příkaz \guitarChord ---
-% Použití: \guitarChord{Akord}{Písmeno}
 \newcommand{\guitarChord}[2]{%
   \leavevmode
-  % 1. Vrstva akordu:
-  % \rlap zajistí, že akord nezabere žádné místo v řádku
-  \rlap{%
-    % Nastavení: 2.0ex (výška nad textem), footnotesize (velikost), bfseries (tučné)
-    \raisebox{2.0ex}{%
-      \normalfont\footnotesize\bfseries\color{\guitar@chordcolor}#1%
-    }%
-  }%
-  % 2. Vrstva textu:
+  % Vložíme neviditelnou vertikální podpěru (strut) o výšce 3.5ex.
+  % Tím LaTeXu řekneme, že tento řádek je vysoký, a on automaticky
+  % odsadí předchozí řádek textu, aby bylo pro akordy místo.
+  \rule{0pt}{3.5ex}%
+  % Zvedneme akord na 2.5ex, aby měl odstup i od textu pod sebou.
+  \rlap{\raisebox{2.3ex}[0pt][0pt]{%
+    \contour{white}{\normalfont\footnotesize\bfseries\color{\guitar@chordcolor}#1}%
+  }}%
+  % Původní znak vypíšeme beze změn.
   #2%
 }
 
-% --- Pomocné značky (Opraveno) ---
-% Používáme matematický symbol $\sharp$ místo textového #
-% Velikost \footnotesize odpovídá velikosti akordu nastavené výše
+% --- Pomocné značky ---
 \newcommand{\guitarSharp}{\raisebox{0.3ex}{\footnotesize $\sharp$}}
 \newcommand{\guitarFlat}{\raisebox{0.2ex}{\footnotesize $\flat$}}
 
-% --- Akordové schéma (pro kompatibilitu) ---
+% --- Akordové schéma ---
 \newcommand{\gtab}[2]{%
   \textbf{#1}: \texttt{#2}%
 }

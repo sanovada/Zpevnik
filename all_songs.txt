@@ -10,7 +10,7 @@
 \add{alison_gross.tex}
 \add{all_I_want_for_Christmas_is_you.tex}
 \add{all_my_loving.tex}
-\add{amazonka.tex}
+%\add{amazonka.tex}
 \add{amazonka_(D).tex}
 \add{amerika.tex}
 \add{amnestie.tex}

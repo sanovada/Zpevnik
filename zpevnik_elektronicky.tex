@@ -22,7 +22,7 @@
 			{geometry}
 			
 \usepackage[utf8]{inputenc} 			% píšeme v utf-8, aby to pěkně jelo i linuxákům
-\usepackage{babel}				% nějaké další potřebné balíčky- čeština
+\usepackage[]{babel}				% nějaké další potřebné balíčky- čeština
 \usepackage[T1]{fontenc}					%pro polštinu -např Hej sokoly
 \usepackage{guitar} 					% knihovna pro akordy
 \usepackage{multicol} 					% knihovna pro více sloupců
@@ -63,8 +63,17 @@
 
 % POUŽÍVANÉ PŘÍKAZY PRO SAZBU ZPĚVNÍKU
 \newcommand{\ch}[1]{\guitarChord{\textbf{#1}}}		% \ch pro akord
+% PŘIDÁNO: Přepínač, který si pamatuje, jestli už byl obrázek vložen
+\newif\ifpicinserted
+
+% PŘIDÁNO: Přepínače pro vkládání obrázků
+\newif\ifpicinserted
+\newif\ifdisablepic
+
 
 \newcommand{\song}[1]{                              
+    \gdef\picInsertedFlag{0}
+    \gdef\picDisabledFlag{0}
     \clearpage\newpage 
     \ifnum \pagedifference{start:\the\numexpr\value{subsection}+1}{end:\the\numexpr\value{subsection}+1}>0 
         \ifodd \number\numexpr\value{page}
@@ -85,7 +94,27 @@
     \begin{enumerate}
 } 
 
+\newcommand{\pic}{							
+    \ifnum\picDisabledFlag=0\relax % Tady chyběl \relax!
+        \ifnum\picInsertedFlag=0\relax % Tady chyběl \relax!
+            \IfFileExists{{images/\currfilebase}.jpg}{%
+                \ifdim\dimexpr\pagegoal-\pagetotal\relax>6cm\relax
+                    \begin{center} 
+                        \vspace*{\fill}
+                        \scalegraphics{{images/\currfilebase}.jpg}
+                        \vspace*{\fill}
+                    \end{center}
+                    \gdef\picInsertedFlag{1}%
+                \fi
+            }{}% 
+        \fi
+    \fi
+}
 
+\newcommand{\nopic}{\gdef\picDisabledFlag{1}}
+
+
+% Nový příkaz pro manuální skrytí obráz
 
 \newcommand{\ve}{\item }							% \ve pro sloku (1. ...)
 \newcommand{\cho}[1]{\item[R:]#1}		 		 	% \cho pro refrén R: ...)
@@ -104,15 +133,6 @@
     \includegraphics[width=\imgwidth, height=\imgheight, keepaspectratio=true]{#1}
 }
 
-\newcommand{\pic}{							% Automaticky vloží na zbytek stránky JPG obrázek stejného jména jako má písnička
-	\IfFileExists{{images/\currfilebase}.jpg}{
-		\begin{center} 
-			\vspace*{\fill}
-			\scalegraphics{{images/\currfilebase}.jpg}
-			\vspace*{\fill}
-		\end{center}
-	} 
-}
 
 \newcommand{\esong}{								% \esong pro konec písničky
 	\end{enumerate} 
@@ -155,7 +175,7 @@
 %Tato verze zpěvníku je optimalizovaná pro čtečky. 
 %Tato verze zpěvníku je optimalizovaná pro počítače a mobily. 
 %PDF má rozměry \getlength{\paperwidth} mm x \getlength{\paperheight} mm
-%, pro úsporu místa nemá okraje ani čísla stránek
+%, pro úsporu místa nemá okraje ani čís;stránek
 % a má interaktivní klikací obsah. Kliknutím na libovolný nadpis se vrátíte na 1. stranu. 
 %Před písničku, která je na 2 strany, je automaticky vkládána volná stránka v případě, že by začínala na sudé stránce.
 %\end{abstract}

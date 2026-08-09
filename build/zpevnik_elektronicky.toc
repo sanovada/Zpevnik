@@ -24,1158 +24,1156 @@
 \hypertarget {toc:12}{}
 \contentsline {subsection}{\numberline {0.12}Amazonka (Hop Trop)}{32}{subsection.0.12}%
 \hypertarget {toc:13}{}
-\contentsline {subsection}{\numberline {0.13}Amazonka (Hop Trop)}{33}{subsection.0.13}%
+\contentsline {subsection}{\numberline {0.13}Amerika (Lucie)}{33}{subsection.0.13}%
 \hypertarget {toc:14}{}
-\contentsline {subsection}{\numberline {0.14}Amerika (Lucie)}{34}{subsection.0.14}%
+\contentsline {subsection}{\numberline {0.14}Amnestie (Karel Plíhal)}{34}{subsection.0.14}%
 \hypertarget {toc:15}{}
-\contentsline {subsection}{\numberline {0.15}Amnestie (Karel Plíhal)}{35}{subsection.0.15}%
+\contentsline {subsection}{\numberline {0.15}Amor Magor (Lucie Bílá)}{35}{subsection.0.15}%
 \hypertarget {toc:16}{}
-\contentsline {subsection}{\numberline {0.16}Amor Magor (Lucie Bílá)}{36}{subsection.0.16}%
+\contentsline {subsection}{\numberline {0.16}Ananas z Caracasu}{36}{subsection.0.16}%
 \hypertarget {toc:17}{}
-\contentsline {subsection}{\numberline {0.17}Ananas z Caracasu}{37}{subsection.0.17}%
+\contentsline {subsection}{\numberline {0.17}Anděl (Karel Kryl)}{37}{subsection.0.17}%
 \hypertarget {toc:18}{}
-\contentsline {subsection}{\numberline {0.18}Anděl (Karel Kryl)}{38}{subsection.0.18}%
+\contentsline {subsection}{\numberline {0.18}Anděl (Mirai)}{38}{subsection.0.18}%
 \hypertarget {toc:19}{}
-\contentsline {subsection}{\numberline {0.19}Anděl (Mirai)}{39}{subsection.0.19}%
+\contentsline {subsection}{\numberline {0.19}Andělé nade mnou bdí (křesťanská)}{39}{subsection.0.19}%
 \hypertarget {toc:20}{}
-\contentsline {subsection}{\numberline {0.20}Andělé nade mnou bdí (křesťanská)}{40}{subsection.0.20}%
+\contentsline {subsection}{\numberline {0.20}Andělská (Zuzana Navarová)}{40}{subsection.0.20}%
 \hypertarget {toc:21}{}
-\contentsline {subsection}{\numberline {0.21}Andělská (Zuzana Navarová)}{41}{subsection.0.21}%
+\contentsline {subsection}{\numberline {0.21}Andulce z béčka (bratři Ebenové)}{41}{subsection.0.21}%
 \hypertarget {toc:22}{}
-\contentsline {subsection}{\numberline {0.22}Andulce z béčka (bratři Ebenové)}{42}{subsection.0.22}%
+\contentsline {subsection}{\numberline {0.22}Angels (Robbie Williams)}{42}{subsection.0.22}%
 \hypertarget {toc:23}{}
-\contentsline {subsection}{\numberline {0.23}Angels (Robbie Williams)}{43}{subsection.0.23}%
+\contentsline {subsection}{\numberline {0.23}Another love (Tom Odell)}{43}{subsection.0.23}%
 \hypertarget {toc:24}{}
-\contentsline {subsection}{\numberline {0.24}Another love (Tom Odell)}{44}{subsection.0.24}%
+\contentsline {subsection}{\numberline {0.24}Antidepresivní rybička (Vypsaná fixa)}{44}{subsection.0.24}%
 \hypertarget {toc:25}{}
-\contentsline {subsection}{\numberline {0.25}Antidepresivní rybička (Vypsaná fixa)}{45}{subsection.0.25}%
+\contentsline {subsection}{\numberline {0.25}Ať požehnán je Bůh (Matt and Beth Redman / Petra Hradilová)}{45}{subsection.0.25}%
 \hypertarget {toc:26}{}
-\contentsline {subsection}{\numberline {0.26}Ať požehnán je Bůh (Matt and Beth Redman / Petra Hradilová)}{46}{subsection.0.26}%
+\contentsline {subsection}{\numberline {0.26}Auld Lang Syne (skotská / R. Burns / J. V. Sládek)}{46}{subsection.0.26}%
 \hypertarget {toc:27}{}
-\contentsline {subsection}{\numberline {0.27}Auld Lang Syne (skotská / R. Burns / J. V. Sládek)}{47}{subsection.0.27}%
+\contentsline {subsection}{\numberline {0.27}Až se zeptá ráno (bratři Ebenové)}{47}{subsection.0.27}%
 \hypertarget {toc:28}{}
-\contentsline {subsection}{\numberline {0.28}Až se zeptá ráno (bratři Ebenové)}{48}{subsection.0.28}%
+\contentsline {subsection}{\numberline {0.28}Babylon (Jaromír Nohavica)}{49}{subsection.0.28}%
 \hypertarget {toc:29}{}
-\contentsline {subsection}{\numberline {0.29}Babylon (Jaromír Nohavica)}{49}{subsection.0.29}%
+\contentsline {subsection}{\numberline {0.29}Balada o princezně a o hradu}{51}{subsection.0.29}%
 \hypertarget {toc:30}{}
-\contentsline {subsection}{\numberline {0.30}Balada o princezně a o hradu}{51}{subsection.0.30}%
+\contentsline {subsection}{\numberline {0.30}Baletka (Chinaski)}{52}{subsection.0.30}%
 \hypertarget {toc:31}{}
-\contentsline {subsection}{\numberline {0.31}Baletka (Chinaski)}{52}{subsection.0.31}%
+\contentsline {subsection}{\numberline {0.31}Banana koko baobab}{53}{subsection.0.31}%
 \hypertarget {toc:32}{}
-\contentsline {subsection}{\numberline {0.32}Banana koko baobab}{53}{subsection.0.32}%
+\contentsline {subsection}{\numberline {0.32}Banka (Wabi Ryvola)}{54}{subsection.0.32}%
 \hypertarget {toc:33}{}
-\contentsline {subsection}{\numberline {0.33}Banka (Wabi Ryvola)}{54}{subsection.0.33}%
+\contentsline {subsection}{\numberline {0.33}Bára (Kabát)}{55}{subsection.0.33}%
 \hypertarget {toc:34}{}
-\contentsline {subsection}{\numberline {0.34}Bára (Kabát)}{55}{subsection.0.34}%
+\contentsline {subsection}{\numberline {0.34}Barbora píše z tábora (Zdeněk Svěrák)}{57}{subsection.0.34}%
 \hypertarget {toc:35}{}
-\contentsline {subsection}{\numberline {0.35}Barbora píše z tábora (Zdeněk Svěrák)}{57}{subsection.0.35}%
+\contentsline {subsection}{\numberline {0.35}Barevnej svět (Nezmaři)}{59}{subsection.0.35}%
 \hypertarget {toc:36}{}
-\contentsline {subsection}{\numberline {0.36}Barevnej svět (Nezmaři)}{59}{subsection.0.36}%
+\contentsline {subsection}{\numberline {0.36}Batalion (Spirituál Kvintet)}{60}{subsection.0.36}%
 \hypertarget {toc:37}{}
-\contentsline {subsection}{\numberline {0.37}Batalion (Spirituál Kvintet)}{60}{subsection.0.37}%
+\contentsline {subsection}{\numberline {0.37}Batalion (Divokej Bill)}{61}{subsection.0.37}%
 \hypertarget {toc:38}{}
-\contentsline {subsection}{\numberline {0.38}Batalion (Divokej Bill)}{61}{subsection.0.38}%
+\contentsline {subsection}{\numberline {0.38}Battledress (Greenhorns)}{63}{subsection.0.38}%
 \hypertarget {toc:39}{}
-\contentsline {subsection}{\numberline {0.39}Battledress (Greenhorns)}{63}{subsection.0.39}%
+\contentsline {subsection}{\numberline {0.39}Běda poraženým (Klíč)}{65}{subsection.0.39}%
 \hypertarget {toc:40}{}
-\contentsline {subsection}{\numberline {0.40}Běda poraženým (Klíč)}{65}{subsection.0.40}%
+\contentsline {subsection}{\numberline {0.40}Bedna od whisky (Wabi Ryvola)}{66}{subsection.0.40}%
 \hypertarget {toc:41}{}
-\contentsline {subsection}{\numberline {0.41}Bedna od whisky (Wabi Ryvola)}{66}{subsection.0.41}%
+\contentsline {subsection}{\numberline {0.41}Betlémská hvězda}{67}{subsection.0.41}%
 \hypertarget {toc:42}{}
-\contentsline {subsection}{\numberline {0.42}Betlémská hvězda}{67}{subsection.0.42}%
+\contentsline {subsection}{\numberline {0.42}Bílý sex (Jananas)}{68}{subsection.0.42}%
 \hypertarget {toc:43}{}
-\contentsline {subsection}{\numberline {0.43}Bílý sex (Jananas)}{68}{subsection.0.43}%
+\contentsline {subsection}{\numberline {0.43}Bim Bam (Spirituál Kvintet)}{69}{subsection.0.43}%
 \hypertarget {toc:44}{}
-\contentsline {subsection}{\numberline {0.44}Bim Bam (Spirituál Kvintet)}{69}{subsection.0.44}%
+\contentsline {subsection}{\numberline {0.44}Blay Nelly (K.T.O.)}{70}{subsection.0.44}%
 \hypertarget {toc:45}{}
-\contentsline {subsection}{\numberline {0.45}Blay Nelly (K.T.O.)}{70}{subsection.0.45}%
+\contentsline {subsection}{\numberline {0.45}Bláznova ukolébavka (Pavel Dydovič)}{71}{subsection.0.45}%
 \hypertarget {toc:46}{}
-\contentsline {subsection}{\numberline {0.46}Bláznova ukolébavka (Pavel Dydovič)}{71}{subsection.0.46}%
+\contentsline {subsection}{\numberline {0.46}Blbej den (Pokáč)}{73}{subsection.0.46}%
 \hypertarget {toc:47}{}
-\contentsline {subsection}{\numberline {0.47}Blbej den (Pokáč)}{73}{subsection.0.47}%
+\contentsline {subsection}{\numberline {0.47}Blízko Little Big Hornu (Michal Tučný)}{75}{subsection.0.47}%
 \hypertarget {toc:48}{}
-\contentsline {subsection}{\numberline {0.48}Blízko Little Big Hornu (Michal Tučný)}{75}{subsection.0.48}%
+\contentsline {subsection}{\numberline {0.48}Blowing in the wind (Bob Dylan)}{76}{subsection.0.48}%
 \hypertarget {toc:49}{}
-\contentsline {subsection}{\numberline {0.49}Blowing in the wind (Bob Dylan)}{76}{subsection.0.49}%
+\contentsline {subsection}{\numberline {0.49}Blues folsomské věznice (Greenhorns)}{77}{subsection.0.49}%
 \hypertarget {toc:50}{}
-\contentsline {subsection}{\numberline {0.50}Blues folsomské věznice (Greenhorns)}{77}{subsection.0.50}%
+\contentsline {subsection}{\numberline {0.50}Blues folsomské věznice (Greenhorns)}{78}{subsection.0.50}%
 \hypertarget {toc:51}{}
-\contentsline {subsection}{\numberline {0.51}Blues folsomské věznice (Greenhorns)}{78}{subsection.0.51}%
+\contentsline {subsection}{\numberline {0.51}Blues na cestu poslední (Jiří Suchý)}{79}{subsection.0.51}%
 \hypertarget {toc:52}{}
-\contentsline {subsection}{\numberline {0.52}Blues na cestu poslední (Jiří Suchý)}{79}{subsection.0.52}%
+\contentsline {subsection}{\numberline {0.52}Boky jako skříň (Ewa Farna)}{80}{subsection.0.52}%
 \hypertarget {toc:53}{}
-\contentsline {subsection}{\numberline {0.53}Boky jako skříň (Ewa Farna)}{80}{subsection.0.53}%
+\contentsline {subsection}{\numberline {0.53}Boty proti lásce (Yvone Přenosilová)}{81}{subsection.0.53}%
 \hypertarget {toc:54}{}
-\contentsline {subsection}{\numberline {0.54}Boty proti lásce (Yvone Přenosilová)}{81}{subsection.0.54}%
+\contentsline {subsection}{\numberline {0.54}Bratříčku, zavírej vrátka (Karel Kryl)}{82}{subsection.0.54}%
 \hypertarget {toc:55}{}
-\contentsline {subsection}{\numberline {0.55}Bratříčku, zavírej vrátka (Karel Kryl)}{82}{subsection.0.55}%
+\contentsline {subsection}{\numberline {0.55}Brej den (Karel Plíhal)}{83}{subsection.0.55}%
 \hypertarget {toc:56}{}
-\contentsline {subsection}{\numberline {0.56}Brej den (Karel Plíhal)}{83}{subsection.0.56}%
+\contentsline {subsection}{\numberline {0.56}Kůrovec song Brouka hledej}{84}{subsection.0.56}%
 \hypertarget {toc:57}{}
-\contentsline {subsection}{\numberline {0.57}Kůrovec song Brouka hledej}{84}{subsection.0.57}%
+\contentsline {subsection}{\numberline {0.57}Buchet je spousta (z filmu \quotedblbase Kouzla králů\textquotedblleft )}{85}{subsection.0.57}%
 \hypertarget {toc:58}{}
-\contentsline {subsection}{\numberline {0.58}Buchet je spousta (z filmu \quotedblbase Kouzla králů\textquotedblleft )}{85}{subsection.0.58}%
+\contentsline {subsection}{\numberline {0.58}Buď a Nebe (UDG)}{86}{subsection.0.58}%
 \hypertarget {toc:59}{}
-\contentsline {subsection}{\numberline {0.59}Buď a Nebe (UDG)}{86}{subsection.0.59}%
+\contentsline {subsection}{\numberline {0.59}Bude mi lehká zem (Petr Hapka)}{87}{subsection.0.59}%
 \hypertarget {toc:60}{}
-\contentsline {subsection}{\numberline {0.60}Bude mi lehká zem (Petr Hapka)}{87}{subsection.0.60}%
+\contentsline {subsection}{\numberline {0.60}Bůh v nás (Ginevra)}{88}{subsection.0.60}%
 \hypertarget {toc:61}{}
-\contentsline {subsection}{\numberline {0.61}Bůh v nás (Ginevra)}{88}{subsection.0.61}%
+\contentsline {subsection}{\numberline {0.61}Buráky (Fešáci)}{89}{subsection.0.61}%
 \hypertarget {toc:62}{}
-\contentsline {subsection}{\numberline {0.62}Buráky (Fešáci)}{89}{subsection.0.62}%
+\contentsline {subsection}{\numberline {0.62}Byla cesta, byla ušlapaná (Hradišťan)}{90}{subsection.0.62}%
 \hypertarget {toc:63}{}
-\contentsline {subsection}{\numberline {0.63}Byla cesta, byla ušlapaná (Hradišťan)}{90}{subsection.0.63}%
+\contentsline {subsection}{\numberline {0.63}Čarodějnice z Amesbury (Asonance)}{91}{subsection.0.63}%
 \hypertarget {toc:64}{}
-\contentsline {subsection}{\numberline {0.64}Čarodějnice z Amesbury (Asonance)}{91}{subsection.0.64}%
+\contentsline {subsection}{\numberline {0.64}Carpe Diem (Vlasta Redl)}{92}{subsection.0.64}%
 \hypertarget {toc:65}{}
-\contentsline {subsection}{\numberline {0.65}Carpe Diem (Vlasta Redl)}{92}{subsection.0.65}%
+\contentsline {subsection}{\numberline {0.65}Castle on the hill (Ed Sheeran)}{93}{subsection.0.65}%
 \hypertarget {toc:66}{}
-\contentsline {subsection}{\numberline {0.66}Castle on the hill (Ed Sheeran)}{93}{subsection.0.66}%
+\contentsline {subsection}{\numberline {0.66}Častušky (Po obědě)}{95}{subsection.0.66}%
 \hypertarget {toc:67}{}
-\contentsline {subsection}{\numberline {0.67}Častušky (Po obědě)}{95}{subsection.0.67}%
+\contentsline {subsection}{\numberline {0.67}Černej pasažér (Traband)}{96}{subsection.0.67}%
 \hypertarget {toc:68}{}
-\contentsline {subsection}{\numberline {0.68}Černej pasažér (Traband)}{96}{subsection.0.68}%
+\contentsline {subsection}{\numberline {0.68}Čert ví proč (Zuzana Navarová)}{97}{subsection.0.68}%
 \hypertarget {toc:69}{}
-\contentsline {subsection}{\numberline {0.69}Čert ví proč (Zuzana Navarová)}{97}{subsection.0.69}%
+\contentsline {subsection}{\numberline {0.69}C'est la vie (Karel Gott)}{98}{subsection.0.69}%
 \hypertarget {toc:70}{}
-\contentsline {subsection}{\numberline {0.70}C'est la vie (Karel Gott)}{98}{subsection.0.70}%
+\contentsline {subsection}{\numberline {0.70}Cesta (Kryštof, Tomáš Klus)}{99}{subsection.0.70}%
 \hypertarget {toc:71}{}
-\contentsline {subsection}{\numberline {0.71}Cesta (Kryštof, Tomáš Klus)}{99}{subsection.0.71}%
+\contentsline {subsection}{\numberline {0.71}Cestou do Jenkovic (Radůza)}{100}{subsection.0.71}%
 \hypertarget {toc:72}{}
-\contentsline {subsection}{\numberline {0.72}Cestou do Jenkovic (Radůza)}{100}{subsection.0.72}%
+\contentsline {subsection}{\numberline {0.72}Chci tančit (Mirai)}{101}{subsection.0.72}%
 \hypertarget {toc:73}{}
-\contentsline {subsection}{\numberline {0.73}Chci tančit (Mirai)}{101}{subsection.0.73}%
+\contentsline {subsection}{\numberline {0.73}Chci ti říct (MIG 21)}{102}{subsection.0.73}%
 \hypertarget {toc:74}{}
-\contentsline {subsection}{\numberline {0.74}Chci ti říct (MIG 21)}{102}{subsection.0.74}%
+\contentsline {subsection}{\numberline {0.74}Chci zas v tobě spát (Lucie)}{103}{subsection.0.74}%
 \hypertarget {toc:75}{}
-\contentsline {subsection}{\numberline {0.75}Chci zas v tobě spát (Lucie)}{103}{subsection.0.75}%
+\contentsline {subsection}{\numberline {0.75}Chvíle (Hop Trop)}{105}{subsection.0.75}%
 \hypertarget {toc:76}{}
-\contentsline {subsection}{\numberline {0.76}Chvíle (Hop Trop)}{105}{subsection.0.76}%
+\contentsline {subsection}{\numberline {0.76}Chybíš mi (Tomáš Klus)}{106}{subsection.0.76}%
 \hypertarget {toc:77}{}
-\contentsline {subsection}{\numberline {0.77}Chybíš mi (Tomáš Klus)}{106}{subsection.0.77}%
+\contentsline {subsection}{\numberline {0.77}Co když (Vlasta Redl)}{107}{subsection.0.77}%
 \hypertarget {toc:78}{}
-\contentsline {subsection}{\numberline {0.78}Co když (Vlasta Redl)}{107}{subsection.0.78}%
+\contentsline {subsection}{\numberline {0.78}Čokoláda (Strašlivá Podívaná)}{108}{subsection.0.78}%
 \hypertarget {toc:79}{}
-\contentsline {subsection}{\numberline {0.79}Čokoláda (Strašlivá Podívaná)}{108}{subsection.0.79}%
+\contentsline {subsection}{\numberline {0.79}Colorado (Kabát)}{109}{subsection.0.79}%
 \hypertarget {toc:80}{}
-\contentsline {subsection}{\numberline {0.80}Colorado (Kabát)}{109}{subsection.0.80}%
+\contentsline {subsection}{\numberline {0.80}Čtyři slunce (Vypsaná Fixa)}{110}{subsection.0.80}%
 \hypertarget {toc:81}{}
-\contentsline {subsection}{\numberline {0.81}Čtyři slunce (Vypsaná Fixa)}{110}{subsection.0.81}%
+\contentsline {subsection}{\numberline {0.81}Cudzinka v tvojej zemi (Xindl X)}{111}{subsection.0.81}%
 \hypertarget {toc:82}{}
-\contentsline {subsection}{\numberline {0.82}Cudzinka v tvojej zemi (Xindl X)}{111}{subsection.0.82}%
+\contentsline {subsection}{\numberline {0.82}Cukrářská bossanova (Karel Plíhal)}{113}{subsection.0.82}%
 \hypertarget {toc:83}{}
-\contentsline {subsection}{\numberline {0.83}Cukrářská bossanova (Karel Plíhal)}{113}{subsection.0.83}%
+\contentsline {subsection}{\numberline {0.83}Čundr (Yellow Sisters)}{114}{subsection.0.83}%
 \hypertarget {toc:84}{}
-\contentsline {subsection}{\numberline {0.84}Čundr (Yellow Sisters)}{114}{subsection.0.84}%
+\contentsline {subsection}{\numberline {0.84}Ďábel a syn (Kabát)}{115}{subsection.0.84}%
 \hypertarget {toc:85}{}
-\contentsline {subsection}{\numberline {0.85}Ďábel a syn (Kabát)}{117}{subsection.0.85}%
+\contentsline {subsection}{\numberline {0.85}Ďáblovy námluvy (Asonance)}{117}{subsection.0.85}%
 \hypertarget {toc:86}{}
-\contentsline {subsection}{\numberline {0.86}Ďáblovy námluvy (Asonance)}{119}{subsection.0.86}%
+\contentsline {subsection}{\numberline {0.86}Dajána (Paul Anka / Z. Borovec)}{118}{subsection.0.86}%
 \hypertarget {toc:87}{}
-\contentsline {subsection}{\numberline {0.87}Dajána (Paul Anka / Z. Borovec)}{120}{subsection.0.87}%
+\contentsline {subsection}{\numberline {0.87}Danse macabre (Jaromír Nohavica)}{119}{subsection.0.87}%
 \hypertarget {toc:88}{}
-\contentsline {subsection}{\numberline {0.88}Danse macabre (Jaromír Nohavica)}{121}{subsection.0.88}%
+\contentsline {subsection}{\numberline {0.88}Darmoděj (Jaromír Nohavica)}{121}{subsection.0.88}%
 \hypertarget {toc:89}{}
-\contentsline {subsection}{\numberline {0.89}Darmoděj (Jaromír Nohavica)}{123}{subsection.0.89}%
+\contentsline {subsection}{\numberline {0.89}Dávno (Divokej Bill)}{123}{subsection.0.89}%
 \hypertarget {toc:90}{}
-\contentsline {subsection}{\numberline {0.90}Dávno (Divokej Bill)}{125}{subsection.0.90}%
+\contentsline {subsection}{\numberline {0.90}De Nimes (Radůza)}{124}{subsection.0.90}%
 \hypertarget {toc:91}{}
-\contentsline {subsection}{\numberline {0.91}De Nimes (Radůza)}{126}{subsection.0.91}%
+\contentsline {subsection}{\numberline {0.91}Dej mi víc své lásky (Olympic)}{125}{subsection.0.91}%
 \hypertarget {toc:92}{}
-\contentsline {subsection}{\numberline {0.92}Dej mi víc své lásky (Olympic)}{127}{subsection.0.92}%
+\contentsline {subsection}{\numberline {0.92}Děkuji (Karel Kryl)}{127}{subsection.0.92}%
 \hypertarget {toc:93}{}
-\contentsline {subsection}{\numberline {0.93}Děkuji (Karel Kryl)}{129}{subsection.0.93}%
+\contentsline {subsection}{\numberline {0.93}Dělání}{129}{subsection.0.93}%
 \hypertarget {toc:94}{}
-\contentsline {subsection}{\numberline {0.94}Dělání}{131}{subsection.0.94}%
+\contentsline {subsection}{\numberline {0.94}Demons (Imagine dragons)}{130}{subsection.0.94}%
 \hypertarget {toc:95}{}
-\contentsline {subsection}{\numberline {0.95}Demons (Imagine dragons)}{132}{subsection.0.95}%
+\contentsline {subsection}{\numberline {0.95}Desatero (Kamil Nešetřil)}{131}{subsection.0.95}%
 \hypertarget {toc:96}{}
-\contentsline {subsection}{\numberline {0.96}Desatero (Kamil Nešetřil)}{133}{subsection.0.96}%
+\contentsline {subsection}{\numberline {0.96}Dezolát (Vypsaná Fixa)}{132}{subsection.0.96}%
 \hypertarget {toc:97}{}
-\contentsline {subsection}{\numberline {0.97}Dezolát (Vypsaná Fixa)}{134}{subsection.0.97}%
+\contentsline {subsection}{\numberline {0.97}Diga diga dou (Karel Plíhal)}{133}{subsection.0.97}%
 \hypertarget {toc:98}{}
-\contentsline {subsection}{\numberline {0.98}Diga diga dou (Karel Plíhal)}{135}{subsection.0.98}%
+\contentsline {subsection}{\numberline {0.98}Divokej horskej tymián (Pavel Žalman Lohonka)}{134}{subsection.0.98}%
 \hypertarget {toc:99}{}
-\contentsline {subsection}{\numberline {0.99}Divokej horskej tymián (Pavel Žalman Lohonka)}{136}{subsection.0.99}%
+\contentsline {subsection}{\numberline {0.99}Divokej horskej tymián (skotská / Pavel Žalman Lohonka)}{135}{subsection.0.99}%
 \hypertarget {toc:100}{}
-\contentsline {subsection}{\numberline {0.100}Divokej horskej tymián (skotská / Pavel Žalman Lohonka)}{137}{subsection.0.100}%
+\contentsline {subsection}{\numberline {0.100}Divocí koně (Jaromír Nohavica}{136}{subsection.0.100}%
 \hypertarget {toc:101}{}
-\contentsline {subsection}{\numberline {0.101}Divocí koně (Jaromír Nohavica}{138}{subsection.0.101}%
+\contentsline {subsection}{\numberline {0.101}Dlažební kostka (Brutus)}{137}{subsection.0.101}%
 \hypertarget {toc:102}{}
-\contentsline {subsection}{\numberline {0.102}Dlažební kostka (Brutus)}{139}{subsection.0.102}%
+\contentsline {subsection}{\numberline {0.102}Dlouhej kouř (Chinaski)}{138}{subsection.0.102}%
 \hypertarget {toc:103}{}
-\contentsline {subsection}{\numberline {0.103}Dlouhej kouř (Chinaski)}{140}{subsection.0.103}%
+\contentsline {subsection}{\numberline {0.103}Do nebes (Zuzana Navarová}{139}{subsection.0.103}%
 \hypertarget {toc:104}{}
-\contentsline {subsection}{\numberline {0.104}Do nebes (Zuzana Navarová}{141}{subsection.0.104}%
+\contentsline {subsection}{\numberline {0.104}Dobrák od kosti (Chinaski)}{140}{subsection.0.104}%
 \hypertarget {toc:105}{}
-\contentsline {subsection}{\numberline {0.105}Dobrák od kosti (Chinaski)}{142}{subsection.0.105}%
+\contentsline {subsection}{\numberline {0.105}Dobrej vítr (Hop Trop)}{141}{subsection.0.105}%
 \hypertarget {toc:106}{}
-\contentsline {subsection}{\numberline {0.106}Dobrej vítr (Hop Trop)}{143}{subsection.0.106}%
+\contentsline {subsection}{\numberline {0.106}Dobrý kafe (Lucie Bílá/Pokáč)}{142}{subsection.0.106}%
 \hypertarget {toc:107}{}
-\contentsline {subsection}{\numberline {0.107}Dobrý kafe (Lucie Bílá/Pokáč)}{144}{subsection.0.107}%
+\contentsline {subsection}{\numberline {0.107}Dokud se zpívá (Jaromír Nohavica)}{143}{subsection.0.107}%
 \hypertarget {toc:108}{}
-\contentsline {subsection}{\numberline {0.108}Dokud se zpívá (Jaromír Nohavica)}{145}{subsection.0.108}%
+\contentsline {subsection}{\numberline {0.108}Domů (Jelen)}{144}{subsection.0.108}%
 \hypertarget {toc:109}{}
-\contentsline {subsection}{\numberline {0.109}Domů (Jelen)}{146}{subsection.0.109}%
+\contentsline {subsection}{\numberline {0.109}Don't Think Twice, It's All Right (Bob Dylan)}{145}{subsection.0.109}%
 \hypertarget {toc:110}{}
-\contentsline {subsection}{\numberline {0.110}Don't Think Twice, It's All Right (Bob Dylan)}{147}{subsection.0.110}%
+\contentsline {subsection}{\numberline {0.110}Dopis (Karel Plíhal)}{147}{subsection.0.110}%
 \hypertarget {toc:111}{}
-\contentsline {subsection}{\numberline {0.111}Dopis (Karel Plíhal)}{149}{subsection.0.111}%
+\contentsline {subsection}{\numberline {0.111}Dřevo (Xindl X)}{149}{subsection.0.111}%
 \hypertarget {toc:112}{}
-\contentsline {subsection}{\numberline {0.112}Dřevo (Xindl X)}{151}{subsection.0.112}%
+\contentsline {subsection}{\numberline {0.112}Drnová chajda (Greenhorns)}{152}{subsection.0.112}%
 \hypertarget {toc:113}{}
-\contentsline {subsection}{\numberline {0.113}Drnová chajda (Greenhorns)}{153}{subsection.0.113}%
+\contentsline {subsection}{\numberline {0.113}Drunken Sailor (Anglická námořnická)}{153}{subsection.0.113}%
 \hypertarget {toc:114}{}
-\contentsline {subsection}{\numberline {0.114}Drunken Sailor (Anglická námořnická)}{154}{subsection.0.114}%
+\contentsline {subsection}{\numberline {0.114}Dům u vycházejícího slunce (traditional / Z. Borovec)}{154}{subsection.0.114}%
 \hypertarget {toc:115}{}
-\contentsline {subsection}{\numberline {0.115}Dům u vycházejícího slunce (traditional / Z. Borovec)}{155}{subsection.0.115}%
+\contentsline {subsection}{\numberline {0.115}Dva havrani (Asonance)}{155}{subsection.0.115}%
 \hypertarget {toc:116}{}
-\contentsline {subsection}{\numberline {0.116}Dva havrani (Asonance)}{156}{subsection.0.116}%
+\contentsline {subsection}{\numberline {0.116}Dvě spálený srdce (Karel Plíhal)}{156}{subsection.0.116}%
 \hypertarget {toc:117}{}
-\contentsline {subsection}{\numberline {0.117}Dvě spálený srdce (Karel Plíhal)}{157}{subsection.0.117}%
+\contentsline {subsection}{\numberline {0.117}Ekosong (Voxel feat Pokáč)}{157}{subsection.0.117}%
 \hypertarget {toc:118}{}
-\contentsline {subsection}{\numberline {0.118}Ekosong (Voxel feat Pokáč)}{158}{subsection.0.118}%
+\contentsline {subsection}{\numberline {0.118}Eldorádo (Waldemard Matuška)}{158}{subsection.0.118}%
 \hypertarget {toc:119}{}
-\contentsline {subsection}{\numberline {0.119}Eldorádo (Waldemard Matuška)}{159}{subsection.0.119}%
+\contentsline {subsection}{\numberline {0.119}Eště si já (lidová)}{159}{subsection.0.119}%
 \hypertarget {toc:120}{}
-\contentsline {subsection}{\numberline {0.120}Eště si já (lidová)}{160}{subsection.0.120}%
+\contentsline {subsection}{\numberline {0.120}Eště som sa neoženil (lidová)}{160}{subsection.0.120}%
 \hypertarget {toc:121}{}
-\contentsline {subsection}{\numberline {0.121}Eště som sa neoženil (lidová)}{161}{subsection.0.121}%
+\contentsline {subsection}{\numberline {0.121}Fabie pistácie (Trocha Klidu)}{161}{subsection.0.121}%
 \hypertarget {toc:122}{}
-\contentsline {subsection}{\numberline {0.122}Fabie pistácie (Trocha Klidu)}{162}{subsection.0.122}%
+\contentsline {subsection}{\numberline {0.122}Falling Slowly (Glen Hansard)}{162}{subsection.0.122}%
 \hypertarget {toc:123}{}
-\contentsline {subsection}{\numberline {0.123}Falling Slowly (Glen Hansard)}{163}{subsection.0.123}%
+\contentsline {subsection}{\numberline {0.123}Franky dlouhán (Brontosauři)}{163}{subsection.0.123}%
 \hypertarget {toc:124}{}
-\contentsline {subsection}{\numberline {0.124}Franky dlouhán (Brontosauři)}{164}{subsection.0.124}%
+\contentsline {subsection}{\numberline {0.124}Gastrosexuál (Wohnout)}{164}{subsection.0.124}%
 \hypertarget {toc:125}{}
-\contentsline {subsection}{\numberline {0.125}Gastrosexuál (Wohnout)}{165}{subsection.0.125}%
+\contentsline {subsection}{\numberline {0.125}Gorale (slezská / Čechomor)}{165}{subsection.0.125}%
 \hypertarget {toc:126}{}
-\contentsline {subsection}{\numberline {0.126}Gorale (slezská / Čechomor)}{166}{subsection.0.126}%
+\contentsline {subsection}{\numberline {0.126}Grónská písnička (Jaromír Nohavica)}{166}{subsection.0.126}%
 \hypertarget {toc:127}{}
-\contentsline {subsection}{\numberline {0.127}Grónská písnička (Jaromír Nohavica)}{167}{subsection.0.127}%
+\contentsline {subsection}{\numberline {0.127}Hádej (Ondřej Ruml)}{167}{subsection.0.127}%
 \hypertarget {toc:128}{}
-\contentsline {subsection}{\numberline {0.128}Hádej (Ondřej Ruml)}{168}{subsection.0.128}%
+\contentsline {subsection}{\numberline {0.128}Hajný je lesa pán (Zdeněk Svěrák, Jan Uhlíř)}{168}{subsection.0.128}%
 \hypertarget {toc:129}{}
-\contentsline {subsection}{\numberline {0.129}Hajný je lesa pán (Zdeněk Svěrák, Jan Uhlíř)}{169}{subsection.0.129}%
+\contentsline {subsection}{\numberline {0.129}Haleluja, sláva (Karel Řežábek)}{169}{subsection.0.129}%
 \hypertarget {toc:130}{}
-\contentsline {subsection}{\numberline {0.130}Haleluja, sláva (Karel Řežábek)}{170}{subsection.0.130}%
+\contentsline {subsection}{\numberline {0.130}Hallelujah (Leonard Cohen)}{170}{subsection.0.130}%
 \hypertarget {toc:131}{}
-\contentsline {subsection}{\numberline {0.131}Hallelujah (Leonard Cohen)}{171}{subsection.0.131}%
+\contentsline {subsection}{\numberline {0.131}Hanging tree (James Newton Howard)}{171}{subsection.0.131}%
 \hypertarget {toc:132}{}
-\contentsline {subsection}{\numberline {0.132}Hanging tree (James Newton Howard)}{172}{subsection.0.132}%
+\contentsline {subsection}{\numberline {0.132}Happy Xmas (John Lennon)}{172}{subsection.0.132}%
 \hypertarget {toc:133}{}
-\contentsline {subsection}{\numberline {0.133}Happy Xmas (John Lennon)}{173}{subsection.0.133}%
+\contentsline {subsection}{\numberline {0.133}Hey Jude (The Beatles)}{173}{subsection.0.133}%
 \hypertarget {toc:134}{}
-\contentsline {subsection}{\numberline {0.134}Hey Jude (The Beatles)}{174}{subsection.0.134}%
+\contentsline {subsection}{\numberline {0.134}Hej sokoły (polsko-ukrajinská lidová)}{174}{subsection.0.134}%
 \hypertarget {toc:135}{}
-\contentsline {subsection}{\numberline {0.135}Hej sokoły (polsko-ukrajinská lidová)}{175}{subsection.0.135}%
+\contentsline {subsection}{\numberline {0.135}Hej teto (Michal Horák)}{175}{subsection.0.135}%
 \hypertarget {toc:136}{}
-\contentsline {subsection}{\numberline {0.136}Hej teto (Michal Horák)}{176}{subsection.0.136}%
+\contentsline {subsection}{\numberline {0.136}Hejkal (Wabi Daněk)}{176}{subsection.0.136}%
 \hypertarget {toc:137}{}
-\contentsline {subsection}{\numberline {0.137}Hejkal (Wabi Daněk)}{177}{subsection.0.137}%
+\contentsline {subsection}{\numberline {0.137}Hejna včel (Brontosauři)}{177}{subsection.0.137}%
 \hypertarget {toc:138}{}
-\contentsline {subsection}{\numberline {0.138}Hejna včel (Brontosauři)}{178}{subsection.0.138}%
+\contentsline {subsection}{\numberline {0.138}Hejno vran (Ryvolové)}{178}{subsection.0.138}%
 \hypertarget {toc:139}{}
-\contentsline {subsection}{\numberline {0.139}Hejno vran (Ryvolové)}{179}{subsection.0.139}%
+\contentsline {subsection}{\numberline {0.139}Hello (Adele)}{179}{subsection.0.139}%
 \hypertarget {toc:140}{}
-\contentsline {subsection}{\numberline {0.140}Hello (Adele)}{181}{subsection.0.140}%
+\contentsline {subsection}{\numberline {0.140}Hlavně že jsme na vzduchu (Z. SVěrák, J. Uhlíř)}{181}{subsection.0.140}%
 \hypertarget {toc:141}{}
-\contentsline {subsection}{\numberline {0.141}Hlavně že jsme na vzduchu (Z. SVěrák, J. Uhlíř)}{183}{subsection.0.141}%
+\contentsline {subsection}{\numberline {0.141}Hlídač krav (Jaromír Nohavica)}{182}{subsection.0.141}%
 \hypertarget {toc:142}{}
-\contentsline {subsection}{\numberline {0.142}Hlídač krav (Jaromír Nohavica)}{185}{subsection.0.142}%
+\contentsline {subsection}{\numberline {0.142}Hlupáku najdu tě (Princové jsou na draka)}{183}{subsection.0.142}%
 \hypertarget {toc:143}{}
-\contentsline {subsection}{\numberline {0.143}Hlupáku najdu tě (Princové jsou na draka)}{186}{subsection.0.143}%
+\contentsline {subsection}{\numberline {0.143}Hned teď (Kryštof)}{184}{subsection.0.143}%
 \hypertarget {toc:144}{}
-\contentsline {subsection}{\numberline {0.144}Hned teď (Kryštof)}{187}{subsection.0.144}%
+\contentsline {subsection}{\numberline {0.144}Ho ho Watanay (indiánská / Pavel Žalman Lohonka)}{185}{subsection.0.144}%
 \hypertarget {toc:145}{}
-\contentsline {subsection}{\numberline {0.145}Ho ho Watanay (indiánská / Pavel Žalman Lohonka)}{188}{subsection.0.145}%
+\contentsline {subsection}{\numberline {0.145}Ho ho Watanay (Pavel Lohonka Žalman)}{186}{subsection.0.145}%
 \hypertarget {toc:146}{}
-\contentsline {subsection}{\numberline {0.146}Ho ho Watanay (Pavel Lohonka Žalman)}{189}{subsection.0.146}%
+\contentsline {subsection}{\numberline {0.146}Hoden jsi (Komunita Chemin Neuf)}{187}{subsection.0.146}%
 \hypertarget {toc:147}{}
-\contentsline {subsection}{\numberline {0.147}Hoden jsi (Komunita Chemin Neuf)}{190}{subsection.0.147}%
+\contentsline {subsection}{\numberline {0.147}Hodinový hotel (Mňága a Žďorp)}{188}{subsection.0.147}%
 \hypertarget {toc:148}{}
-\contentsline {subsection}{\numberline {0.148}Hodinový hotel (Mňága a Žďorp)}{191}{subsection.0.148}%
+\contentsline {subsection}{\numberline {0.148}Hoja Hoj (Karel Svoboda)}{189}{subsection.0.148}%
 \hypertarget {toc:149}{}
-\contentsline {subsection}{\numberline {0.149}Hoja Hoj (Karel Svoboda)}{192}{subsection.0.149}%
+\contentsline {subsection}{\numberline {0.149}Holka nebo kluk (Tajemství staré bambitky)}{190}{subsection.0.149}%
 \hypertarget {toc:150}{}
-\contentsline {subsection}{\numberline {0.150}Holka nebo kluk (Tajemství staré bambitky)}{193}{subsection.0.150}%
+\contentsline {subsection}{\numberline {0.150}Holubí dům (Jiří Schelinger)}{191}{subsection.0.150}%
 \hypertarget {toc:151}{}
-\contentsline {subsection}{\numberline {0.151}Holubí dům (Jiří Schelinger)}{194}{subsection.0.151}%
+\contentsline {subsection}{\numberline {0.151}Holubí dům (Jiří Schelinger)}{192}{subsection.0.151}%
 \hypertarget {toc:152}{}
-\contentsline {subsection}{\numberline {0.152}Holubí dům (Jiří Schelinger)}{196}{subsection.0.152}%
+\contentsline {subsection}{\numberline {0.152}Hořkosladká komedie (Pokáč)}{193}{subsection.0.152}%
 \hypertarget {toc:153}{}
-\contentsline {subsection}{\numberline {0.153}Hořkosladká komedie (Pokáč)}{197}{subsection.0.153}%
+\contentsline {subsection}{\numberline {0.153}Houby magický (Kabát)}{194}{subsection.0.153}%
 \hypertarget {toc:154}{}
-\contentsline {subsection}{\numberline {0.154}Houby magický (Kabát)}{198}{subsection.0.154}%
+\contentsline {subsection}{\numberline {0.154}House of Gold (Twenty One Pilots)}{195}{subsection.0.154}%
 \hypertarget {toc:155}{}
-\contentsline {subsection}{\numberline {0.155}House of Gold (Twenty One Pilots)}{199}{subsection.0.155}%
+\contentsline {subsection}{\numberline {0.155}How far I'll go (Alessia Cara)}{197}{subsection.0.155}%
 \hypertarget {toc:156}{}
-\contentsline {subsection}{\numberline {0.156}How far I'll go (Alessia Cara)}{201}{subsection.0.156}%
+\contentsline {subsection}{\numberline {0.156}Hrobař (Premiér)}{200}{subsection.0.156}%
 \hypertarget {toc:157}{}
-\contentsline {subsection}{\numberline {0.157}Hrobař (Premiér)}{204}{subsection.0.157}%
+\contentsline {subsection}{\numberline {0.157}Hruška (Čechomor)}{201}{subsection.0.157}%
 \hypertarget {toc:158}{}
-\contentsline {subsection}{\numberline {0.158}Hruška (Čechomor)}{205}{subsection.0.158}%
+\contentsline {subsection}{\numberline {0.158}Hudsonský šífy (Wabi Daněk)}{202}{subsection.0.158}%
 \hypertarget {toc:159}{}
-\contentsline {subsection}{\numberline {0.159}Hudsonský šífy (Wabi Daněk)}{206}{subsection.0.159}%
+\contentsline {subsection}{\numberline {0.159}Husličky}{203}{subsection.0.159}%
 \hypertarget {toc:160}{}
-\contentsline {subsection}{\numberline {0.160}Husličky}{207}{subsection.0.160}%
+\contentsline {subsection}{\numberline {0.160}Hvězda na vrbě (Olympic)}{204}{subsection.0.160}%
 \hypertarget {toc:161}{}
-\contentsline {subsection}{\numberline {0.161}Hvězda na vrbě (Olympic)}{208}{subsection.0.161}%
+\contentsline {subsection}{\numberline {0.161}Hvězda na vrbě (Olympic)}{205}{subsection.0.161}%
 \hypertarget {toc:162}{}
-\contentsline {subsection}{\numberline {0.162}Hvězda na vrbě (Olympic)}{209}{subsection.0.162}%
+\contentsline {subsection}{\numberline {0.162}Hvězdář (UDG)}{206}{subsection.0.162}%
 \hypertarget {toc:163}{}
-\contentsline {subsection}{\numberline {0.163}Hvězdář (UDG)}{210}{subsection.0.163}%
+\contentsline {subsection}{\numberline {0.163}Hymna světlušek (Vojtěch Beil)}{207}{subsection.0.163}%
 \hypertarget {toc:164}{}
-\contentsline {subsection}{\numberline {0.164}Hymna světlušek (Vojtěch Beil)}{211}{subsection.0.164}%
+\contentsline {subsection}{\numberline {0.164}I cesta může být cíl (Mňága a Žďorp)}{208}{subsection.0.164}%
 \hypertarget {toc:165}{}
-\contentsline {subsection}{\numberline {0.165}I cesta může být cíl (Mňága a Žďorp)}{212}{subsection.0.165}%
+\contentsline {subsection}{\numberline {0.165}Igor pelech (Zrní)}{209}{subsection.0.165}%
 \hypertarget {toc:166}{}
-\contentsline {subsection}{\numberline {0.166}Igor pelech (Zrní)}{213}{subsection.0.166}%
+\contentsline {subsection}{\numberline {0.166}Ikarus (Jaromír Nohavica)}{211}{subsection.0.166}%
 \hypertarget {toc:167}{}
-\contentsline {subsection}{\numberline {0.167}Ikarus (Jaromír Nohavica)}{215}{subsection.0.167}%
+\contentsline {subsection}{\numberline {0.167}Imagine (John Lenon)}{212}{subsection.0.167}%
 \hypertarget {toc:168}{}
-\contentsline {subsection}{\numberline {0.168}Imagine (John Lenon)}{216}{subsection.0.168}%
+\contentsline {subsection}{\numberline {0.168}Island (Wabi Ryvola)}{213}{subsection.0.168}%
 \hypertarget {toc:169}{}
-\contentsline {subsection}{\numberline {0.169}Island (Wabi Ryvola)}{217}{subsection.0.169}%
+\contentsline {subsection}{\numberline {0.169}Já a ďábel (Xindl X)}{215}{subsection.0.169}%
 \hypertarget {toc:170}{}
-\contentsline {subsection}{\numberline {0.170}Já a ďábel (Xindl X)}{219}{subsection.0.170}%
+\contentsline {subsection}{\numberline {0.170}Já budu chodit po špičkách (Petr Novák)}{217}{subsection.0.170}%
 \hypertarget {toc:171}{}
-\contentsline {subsection}{\numberline {0.171}Já budu chodit po špičkách (Petr Novák)}{221}{subsection.0.171}%
+\contentsline {subsection}{\numberline {0.171}Já chci poezii (Jaromír Nohavica)}{218}{subsection.0.171}%
 \hypertarget {toc:172}{}
-\contentsline {subsection}{\numberline {0.172}Já chci poezii (Jaromír Nohavica)}{222}{subsection.0.172}%
+\contentsline {subsection}{\numberline {0.172}Já, písnička (Pavlína Jíšová)}{219}{subsection.0.172}%
 \hypertarget {toc:173}{}
-\contentsline {subsection}{\numberline {0.173}Já, písnička (Pavlína Jíšová)}{223}{subsection.0.173}%
+\contentsline {subsection}{\numberline {0.173}Já s tebou žít nebudu (Nerez)}{220}{subsection.0.173}%
 \hypertarget {toc:174}{}
-\contentsline {subsection}{\numberline {0.174}Já s tebou žít nebudu (Nerez)}{224}{subsection.0.174}%
+\contentsline {subsection}{\numberline {0.174}Jabloně (Zrní)}{221}{subsection.0.174}%
 \hypertarget {toc:175}{}
-\contentsline {subsection}{\numberline {0.175}Jabloně (Zrní)}{225}{subsection.0.175}%
+\contentsline {subsection}{\numberline {0.175}Jarní tání (Brontosauři)}{222}{subsection.0.175}%
 \hypertarget {toc:176}{}
-\contentsline {subsection}{\numberline {0.176}Jarní tání (Brontosauři)}{226}{subsection.0.176}%
+\contentsline {subsection}{\numberline {0.176}Jaro (Fešáci)}{223}{subsection.0.176}%
 \hypertarget {toc:177}{}
-\contentsline {subsection}{\numberline {0.177}Jaro (Fešáci)}{227}{subsection.0.177}%
+\contentsline {subsection}{\numberline {0.177}Jaro (Priessnitz)}{224}{subsection.0.177}%
 \hypertarget {toc:178}{}
-\contentsline {subsection}{\numberline {0.178}Jaro (Priessnitz)}{228}{subsection.0.178}%
+\contentsline {subsection}{\numberline {0.178}Jasná zpráva (Olympic)}{225}{subsection.0.178}%
 \hypertarget {toc:179}{}
-\contentsline {subsection}{\numberline {0.179}Jasná zpráva (Olympic)}{229}{subsection.0.179}%
+\contentsline {subsection}{\numberline {0.179}Javor (Nerez)}{226}{subsection.0.179}%
 \hypertarget {toc:180}{}
-\contentsline {subsection}{\numberline {0.180}Javor (Nerez)}{230}{subsection.0.180}%
+\contentsline {subsection}{\numberline {0.180}Jdem zpátky do lesů (Pavel Žalman Lohonka)}{227}{subsection.0.180}%
 \hypertarget {toc:181}{}
-\contentsline {subsection}{\numberline {0.181}Jdem zpátky do lesů (Pavel Žalman Lohonka)}{231}{subsection.0.181}%
+\contentsline {subsection}{\numberline {0.181}Jdi za štěstím (Karel Gott)}{228}{subsection.0.181}%
 \hypertarget {toc:182}{}
-\contentsline {subsection}{\numberline {0.182}Jdi za štěstím (Karel Gott)}{232}{subsection.0.182}%
+\contentsline {subsection}{\numberline {0.182}Jdou po mě jdou (Jaromír Nohavica)}{229}{subsection.0.182}%
 \hypertarget {toc:183}{}
-\contentsline {subsection}{\numberline {0.183}Jdou po mě jdou (Jaromír Nohavica)}{233}{subsection.0.183}%
+\contentsline {subsection}{\numberline {0.183}Je to tak (Michal Horák)}{231}{subsection.0.183}%
 \hypertarget {toc:184}{}
-\contentsline {subsection}{\numberline {0.184}Je to tak (Michal Horák)}{235}{subsection.0.184}%
+\contentsline {subsection}{\numberline {0.184}Jednoduchá (Tomáš Klus)}{233}{subsection.0.184}%
 \hypertarget {toc:185}{}
-\contentsline {subsection}{\numberline {0.185}Jednoduchá (Tomáš Klus)}{237}{subsection.0.185}%
+\contentsline {subsection}{\numberline {0.185}Jednou (Voxel)}{234}{subsection.0.185}%
 \hypertarget {toc:186}{}
-\contentsline {subsection}{\numberline {0.186}Jednou (Voxel)}{238}{subsection.0.186}%
+\contentsline {subsection}{\numberline {0.186}Jednou mi fotr povídá (Ivan Hlas)}{235}{subsection.0.186}%
 \hypertarget {toc:187}{}
-\contentsline {subsection}{\numberline {0.187}Jednou mi fotr povídá (Ivan Hlas)}{239}{subsection.0.187}%
+\contentsline {subsection}{\numberline {0.187}Jelen (Jelen)}{236}{subsection.0.187}%
 \hypertarget {toc:188}{}
-\contentsline {subsection}{\numberline {0.188}Jelen (Jelen)}{240}{subsection.0.188}%
+\contentsline {subsection}{\numberline {0.188}Jericho (David Stypka)}{237}{subsection.0.188}%
 \hypertarget {toc:189}{}
-\contentsline {subsection}{\numberline {0.189}Jericho (David Stypka)}{241}{subsection.0.189}%
+\contentsline {subsection}{\numberline {0.189}Jesse James (Greenhorns)}{238}{subsection.0.189}%
 \hypertarget {toc:190}{}
-\contentsline {subsection}{\numberline {0.190}Jesse James (Greenhorns)}{242}{subsection.0.190}%
+\contentsline {subsection}{\numberline {0.190}Ještě jedno kafe (Druhá Tráva)}{239}{subsection.0.190}%
 \hypertarget {toc:191}{}
-\contentsline {subsection}{\numberline {0.191}Ještě jedno kafe (Druhá Tráva)}{243}{subsection.0.191}%
+\contentsline {subsection}{\numberline {0.191}Ještě jednu noc (Jelen)}{240}{subsection.0.191}%
 \hypertarget {toc:192}{}
-\contentsline {subsection}{\numberline {0.192}Ještě jednu noc (Jelen)}{244}{subsection.0.192}%
+\contentsline {subsection}{\numberline {0.192}Ještě mi chvilku zpívej (Vlasta Redl)}{241}{subsection.0.192}%
 \hypertarget {toc:193}{}
-\contentsline {subsection}{\numberline {0.193}Ještě mi chvilku zpívej (Vlasta Redl)}{245}{subsection.0.193}%
+\contentsline {subsection}{\numberline {0.193}Ještě mi scházíš (Jaromír Nohavica)}{242}{subsection.0.193}%
 \hypertarget {toc:194}{}
-\contentsline {subsection}{\numberline {0.194}Ještě mi scházíš (Jaromír Nohavica)}{246}{subsection.0.194}%
+\contentsline {subsection}{\numberline {0.194}Jezdím bez nehod (Milan Chladil)}{243}{subsection.0.194}%
 \hypertarget {toc:195}{}
-\contentsline {subsection}{\numberline {0.195}Jezdím bez nehod (Milan Chladil)}{247}{subsection.0.195}%
+\contentsline {subsection}{\numberline {0.195}Ježíšek (Jaromír Nohavica)}{244}{subsection.0.195}%
 \hypertarget {toc:196}{}
-\contentsline {subsection}{\numberline {0.196}Ježíšek (Jaromír Nohavica)}{248}{subsection.0.196}%
+\contentsline {subsection}{\numberline {0.196}Jidáš (Karel Kryl)}{245}{subsection.0.196}%
 \hypertarget {toc:197}{}
-\contentsline {subsection}{\numberline {0.197}Jidáš (Karel Kryl)}{249}{subsection.0.197}%
+\contentsline {subsection}{\numberline {0.197}Jó třešně zrály (Waldemar Matuška)}{246}{subsection.0.197}%
 \hypertarget {toc:198}{}
-\contentsline {subsection}{\numberline {0.198}Jó třešně zrály (Waldemar Matuška)}{250}{subsection.0.198}%
+\contentsline {subsection}{\numberline {0.198}Johanka (Jan Nedvěd)}{247}{subsection.0.198}%
 \hypertarget {toc:199}{}
-\contentsline {subsection}{\numberline {0.199}Johanka (Jan Nedvěd)}{251}{subsection.0.199}%
+\contentsline {subsection}{\numberline {0.199}John Brown (traditional / E. Knos)}{248}{subsection.0.199}%
 \hypertarget {toc:200}{}
-\contentsline {subsection}{\numberline {0.200}John Brown (traditional / E. Knos)}{252}{subsection.0.200}%
+\contentsline {subsection}{\numberline {0.200}Jožin z bažin (Ivan Mládek)}{249}{subsection.0.200}%
 \hypertarget {toc:201}{}
-\contentsline {subsection}{\numberline {0.201}Jožin z bažin (Ivan Mládek)}{253}{subsection.0.201}%
+\contentsline {subsection}{\numberline {0.201}Karavana mraků (Karel Kryl)}{250}{subsection.0.201}%
 \hypertarget {toc:202}{}
-\contentsline {subsection}{\numberline {0.202}Karavana mraků (Karel Kryl)}{254}{subsection.0.202}%
+\contentsline {subsection}{\numberline {0.202}Karneval (Klíč)}{251}{subsection.0.202}%
 \hypertarget {toc:203}{}
-\contentsline {subsection}{\numberline {0.203}Karneval (Klíč)}{255}{subsection.0.203}%
+\contentsline {subsection}{\numberline {0.203}Kaubojův nářek (americká / Spirituál Kvintet)}{252}{subsection.0.203}%
 \hypertarget {toc:204}{}
-\contentsline {subsection}{\numberline {0.204}Kaubojův nářek (americká / Spirituál Kvintet)}{256}{subsection.0.204}%
+\contentsline {subsection}{\numberline {0.204}Každé ráno (Karel Plíhal)}{253}{subsection.0.204}%
 \hypertarget {toc:205}{}
-\contentsline {subsection}{\numberline {0.205}Každé ráno (Karel Plíhal)}{257}{subsection.0.205}%
+\contentsline {subsection}{\numberline {0.205}Každý ráno (Chinaski)}{255}{subsection.0.205}%
 \hypertarget {toc:206}{}
-\contentsline {subsection}{\numberline {0.206}Každý ráno (Chinaski)}{259}{subsection.0.206}%
+\contentsline {subsection}{\numberline {0.206}Kdo na moje místo (Jaromír Nohavica)}{257}{subsection.0.206}%
 \hypertarget {toc:207}{}
-\contentsline {subsection}{\numberline {0.207}Kdo na moje místo (Jaromír Nohavica)}{261}{subsection.0.207}%
+\contentsline {subsection}{\numberline {0.207}Kdy vzlétnu já (Rebelka) (Lucie Vondráčková)}{258}{subsection.0.207}%
 \hypertarget {toc:208}{}
-\contentsline {subsection}{\numberline {0.208}Kdy vzlétnu já (Rebelka) (Lucie Vondráčková)}{262}{subsection.0.208}%
+\contentsline {subsection}{\numberline {0.208}Kdyby nám v komnatách (Jaroslav Uhlíř, Zdeněk Svěrák)}{259}{subsection.0.208}%
 \hypertarget {toc:209}{}
-\contentsline {subsection}{\numberline {0.209}Kdyby nám v komnatách (Jaroslav Uhlíř, Zdeněk Svěrák)}{263}{subsection.0.209}%
+\contentsline {subsection}{\numberline {0.209}Kdyby tady byla taková panenka (lidová)}{260}{subsection.0.209}%
 \hypertarget {toc:210}{}
-\contentsline {subsection}{\numberline {0.210}Kdyby tady byla taková panenka (lidová)}{264}{subsection.0.210}%
+\contentsline {subsection}{\numberline {0.210}Když mě brali za vojáka (Jaromír Nohavica)}{261}{subsection.0.210}%
 \hypertarget {toc:211}{}
-\contentsline {subsection}{\numberline {0.211}Když mě brali za vojáka (Jaromír Nohavica)}{265}{subsection.0.211}%
+\contentsline {subsection}{\numberline {0.211}Když náš táta hrál}{262}{subsection.0.211}%
 \hypertarget {toc:212}{}
-\contentsline {subsection}{\numberline {0.212}Když náš táta hrál}{266}{subsection.0.212}%
+\contentsline {subsection}{\numberline {0.212}Když nemůžeš, tak přidej (Mirai)}{263}{subsection.0.212}%
 \hypertarget {toc:213}{}
-\contentsline {subsection}{\numberline {0.213}Když nemůžeš, tak přidej (Mirai)}{267}{subsection.0.213}%
+\contentsline {subsection}{\numberline {0.213}Když přijdou chvíle (M*A*S*H)}{264}{subsection.0.213}%
 \hypertarget {toc:214}{}
-\contentsline {subsection}{\numberline {0.214}Když přijdou chvíle (M*A*S*H)}{268}{subsection.0.214}%
+\contentsline {subsection}{\numberline {0.214}Když si tě dívko představím (Tomáš Klus)}{265}{subsection.0.214}%
 \hypertarget {toc:215}{}
-\contentsline {subsection}{\numberline {0.215}Když si tě dívko představím (Tomáš Klus)}{269}{subsection.0.215}%
+\contentsline {subsection}{\numberline {0.215}Kláda (Hop Trop)}{266}{subsection.0.215}%
 \hypertarget {toc:216}{}
-\contentsline {subsection}{\numberline {0.216}Kláda (Hop Trop)}{270}{subsection.0.216}%
+\contentsline {subsection}{\numberline {0.216}Kláda (Hop Trop)}{267}{subsection.0.216}%
 \hypertarget {toc:217}{}
-\contentsline {subsection}{\numberline {0.217}Kláda (Hop Trop)}{271}{subsection.0.217}%
+\contentsline {subsection}{\numberline {0.217}Kladivo (Waldemar Matuška)}{268}{subsection.0.217}%
 \hypertarget {toc:218}{}
-\contentsline {subsection}{\numberline {0.218}Kladivo (Waldemar Matuška)}{272}{subsection.0.218}%
+\contentsline {subsection}{\numberline {0.218}Klára (Chinaski)}{269}{subsection.0.218}%
 \hypertarget {toc:219}{}
-\contentsline {subsection}{\numberline {0.219}Klára (Chinaski)}{273}{subsection.0.219}%
+\contentsline {subsection}{\numberline {0.219}Klidná jako voda (Jelen)}{270}{subsection.0.219}%
 \hypertarget {toc:220}{}
-\contentsline {subsection}{\numberline {0.220}Klidná jako voda (Jelen)}{274}{subsection.0.220}%
+\contentsline {subsection}{\numberline {0.220}Klukem být (táborová)}{271}{subsection.0.220}%
 \hypertarget {toc:221}{}
-\contentsline {subsection}{\numberline {0.221}Klukem být (táborová)}{275}{subsection.0.221}%
+\contentsline {subsection}{\numberline {0.221}Kluziště (Karel Plíhal)}{272}{subsection.0.221}%
 \hypertarget {toc:222}{}
-\contentsline {subsection}{\numberline {0.222}Kluziště (Karel Plíhal)}{276}{subsection.0.222}%
+\contentsline {subsection}{\numberline {0.222}Knockin' on Heaven's Door (Bob Dylan)}{273}{subsection.0.222}%
 \hypertarget {toc:223}{}
-\contentsline {subsection}{\numberline {0.223}Knockin' on Heaven's Door (Bob Dylan)}{277}{subsection.0.223}%
+\contentsline {subsection}{\numberline {0.223}Stará archa (Spirituál kvintet)}{274}{subsection.0.223}%
 \hypertarget {toc:224}{}
-\contentsline {subsection}{\numberline {0.224}Stará archa (Spirituál kvintet)}{278}{subsection.0.224}%
+\contentsline {subsection}{\numberline {0.224}Kočovní herci (František Nedvěd)}{275}{subsection.0.224}%
 \hypertarget {toc:225}{}
-\contentsline {subsection}{\numberline {0.225}Kočovní herci (František Nedvěd)}{279}{subsection.0.225}%
+\contentsline {subsection}{\numberline {0.225}Kohout (Jan Nedvěd)}{276}{subsection.0.225}%
 \hypertarget {toc:226}{}
-\contentsline {subsection}{\numberline {0.226}Kohout (Jan Nedvěd)}{280}{subsection.0.226}%
+\contentsline {subsection}{\numberline {0.226}Kometa (Jaromír Nohavica)}{277}{subsection.0.226}%
 \hypertarget {toc:227}{}
-\contentsline {subsection}{\numberline {0.227}Kometa (Jaromír Nohavica)}{281}{subsection.0.227}%
+\contentsline {subsection}{\numberline {0.227}Košilka (Jaromír Nohavica)}{278}{subsection.0.227}%
 \hypertarget {toc:228}{}
-\contentsline {subsection}{\numberline {0.228}Košilka (Jaromír Nohavica)}{282}{subsection.0.228}%
+\contentsline {subsection}{\numberline {0.228}Kozel (Jaromír Nohavica)}{279}{subsection.0.228}%
 \hypertarget {toc:229}{}
-\contentsline {subsection}{\numberline {0.229}Kozel (Jaromír Nohavica)}{283}{subsection.0.229}%
+\contentsline {subsection}{\numberline {0.229}Král a klaun (Karel Kryl)}{281}{subsection.0.229}%
 \hypertarget {toc:230}{}
-\contentsline {subsection}{\numberline {0.230}Král a klaun (Karel Kryl)}{285}{subsection.0.230}%
+\contentsline {subsection}{\numberline {0.230}Krátký popis léta (Hradišťan)}{283}{subsection.0.230}%
 \hypertarget {toc:231}{}
-\contentsline {subsection}{\numberline {0.231}Krátký popis léta (Hradišťan)}{287}{subsection.0.231}%
+\contentsline {subsection}{\numberline {0.231}Křídla (Like it)}{284}{subsection.0.231}%
 \hypertarget {toc:232}{}
-\contentsline {subsection}{\numberline {0.232}Křídla (Like it)}{288}{subsection.0.232}%
+\contentsline {subsection}{\numberline {0.232}Křídla motýlí (Aneta Langerová)}{285}{subsection.0.232}%
 \hypertarget {toc:233}{}
-\contentsline {subsection}{\numberline {0.233}Křídla motýlí (Aneta Langerová)}{289}{subsection.0.233}%
+\contentsline {subsection}{\numberline {0.233}Krutá válka (Spirituál kvintet)}{287}{subsection.0.233}%
 \hypertarget {toc:234}{}
-\contentsline {subsection}{\numberline {0.234}Krutá válka (Spirituál kvintet)}{291}{subsection.0.234}%
+\contentsline {subsection}{\numberline {0.234}Kurtizána (UDG)}{288}{subsection.0.234}%
 \hypertarget {toc:235}{}
-\contentsline {subsection}{\numberline {0.235}Kurtizána (UDG)}{292}{subsection.0.235}%
+\contentsline {subsection}{\numberline {0.235}Kutil (Chinaski)}{289}{subsection.0.235}%
 \hypertarget {toc:236}{}
-\contentsline {subsection}{\numberline {0.236}Kutil (Chinaski)}{293}{subsection.0.236}%
+\contentsline {subsection}{\numberline {0.236}Kytka (Jan Nedvěd)}{290}{subsection.0.236}%
 \hypertarget {toc:237}{}
-\contentsline {subsection}{\numberline {0.237}Kytka (Jan Nedvěd)}{294}{subsection.0.237}%
+\contentsline {subsection}{\numberline {0.237}Lachtani (Jaromír Nohavica)}{291}{subsection.0.237}%
 \hypertarget {toc:238}{}
-\contentsline {subsection}{\numberline {0.238}Lachtani (Jaromír Nohavica)}{295}{subsection.0.238}%
+\contentsline {subsection}{\numberline {0.238}Lady in Black (Uriah Heep)}{293}{subsection.0.238}%
 \hypertarget {toc:239}{}
-\contentsline {subsection}{\numberline {0.239}Lady in Black (Uriah Heep)}{297}{subsection.0.239}%
+\contentsline {subsection}{\numberline {0.239}L. A. G. song (Horkýže Slíže)}{295}{subsection.0.239}%
 \hypertarget {toc:240}{}
-\contentsline {subsection}{\numberline {0.240}L. A. G. song (Horkýže Slíže)}{299}{subsection.0.240}%
+\contentsline {subsection}{\numberline {0.240}Lájoš}{296}{subsection.0.240}%
 \hypertarget {toc:241}{}
-\contentsline {subsection}{\numberline {0.241}Lájoš}{300}{subsection.0.241}%
+\contentsline {subsection}{\numberline {0.241}Lano co k nebi nás poutá (Traband)}{297}{subsection.0.241}%
 \hypertarget {toc:242}{}
-\contentsline {subsection}{\numberline {0.242}Lano co k nebi nás poutá (Traband)}{301}{subsection.0.242}%
+\contentsline {subsection}{\numberline {0.242}Láska a hvězdy (Chinaski)}{298}{subsection.0.242}%
 \hypertarget {toc:243}{}
-\contentsline {subsection}{\numberline {0.243}Láska a hvězdy (Chinaski)}{302}{subsection.0.243}%
+\contentsline {subsection}{\numberline {0.243}Láska na vsi (Pokáč)}{299}{subsection.0.243}%
 \hypertarget {toc:244}{}
-\contentsline {subsection}{\numberline {0.244}Láska na vsi (Pokáč)}{303}{subsection.0.244}%
+\contentsline {subsection}{\numberline {0.244}Last Christmas (Wham)}{300}{subsection.0.244}%
 \hypertarget {toc:245}{}
-\contentsline {subsection}{\numberline {0.245}Last Christmas (Wham)}{304}{subsection.0.245}%
+\contentsline {subsection}{\numberline {0.245}Le Déserteur (Boris Vian)}{301}{subsection.0.245}%
 \hypertarget {toc:246}{}
-\contentsline {subsection}{\numberline {0.246}Le Déserteur (Boris Vian)}{305}{subsection.0.246}%
+\contentsline {subsection}{\numberline {0.246}Leaving on a jet plane (John Denver)}{302}{subsection.0.246}%
 \hypertarget {toc:247}{}
-\contentsline {subsection}{\numberline {0.247}Leaving on a jet plane (John Denver)}{306}{subsection.0.247}%
+\contentsline {subsection}{\numberline {0.247}Lemon Tree (Fools Garden)}{303}{subsection.0.247}%
 \hypertarget {toc:248}{}
-\contentsline {subsection}{\numberline {0.248}Lemon Tree (Fools Garden)}{307}{subsection.0.248}%
+\contentsline {subsection}{\numberline {0.248}Lepší než almužna (Jaroslav Uhlíř a Zdeněk Svěrák)}{304}{subsection.0.248}%
 \hypertarget {toc:249}{}
-\contentsline {subsection}{\numberline {0.249}Lepší než almužna (Jaroslav Uhlíř a Zdeněk Svěrák)}{308}{subsection.0.249}%
+\contentsline {subsection}{\numberline {0.249}Let It Be (Beatles)}{305}{subsection.0.249}%
 \hypertarget {toc:250}{}
-\contentsline {subsection}{\numberline {0.250}Let It Be (Beatles)}{309}{subsection.0.250}%
+\contentsline {subsection}{\numberline {0.250}Let It Go -- Frozen (Idina Menzel)}{307}{subsection.0.250}%
 \hypertarget {toc:251}{}
-\contentsline {subsection}{\numberline {0.251}Let It Go -- Frozen (Idina Menzel)}{311}{subsection.0.251}%
+\contentsline {subsection}{\numberline {0.251}Léto lásky (Summer All Stars)}{309}{subsection.0.251}%
 \hypertarget {toc:252}{}
-\contentsline {subsection}{\numberline {0.252}Léto lásky (Summer All Stars)}{313}{subsection.0.252}%
+\contentsline {subsection}{\numberline {0.252}Léto s tebou (Jiří Schelinger)}{310}{subsection.0.252}%
 \hypertarget {toc:253}{}
-\contentsline {subsection}{\numberline {0.253}Léto s tebou (Jiří Schelinger)}{314}{subsection.0.253}%
+\contentsline {subsection}{\numberline {0.253}Lilie (Karel Kryl)}{311}{subsection.0.253}%
 \hypertarget {toc:254}{}
-\contentsline {subsection}{\numberline {0.254}Lilie (Karel Kryl)}{315}{subsection.0.254}%
+\contentsline {subsection}{\numberline {0.254}Lilie skautská (Taxmeni)}{312}{subsection.0.254}%
 \hypertarget {toc:255}{}
-\contentsline {subsection}{\numberline {0.255}Lilie skautská (Taxmeni)}{316}{subsection.0.255}%
+\contentsline {subsection}{\numberline {0.255}Linda (Děda Mládek Illegal Band)}{313}{subsection.0.255}%
 \hypertarget {toc:256}{}
-\contentsline {subsection}{\numberline {0.256}Linda (Děda Mládek Illegal Band)}{317}{subsection.0.256}%
+\contentsline {subsection}{\numberline {0.256}Loďka (z pohádky Zlatovláska)}{314}{subsection.0.256}%
 \hypertarget {toc:257}{}
-\contentsline {subsection}{\numberline {0.257}Loďka (z pohádky Zlatovláska)}{318}{subsection.0.257}%
+\contentsline {subsection}{\numberline {0.257}Lodníkův lament (Hop Trop)}{315}{subsection.0.257}%
 \hypertarget {toc:258}{}
-\contentsline {subsection}{\numberline {0.258}Lodníkův lament (Hop Trop)}{319}{subsection.0.258}%
+\contentsline {subsection}{\numberline {0.258}Lokomotiva (Poletíme?)}{316}{subsection.0.258}%
 \hypertarget {toc:259}{}
-\contentsline {subsection}{\numberline {0.259}Lokomotiva (Poletíme?)}{320}{subsection.0.259}%
+\contentsline {subsection}{\numberline {0.259}Losing my Religion (R. E. M.)}{317}{subsection.0.259}%
 \hypertarget {toc:260}{}
-\contentsline {subsection}{\numberline {0.260}Losing my Religion (R. E. M.)}{321}{subsection.0.260}%
+\contentsline {subsection}{\numberline {0.260}Louisiana (Hop Trop)}{319}{subsection.0.260}%
 \hypertarget {toc:261}{}
-\contentsline {subsection}{\numberline {0.261}Louisiana (Hop Trop)}{323}{subsection.0.261}%
+\contentsline {subsection}{\numberline {0.261}Lovec amorů (Epy de Mye)}{320}{subsection.0.261}%
 \hypertarget {toc:262}{}
-\contentsline {subsection}{\numberline {0.262}Lovec amorů (Epy de Mye)}{324}{subsection.0.262}%
+\contentsline {subsection}{\numberline {0.262}Made in Valmez (Mňága a Žďorp)}{321}{subsection.0.262}%
 \hypertarget {toc:263}{}
-\contentsline {subsection}{\numberline {0.263}Made in Valmez (Mňága a Žďorp)}{325}{subsection.0.263}%
+\contentsline {subsection}{\numberline {0.263}Magdaléna (Jelen)}{322}{subsection.0.263}%
 \hypertarget {toc:264}{}
-\contentsline {subsection}{\numberline {0.264}Magdaléna (Jelen)}{326}{subsection.0.264}%
+\contentsline {subsection}{\numberline {0.264}Magdaléna (Jelen)}{323}{subsection.0.264}%
 \hypertarget {toc:265}{}
-\contentsline {subsection}{\numberline {0.265}Magdaléna (Jelen)}{327}{subsection.0.265}%
+\contentsline {subsection}{\numberline {0.265}Mája (Nightwork)}{324}{subsection.0.265}%
 \hypertarget {toc:266}{}
-\contentsline {subsection}{\numberline {0.266}Mája (Nightwork)}{328}{subsection.0.266}%
+\contentsline {subsection}{\numberline {0.266}Malování (Divokej Bill)}{325}{subsection.0.266}%
 \hypertarget {toc:267}{}
-\contentsline {subsection}{\numberline {0.267}Malování (Divokej Bill)}{329}{subsection.0.267}%
+\contentsline {subsection}{\numberline {0.267}Malování (Divokej Bill)}{326}{subsection.0.267}%
 \hypertarget {toc:268}{}
-\contentsline {subsection}{\numberline {0.268}Malování (Divokej Bill)}{330}{subsection.0.268}%
+\contentsline {subsection}{\numberline {0.268}Malý vítr (Tomáš Klus)}{327}{subsection.0.268}%
 \hypertarget {toc:269}{}
-\contentsline {subsection}{\numberline {0.269}Malý vítr (Tomáš Klus)}{331}{subsection.0.269}%
+\contentsline {subsection}{\numberline {0.269}Mám depresi rád (Poletíme?)}{328}{subsection.0.269}%
 \hypertarget {toc:270}{}
-\contentsline {subsection}{\numberline {0.270}Mám depresi rád (Poletíme?)}{332}{subsection.0.270}%
+\contentsline {subsection}{\numberline {0.270}Mám doma kočku (Pokáč)}{329}{subsection.0.270}%
 \hypertarget {toc:271}{}
-\contentsline {subsection}{\numberline {0.271}Mám doma kočku (Pokáč)}{333}{subsection.0.271}%
+\contentsline {subsection}{\numberline {0.271}Mám jizvu na rtu (Jaromír Nohavica)}{333}{subsection.0.271}%
 \hypertarget {toc:272}{}
-\contentsline {subsection}{\numberline {0.272}Mám jizvu na rtu (Jaromír Nohavica)}{337}{subsection.0.272}%
+\contentsline {subsection}{\numberline {0.272}Máma mi na krk dala klíč (Jaromír Nohavica)}{335}{subsection.0.272}%
 \hypertarget {toc:273}{}
-\contentsline {subsection}{\numberline {0.273}Máma mi na krk dala klíč (Jaromír Nohavica)}{339}{subsection.0.273}%
+\contentsline {subsection}{\numberline {0.273}Mamko nedávej mě (Čechomor)}{337}{subsection.0.273}%
 \hypertarget {toc:274}{}
-\contentsline {subsection}{\numberline {0.274}Mamko nedávej mě (Čechomor)}{341}{subsection.0.274}%
+\contentsline {subsection}{\numberline {0.274}Mandolína (Adam Ďurica)}{339}{subsection.0.274}%
 \hypertarget {toc:275}{}
-\contentsline {subsection}{\numberline {0.275}Mandolína (Adam Ďurica)}{343}{subsection.0.275}%
+\contentsline {subsection}{\numberline {0.275}Mařenka (Jaromír Nohavica)}{340}{subsection.0.275}%
 \hypertarget {toc:276}{}
-\contentsline {subsection}{\numberline {0.276}Mařenka (Jaromír Nohavica)}{345}{subsection.0.276}%
+\contentsline {subsection}{\numberline {0.276}Marie (Tomáš Klus)}{341}{subsection.0.276}%
 \hypertarget {toc:277}{}
-\contentsline {subsection}{\numberline {0.277}Marie (Tomáš Klus)}{347}{subsection.0.277}%
+\contentsline {subsection}{\numberline {0.277}Marie (Tomáš Klus)}{342}{subsection.0.277}%
 \hypertarget {toc:278}{}
-\contentsline {subsection}{\numberline {0.278}Marie (Tomáš Klus)}{348}{subsection.0.278}%
+\contentsline {subsection}{\numberline {0.278}Marie! (Traband)}{343}{subsection.0.278}%
 \hypertarget {toc:279}{}
-\contentsline {subsection}{\numberline {0.279}Marie! (Traband)}{349}{subsection.0.279}%
+\contentsline {subsection}{\numberline {0.279}Marnivá sestřenice (Suchý, Šlitr)}{344}{subsection.0.279}%
 \hypertarget {toc:280}{}
-\contentsline {subsection}{\numberline {0.280}Marnivá sestřenice (Suchý, Šlitr)}{350}{subsection.0.280}%
+\contentsline {subsection}{\numberline {0.280}Marsyas a Apollón (Marsyas)}{345}{subsection.0.280}%
 \hypertarget {toc:281}{}
-\contentsline {subsection}{\numberline {0.281}Marsyas a Apollón (Marsyas)}{351}{subsection.0.281}%
+\contentsline {subsection}{\numberline {0.281}Maruška (Malomocnost Prázdnoty)}{346}{subsection.0.281}%
 \hypertarget {toc:282}{}
-\contentsline {subsection}{\numberline {0.282}Maruška (Malomocnost Prázdnoty)}{352}{subsection.0.282}%
+\contentsline {subsection}{\numberline {0.282}Mávátka (Jaromír Nohavica)}{347}{subsection.0.282}%
 \hypertarget {toc:283}{}
-\contentsline {subsection}{\numberline {0.283}Mávátka (Jaromír Nohavica)}{353}{subsection.0.283}%
+\contentsline {subsection}{\numberline {0.283}Měls mě vůbec rád (Ewa Farna)}{349}{subsection.0.283}%
 \hypertarget {toc:284}{}
-\contentsline {subsection}{\numberline {0.284}Měls mě vůbec rád (Ewa Farna)}{355}{subsection.0.284}%
+\contentsline {subsection}{\numberline {0.284}Měsíc (Mňága \& Žďorp)}{351}{subsection.0.284}%
 \hypertarget {toc:285}{}
-\contentsline {subsection}{\numberline {0.285}Měsíc (Mňága \& Žďorp)}{357}{subsection.0.285}%
+\contentsline {subsection}{\numberline {0.285}Mezi horami (Čechomor)}{352}{subsection.0.285}%
 \hypertarget {toc:286}{}
-\contentsline {subsection}{\numberline {0.286}Mezi horami (Čechomor)}{358}{subsection.0.286}%
+\contentsline {subsection}{\numberline {0.286}Mikymauz (Jaromír Nohavica)}{353}{subsection.0.286}%
 \hypertarget {toc:287}{}
-\contentsline {subsection}{\numberline {0.287}Mikymauz (Jaromír Nohavica)}{359}{subsection.0.287}%
+\contentsline {subsection}{\numberline {0.287}Milada (Epy de Mye)}{355}{subsection.0.287}%
 \hypertarget {toc:288}{}
-\contentsline {subsection}{\numberline {0.288}Milada (Epy de Mye)}{361}{subsection.0.288}%
+\contentsline {subsection}{\numberline {0.288}Milion dreams (Pink)}{356}{subsection.0.288}%
 \hypertarget {toc:289}{}
-\contentsline {subsection}{\numberline {0.289}Milion dreams (Pink)}{362}{subsection.0.289}%
+\contentsline {subsection}{\numberline {0.289}Milióny přání (Chinaski)}{357}{subsection.0.289}%
 \hypertarget {toc:290}{}
-\contentsline {subsection}{\numberline {0.290}Milióny přání (Chinaski)}{363}{subsection.0.290}%
+\contentsline {subsection}{\numberline {0.290}Miluju a maluju (Václav Neckář)}{358}{subsection.0.290}%
 \hypertarget {toc:291}{}
-\contentsline {subsection}{\numberline {0.291}Miluju a maluju (Václav Neckář)}{364}{subsection.0.291}%
+\contentsline {subsection}{\numberline {0.291}Mimorealita (Tomáš Klus)}{359}{subsection.0.291}%
 \hypertarget {toc:292}{}
-\contentsline {subsection}{\numberline {0.292}Mimorealita (Tomáš Klus)}{365}{subsection.0.292}%
+\contentsline {subsection}{\numberline {0.292}Minulost (Jaromír Nohavica)}{360}{subsection.0.292}%
 \hypertarget {toc:293}{}
-\contentsline {subsection}{\numberline {0.293}Minulost (Jaromír Nohavica)}{366}{subsection.0.293}%
+\contentsline {subsection}{\numberline {0.293}Mississippi blues (Pacifik)}{361}{subsection.0.293}%
 \hypertarget {toc:294}{}
-\contentsline {subsection}{\numberline {0.294}Mississippi blues (Pacifik)}{367}{subsection.0.294}%
+\contentsline {subsection}{\numberline {0.294}Misty Mountains (Hobit)}{362}{subsection.0.294}%
 \hypertarget {toc:295}{}
-\contentsline {subsection}{\numberline {0.295}Misty Mountains (Hobit)}{369}{subsection.0.295}%
+\contentsline {subsection}{\numberline {0.295}Mladičká básnířka (Jaromír Nohavica)}{363}{subsection.0.295}%
 \hypertarget {toc:296}{}
-\contentsline {subsection}{\numberline {0.296}Mladičká básnířka (Jaromír Nohavica)}{371}{subsection.0.296}%
+\contentsline {subsection}{\numberline {0.296}Mlýny (Spirituál Kvintet)}{364}{subsection.0.296}%
 \hypertarget {toc:297}{}
-\contentsline {subsection}{\numberline {0.297}Mlýny (Spirituál Kvintet)}{372}{subsection.0.297}%
+\contentsline {subsection}{\numberline {0.297}Modlitba vodáka (Hop Trop)}{365}{subsection.0.297}%
 \hypertarget {toc:298}{}
-\contentsline {subsection}{\numberline {0.298}Modlitba vodáka (Hop Trop)}{373}{subsection.0.298}%
+\contentsline {subsection}{\numberline {0.298}Modlitba zavodu (Hradišťan)}{366}{subsection.0.298}%
 \hypertarget {toc:299}{}
-\contentsline {subsection}{\numberline {0.299}Modlitba zavodu (Hradišťan)}{374}{subsection.0.299}%
+\contentsline {subsection}{\numberline {0.299}Montgomery (Petr Spálený)}{367}{subsection.0.299}%
 \hypertarget {toc:300}{}
-\contentsline {subsection}{\numberline {0.300}Montgomery (Petr Spálený)}{375}{subsection.0.300}%
+\contentsline {subsection}{\numberline {0.300}Morituri te salutant (Karel Kryl)}{368}{subsection.0.300}%
 \hypertarget {toc:301}{}
-\contentsline {subsection}{\numberline {0.301}Morituri te salutant (Karel Kryl)}{376}{subsection.0.301}%
+\contentsline {subsection}{\numberline {0.301}Morituri te salutant (Karel Kryl)}{369}{subsection.0.301}%
 \hypertarget {toc:302}{}
-\contentsline {subsection}{\numberline {0.302}Morituri te salutant (Karel Kryl)}{377}{subsection.0.302}%
+\contentsline {subsection}{\numberline {0.302}Morseovka (Karel Plíhal)}{370}{subsection.0.302}%
 \hypertarget {toc:303}{}
-\contentsline {subsection}{\numberline {0.303}Morseovka (Karel Plíhal)}{378}{subsection.0.303}%
+\contentsline {subsection}{\numberline {0.303}Mou dobrou zprávu hlásej}{371}{subsection.0.303}%
 \hypertarget {toc:304}{}
-\contentsline {subsection}{\numberline {0.304}Mou dobrou zprávu hlásej}{379}{subsection.0.304}%
+\contentsline {subsection}{\numberline {0.304}Možná se mýlím (Jaromír Nohavica)}{373}{subsection.0.304}%
 \hypertarget {toc:305}{}
-\contentsline {subsection}{\numberline {0.305}Možná se mýlím (Jaromír Nohavica)}{381}{subsection.0.305}%
+\contentsline {subsection}{\numberline {0.305}Mráček (Václav Koubek)}{375}{subsection.0.305}%
 \hypertarget {toc:306}{}
-\contentsline {subsection}{\numberline {0.306}Mráček (Václav Koubek)}{383}{subsection.0.306}%
+\contentsline {subsection}{\numberline {0.306}Mraky (Traband)}{376}{subsection.0.306}%
 \hypertarget {toc:307}{}
-\contentsline {subsection}{\numberline {0.307}Mraky (Traband)}{384}{subsection.0.307}%
+\contentsline {subsection}{\numberline {0.307}Mravenčí ukolébavka (Zdeněk Svěrák a Jaroslav Uhlíř)}{377}{subsection.0.307}%
 \hypertarget {toc:308}{}
-\contentsline {subsection}{\numberline {0.308}Mravenčí ukolébavka (Zdeněk Svěrák a Jaroslav Uhlíř)}{385}{subsection.0.308}%
+\contentsline {subsection}{\numberline {0.308}Mrtvej vlak (Miki Ryvola)}{378}{subsection.0.308}%
 \hypertarget {toc:309}{}
-\contentsline {subsection}{\numberline {0.309}Mrtvej vlak (Miki Ryvola)}{386}{subsection.0.309}%
+\contentsline {subsection}{\numberline {0.309}Muchomůrky bílé (Půlnoc)}{379}{subsection.0.309}%
 \hypertarget {toc:310}{}
-\contentsline {subsection}{\numberline {0.310}Muchomůrky bílé (Půlnoc)}{387}{subsection.0.310}%
+\contentsline {subsection}{\numberline {0.310}My Bonnie Lies over the Ocean (skotská)}{380}{subsection.0.310}%
 \hypertarget {toc:311}{}
-\contentsline {subsection}{\numberline {0.311}My Bonnie Lies over the Ocean (skotská)}{388}{subsection.0.311}%
+\contentsline {subsection}{\numberline {0.311}My pluli dál a dál}{381}{subsection.0.311}%
 \hypertarget {toc:312}{}
-\contentsline {subsection}{\numberline {0.312}My pluli dál a dál}{389}{subsection.0.312}%
+\contentsline {subsection}{\numberline {0.312}Na dvojhlas (Jarret)}{382}{subsection.0.312}%
 \hypertarget {toc:313}{}
-\contentsline {subsection}{\numberline {0.313}Na dvojhlas (Jarret)}{390}{subsection.0.313}%
+\contentsline {subsection}{\numberline {0.313}Na hotelu v Olomouci (Petr Hapka)}{383}{subsection.0.313}%
 \hypertarget {toc:314}{}
-\contentsline {subsection}{\numberline {0.314}Na hotelu v Olomouci (Petr Hapka)}{391}{subsection.0.314}%
+\contentsline {subsection}{\numberline {0.314}Na kolena (Ivan Hlas)}{384}{subsection.0.314}%
 \hypertarget {toc:315}{}
-\contentsline {subsection}{\numberline {0.315}Na kolena (Ivan Hlas)}{392}{subsection.0.315}%
+\contentsline {subsection}{\numberline {0.315}Na růžích ustláno (bratři Ebenové)}{385}{subsection.0.315}%
 \hypertarget {toc:316}{}
-\contentsline {subsection}{\numberline {0.316}Na růžích ustláno (bratři Ebenové)}{393}{subsection.0.316}%
+\contentsline {subsection}{\numberline {0.316}Na sever (Kabát)}{386}{subsection.0.316}%
 \hypertarget {toc:317}{}
-\contentsline {subsection}{\numberline {0.317}Na sever (Kabát)}{394}{subsection.0.317}%
+\contentsline {subsection}{\numberline {0.317}Na širém moři (Traband)}{387}{subsection.0.317}%
 \hypertarget {toc:318}{}
-\contentsline {subsection}{\numberline {0.318}Na širém moři (Traband)}{395}{subsection.0.318}%
+\contentsline {subsection}{\numberline {0.318}Na Vánoce ráno (americká / Greenhorns)}{388}{subsection.0.318}%
 \hypertarget {toc:319}{}
-\contentsline {subsection}{\numberline {0.319}Na Vánoce ráno (americká / Greenhorns)}{396}{subsection.0.319}%
+\contentsline {subsection}{\numberline {0.319}Nad stádem koní (Buty)}{389}{subsection.0.319}%
 \hypertarget {toc:320}{}
-\contentsline {subsection}{\numberline {0.320}Nad stádem koní (Buty)}{397}{subsection.0.320}%
+\contentsline {subsection}{\numberline {0.320}Naděje (Mezitím)}{390}{subsection.0.320}%
 \hypertarget {toc:321}{}
-\contentsline {subsection}{\numberline {0.321}Naděje (Mezitím)}{398}{subsection.0.321}%
+\contentsline {subsection}{\numberline {0.321}Nahá paní (Poletíme?)}{391}{subsection.0.321}%
 \hypertarget {toc:322}{}
-\contentsline {subsection}{\numberline {0.322}Nahá paní (Poletíme?)}{399}{subsection.0.322}%
+\contentsline {subsection}{\numberline {0.322}Naj, naj}{392}{subsection.0.322}%
 \hypertarget {toc:323}{}
-\contentsline {subsection}{\numberline {0.323}Naj, naj}{400}{subsection.0.323}%
+\contentsline {subsection}{\numberline {0.323}Nám se stalo něco překrásného (Z. Svěrák, J. Uhlíř)}{393}{subsection.0.323}%
 \hypertarget {toc:324}{}
-\contentsline {subsection}{\numberline {0.324}Nám se stalo něco překrásného (Z. Svěrák, J. Uhlíř)}{401}{subsection.0.324}%
+\contentsline {subsection}{\numberline {0.324}Námořnická (Karel Plíhal)}{394}{subsection.0.324}%
 \hypertarget {toc:325}{}
-\contentsline {subsection}{\numberline {0.325}Námořnická (Karel Plíhal)}{402}{subsection.0.325}%
+\contentsline {subsection}{\numberline {0.325}Napojen (Tomáš Klus)}{395}{subsection.0.325}%
 \hypertarget {toc:326}{}
-\contentsline {subsection}{\numberline {0.326}Napojen (Tomáš Klus)}{403}{subsection.0.326}%
+\contentsline {subsection}{\numberline {0.326}Náš tábor (Světýlka)}{396}{subsection.0.326}%
 \hypertarget {toc:327}{}
-\contentsline {subsection}{\numberline {0.327}Náš tábor (Světýlka)}{404}{subsection.0.327}%
+\contentsline {subsection}{\numberline {0.327}Naštěstí (Pavel Callta)}{397}{subsection.0.327}%
 \hypertarget {toc:328}{}
-\contentsline {subsection}{\numberline {0.328}Naštěstí (Pavel Callta)}{405}{subsection.0.328}%
+\contentsline {subsection}{\numberline {0.328}Naviděnou (Kryštof)}{399}{subsection.0.328}%
 \hypertarget {toc:329}{}
-\contentsline {subsection}{\numberline {0.329}Naviděnou (Kryštof)}{407}{subsection.0.329}%
+\contentsline {subsection}{\numberline {0.329}Nebe -- peklo -- ráj (Radůza)}{400}{subsection.0.329}%
 \hypertarget {toc:330}{}
-\contentsline {subsection}{\numberline {0.330}Nebe -- peklo -- ráj (Radůza)}{408}{subsection.0.330}%
+\contentsline {subsection}{\numberline {0.330}Nebeští jezdci (Stan Jones / Jiří Brdečka)}{401}{subsection.0.330}%
 \hypertarget {toc:331}{}
-\contentsline {subsection}{\numberline {0.331}Nebeští jezdci (Stan Jones / Jiří Brdečka)}{409}{subsection.0.331}%
+\contentsline {subsection}{\numberline {0.331}Nejlíp jim bylo (Mňága a Žďorp)}{402}{subsection.0.331}%
 \hypertarget {toc:332}{}
-\contentsline {subsection}{\numberline {0.332}Nejlíp jim bylo (Mňága a Žďorp)}{410}{subsection.0.332}%
+\contentsline {subsection}{\numberline {0.332}Někdy se bojím (Štěpán Kozub a Jiří Krhut)}{403}{subsection.0.332}%
 \hypertarget {toc:333}{}
-\contentsline {subsection}{\numberline {0.333}Někdy se bojím (Štěpán Kozub a Jiří Krhut)}{411}{subsection.0.333}%
+\contentsline {subsection}{\numberline {0.333}Neklid (Tomáš Klus)}{404}{subsection.0.333}%
 \hypertarget {toc:334}{}
-\contentsline {subsection}{\numberline {0.334}Neklid (Tomáš Klus)}{412}{subsection.0.334}%
+\contentsline {subsection}{\numberline {0.334}Není nutno (Zdeněk Svěrák, Jan Uhlíř)}{405}{subsection.0.334}%
 \hypertarget {toc:335}{}
-\contentsline {subsection}{\numberline {0.335}Není nutno(Zdeněk Svěrák, Jan Uhlíř)}{413}{subsection.0.335}%
+\contentsline {subsection}{\numberline {0.335}Nepudem domú (lidová / Čechomor)}{406}{subsection.0.335}%
 \hypertarget {toc:336}{}
-\contentsline {subsection}{\numberline {0.336}Nepudem domú (lidová / Čechomor)}{414}{subsection.0.336}%
+\contentsline {subsection}{\numberline {0.336}Netuším (Michal Horák feat. Pokáč)}{407}{subsection.0.336}%
 \hypertarget {toc:337}{}
-\contentsline {subsection}{\numberline {0.337}Netuším (Michal Horák feat. Pokáč)}{415}{subsection.0.337}%
+\contentsline {subsection}{\numberline {0.337}Nevidomá dívka (Karel Kryl)}{409}{subsection.0.337}%
 \hypertarget {toc:338}{}
-\contentsline {subsection}{\numberline {0.338}Nevidomá dívka (Karel Kryl)}{417}{subsection.0.338}%
+\contentsline {subsection}{\numberline {0.338}Nevinná (Účastníci zájezdu)}{410}{subsection.0.338}%
 \hypertarget {toc:339}{}
-\contentsline {subsection}{\numberline {0.339}Nevinná (Účastníci zájezdu)}{418}{subsection.0.339}%
+\contentsline {subsection}{\numberline {0.339}Nikde žádnej sníh (Pokáč)}{411}{subsection.0.339}%
 \hypertarget {toc:340}{}
-\contentsline {subsection}{\numberline {0.340}Nikde žádnej sníh (Pokáč)}{419}{subsection.0.340}%
+\contentsline {subsection}{\numberline {0.340}Nikdy neříkej nikdy (Epy de Mye)}{412}{subsection.0.340}%
 \hypertarget {toc:341}{}
-\contentsline {subsection}{\numberline {0.341}Nikdy neříkej nikdy (Epy de Mye)}{420}{subsection.0.341}%
+\contentsline {subsection}{\numberline {0.341}Nikdy nic nebylo (Sto zvířat)}{413}{subsection.0.341}%
 \hypertarget {toc:342}{}
-\contentsline {subsection}{\numberline {0.342}Nikdy nic nebylo (Sto zvířat)}{421}{subsection.0.342}%
+\contentsline {subsection}{\numberline {0.342}Nina (Tomáš Klus)}{414}{subsection.0.342}%
 \hypertarget {toc:343}{}
-\contentsline {subsection}{\numberline {0.343}Nina (Tomáš Klus)}{422}{subsection.0.343}%
+\contentsline {subsection}{\numberline {0.343}Noe (Tomáš Klus)}{415}{subsection.0.343}%
 \hypertarget {toc:344}{}
-\contentsline {subsection}{\numberline {0.344}Noe (Tomáš Klus)}{423}{subsection.0.344}%
+\contentsline {subsection}{\numberline {0.344}Nomádský stan (Radůza)}{416}{subsection.0.344}%
 \hypertarget {toc:345}{}
-\contentsline {subsection}{\numberline {0.345}Nomádský stan (Radůza)}{424}{subsection.0.345}%
+\contentsline {subsection}{\numberline {0.345}Nosorožec (Karel Plíhal)}{417}{subsection.0.345}%
 \hypertarget {toc:346}{}
-\contentsline {subsection}{\numberline {0.346}Nosorožec (Karel Plíhal)}{425}{subsection.0.346}%
+\contentsline {subsection}{\numberline {0.346}Nový den (Klíč)}{418}{subsection.0.346}%
 \hypertarget {toc:347}{}
-\contentsline {subsection}{\numberline {0.347}Nový den (Klíč)}{426}{subsection.0.347}%
+\contentsline {subsection}{\numberline {0.347}O malém rytíři (Traband)}{419}{subsection.0.347}%
 \hypertarget {toc:348}{}
-\contentsline {subsection}{\numberline {0.348}O malém rytíři (Traband)}{427}{subsection.0.348}%
+\contentsline {subsection}{\numberline {0.348}O malém rytíři (Traband)}{421}{subsection.0.348}%
 \hypertarget {toc:349}{}
-\contentsline {subsection}{\numberline {0.349}O malém rytíři (Traband)}{429}{subsection.0.349}%
+\contentsline {subsection}{\numberline {0.349}Obluda (Samson a spol.)}{423}{subsection.0.349}%
 \hypertarget {toc:350}{}
-\contentsline {subsection}{\numberline {0.350}Obluda (Samson a spol.)}{431}{subsection.0.350}%
+\contentsline {subsection}{\numberline {0.350}Okoř}{424}{subsection.0.350}%
 \hypertarget {toc:351}{}
-\contentsline {subsection}{\numberline {0.351}Okoř}{432}{subsection.0.351}%
+\contentsline {subsection}{\numberline {0.351}Omnia vincit amor (Klíč)}{425}{subsection.0.351}%
 \hypertarget {toc:352}{}
-\contentsline {subsection}{\numberline {0.352}Omnia vincit amor (Klíč)}{433}{subsection.0.352}%
+\contentsline {subsection}{\numberline {0.352}On-line (Jaksi Taksi)}{426}{subsection.0.352}%
 \hypertarget {toc:353}{}
-\contentsline {subsection}{\numberline {0.353}On-line (Jaksi Taksi)}{434}{subsection.0.353}%
+\contentsline {subsection}{\numberline {0.353}Ona se smála (Mandrage)}{427}{subsection.0.353}%
 \hypertarget {toc:354}{}
-\contentsline {subsection}{\numberline {0.354}Ona se smála (Mandrage)}{435}{subsection.0.354}%
+\contentsline {subsection}{\numberline {0.354}One of Us (Joan Osborne)}{429}{subsection.0.354}%
 \hypertarget {toc:355}{}
-\contentsline {subsection}{\numberline {0.355}One of Us (Joan Osborne)}{437}{subsection.0.355}%
+\contentsline {subsection}{\numberline {0.355}Oranžový expres (Greenhorns)}{430}{subsection.0.355}%
 \hypertarget {toc:356}{}
-\contentsline {subsection}{\numberline {0.356}Oranžový expres (Greenhorns)}{438}{subsection.0.356}%
+\contentsline {subsection}{\numberline {0.356}Osmá barva duhy (Jaromír Nohavica)}{431}{subsection.0.356}%
 \hypertarget {toc:357}{}
-\contentsline {subsection}{\numberline {0.357}Osmá barva duhy (Jaromír Nohavica)}{439}{subsection.0.357}%
+\contentsline {subsection}{\numberline {0.357}Otec Abrahám (autor neznámý)}{432}{subsection.0.357}%
 \hypertarget {toc:358}{}
-\contentsline {subsection}{\numberline {0.358}Otec Abrahám (autor neznámý)}{440}{subsection.0.358}%
+\contentsline {subsection}{\numberline {0.358}Otherside (Red Hot Chilli Peppers)}{433}{subsection.0.358}%
 \hypertarget {toc:359}{}
-\contentsline {subsection}{\numberline {0.359}Otherside (Red Hot Chilli Peppers)}{441}{subsection.0.359}%
+\contentsline {subsection}{\numberline {0.359}Pacholek a děvečka (moravská lidová balada)}{435}{subsection.0.359}%
 \hypertarget {toc:360}{}
-\contentsline {subsection}{\numberline {0.360}Pacholek a děvečka (moravská lidová balada)}{443}{subsection.0.360}%
+\contentsline {subsection}{\numberline {0.360}Panenka (Tomáš Klus)}{436}{subsection.0.360}%
 \hypertarget {toc:361}{}
-\contentsline {subsection}{\numberline {0.361}Panenka (Tomáš Klus)}{444}{subsection.0.361}%
+\contentsline {subsection}{\numberline {0.361}Panenka (Poutníci)}{437}{subsection.0.361}%
 \hypertarget {toc:362}{}
-\contentsline {subsection}{\numberline {0.362}Panenka (Poutníci)}{445}{subsection.0.362}%
+\contentsline {subsection}{\numberline {0.362}Pánubohu do oken (Tomáš Klus)}{438}{subsection.0.362}%
 \hypertarget {toc:363}{}
-\contentsline {subsection}{\numberline {0.363}Pánubohu do oken (Tomáš Klus)}{446}{subsection.0.363}%
+\contentsline {subsection}{\numberline {0.363}Pár minut (Cop)}{439}{subsection.0.363}%
 \hypertarget {toc:364}{}
-\contentsline {subsection}{\numberline {0.364}Pár minut (Cop)}{447}{subsection.0.364}%
+\contentsline {subsection}{\numberline {0.364}Pasážová revolta (Karel Kryl)}{440}{subsection.0.364}%
 \hypertarget {toc:365}{}
-\contentsline {subsection}{\numberline {0.365}Pasážová revolta (Karel Kryl)}{448}{subsection.0.365}%
+\contentsline {subsection}{\numberline {0.365}Pastevecká (Šimek a Grossman)}{441}{subsection.0.365}%
 \hypertarget {toc:366}{}
-\contentsline {subsection}{\numberline {0.366}Pastevecká (Šimek a Grossman)}{449}{subsection.0.366}%
+\contentsline {subsection}{\numberline {0.366}Patnáct mužů (Skaldene)}{442}{subsection.0.366}%
 \hypertarget {toc:367}{}
-\contentsline {subsection}{\numberline {0.367}Patnáct mužů (Skaldene)}{450}{subsection.0.367}%
+\contentsline {subsection}{\numberline {0.367}Pažitka (Xavier Baumaxa)}{443}{subsection.0.367}%
 \hypertarget {toc:368}{}
-\contentsline {subsection}{\numberline {0.368}Pažitka (Xavier Baumaxa)}{451}{subsection.0.368}%
+\contentsline {subsection}{\numberline {0.368}Perfect (Ed Sheeran)}{445}{subsection.0.368}%
 \hypertarget {toc:369}{}
-\contentsline {subsection}{\numberline {0.369}Perfect (Ed Sheeran)}{453}{subsection.0.369}%
+\contentsline {subsection}{\numberline {0.369}Petěrburg (Jaromír Nohavica)}{447}{subsection.0.369}%
 \hypertarget {toc:370}{}
-\contentsline {subsection}{\numberline {0.370}Petěrburg (Jaromír Nohavica)}{455}{subsection.0.370}%
+\contentsline {subsection}{\numberline {0.370}Písek (Nezmaři)}{448}{subsection.0.370}%
 \hypertarget {toc:371}{}
-\contentsline {subsection}{\numberline {0.371}Písek (Nezmaři)}{456}{subsection.0.371}%
+\contentsline {subsection}{\numberline {0.371}Píseň, co mě učil listopad (Wabi Daněk)}{449}{subsection.0.371}%
 \hypertarget {toc:372}{}
-\contentsline {subsection}{\numberline {0.372}Píseň, co mě učil listopad (Wabi Daněk)}{457}{subsection.0.372}%
+\contentsline {subsection}{\numberline {0.372}Píseň o příteli (V. Vysockij / J. Nohavica)}{450}{subsection.0.372}%
 \hypertarget {toc:373}{}
-\contentsline {subsection}{\numberline {0.373}Píseň o příteli (V. Vysockij / J. Nohavica)}{458}{subsection.0.373}%
+\contentsline {subsection}{\numberline {0.373}Píseň proti trudomyslnosti (Zdeněk Svěrák Jaroslav Uhlíř)}{451}{subsection.0.373}%
 \hypertarget {toc:374}{}
-\contentsline {subsection}{\numberline {0.374}Píseň proti trudomyslnosti (Zdeněk Svěrák Jaroslav Uhlíř)}{459}{subsection.0.374}%
+\contentsline {subsection}{\numberline {0.374}Píseň zhrzeného trampa (Jaromír Nohavica)}{452}{subsection.0.374}%
 \hypertarget {toc:375}{}
-\contentsline {subsection}{\numberline {0.375}Píseň zhrzeného trampa (Jaromír Nohavica)}{460}{subsection.0.375}%
+\contentsline {subsection}{\numberline {0.375}Pískající cikán (Irská / Spirituál kvintet)}{453}{subsection.0.375}%
 \hypertarget {toc:376}{}
-\contentsline {subsection}{\numberline {0.376}Pískající cikán (Irská / Spirituál kvintet)}{461}{subsection.0.376}%
+\contentsline {subsection}{\numberline {0.376}Plakala(Divokej Bill)}{454}{subsection.0.376}%
 \hypertarget {toc:377}{}
-\contentsline {subsection}{\numberline {0.377}Plakala(Divokej Bill)}{462}{subsection.0.377}%
+\contentsline {subsection}{\numberline {0.377}Plíhalova univerzální melodie (Plíhal, Nohavica)}{455}{subsection.0.377}%
 \hypertarget {toc:378}{}
-\contentsline {subsection}{\numberline {0.378}Plíhalova univerzální melodie (Plíhal, Nohavica)}{463}{subsection.0.378}%
+\contentsline {subsection}{\numberline {0.378}Po schodoch (Richard Müller)}{456}{subsection.0.378}%
 \hypertarget {toc:379}{}
-\contentsline {subsection}{\numberline {0.379}Po schodoch (Richard Müller)}{464}{subsection.0.379}%
+\contentsline {subsection}{\numberline {0.379}Pochod marodů (Jaromír Nohavica )}{457}{subsection.0.379}%
 \hypertarget {toc:380}{}
-\contentsline {subsection}{\numberline {0.380}Pochod marodů (Jaromír Nohavica )}{465}{subsection.0.380}%
+\contentsline {subsection}{\numberline {0.380}Pocity (Tomáš Klus)}{458}{subsection.0.380}%
 \hypertarget {toc:381}{}
-\contentsline {subsection}{\numberline {0.381}Pocity (Tomáš Klus)}{466}{subsection.0.381}%
+\contentsline {subsection}{\numberline {0.381}Podívej (Ginevra)}{459}{subsection.0.381}%
 \hypertarget {toc:382}{}
-\contentsline {subsection}{\numberline {0.382}Podívej (Ginevra)}{467}{subsection.0.382}%
+\contentsline {subsection}{\numberline {0.382}Podvod (Jan Nedvěd)}{460}{subsection.0.382}%
 \hypertarget {toc:383}{}
-\contentsline {subsection}{\numberline {0.383}Podvod (Jan Nedvěd)}{468}{subsection.0.383}%
+\contentsline {subsection}{\numberline {0.383}Pohádka (Karel Plíhal)}{461}{subsection.0.383}%
 \hypertarget {toc:384}{}
-\contentsline {subsection}{\numberline {0.384}Pohádka (Karel Plíhal)}{469}{subsection.0.384}%
+\contentsline {subsection}{\numberline {0.384}Pohádka (Pokáč)}{463}{subsection.0.384}%
 \hypertarget {toc:385}{}
-\contentsline {subsection}{\numberline {0.385}Pohádka (Pokáč)}{471}{subsection.0.385}%
+\contentsline {subsection}{\numberline {0.385}Pohádka (Support Lesbiens)}{465}{subsection.0.385}%
 \hypertarget {toc:386}{}
-\contentsline {subsection}{\numberline {0.386}Pohádka (Support Lesbiens)}{473}{subsection.0.386}%
+\contentsline {subsection}{\numberline {0.386}Pohár a kalich (Klíč)}{466}{subsection.0.386}%
 \hypertarget {toc:387}{}
-\contentsline {subsection}{\numberline {0.387}Pohár a kalich (Klíč)}{474}{subsection.0.387}%
+\contentsline {subsection}{\numberline {0.387}Pohoda (Kabát)}{467}{subsection.0.387}%
 \hypertarget {toc:388}{}
-\contentsline {subsection}{\numberline {0.388}Pohoda (Kabát)}{475}{subsection.0.388}%
+\contentsline {subsection}{\numberline {0.388}Pojď se mnou, lásko má (Poletíme?)}{468}{subsection.0.388}%
 \hypertarget {toc:389}{}
-\contentsline {subsection}{\numberline {0.389}Pojď se mnou, lásko má (Poletíme?)}{476}{subsection.0.389}%
+\contentsline {subsection}{\numberline {0.389}Pojď si lehnout (Chinaski)}{469}{subsection.0.389}%
 \hypertarget {toc:390}{}
-\contentsline {subsection}{\numberline {0.390}Pojď si lehnout (Chinaski)}{477}{subsection.0.390}%
+\contentsline {subsection}{\numberline {0.390}Pole s bavlnou (Rangers)}{470}{subsection.0.390}%
 \hypertarget {toc:391}{}
-\contentsline {subsection}{\numberline {0.391}Pole s bavlnou (Rangers)}{478}{subsection.0.391}%
+\contentsline {subsection}{\numberline {0.391}Popelka (Xindl X)}{471}{subsection.0.391}%
 \hypertarget {toc:392}{}
-\contentsline {subsection}{\numberline {0.392}Popelka (Xindl X)}{479}{subsection.0.392}%
+\contentsline {subsection}{\numberline {0.392}Poraněný koleno (Pacifik)}{473}{subsection.0.392}%
 \hypertarget {toc:393}{}
-\contentsline {subsection}{\numberline {0.393}Poraněný koleno (Pacifik)}{481}{subsection.0.393}%
+\contentsline {subsection}{\numberline {0.393}Poruba (Jaromír Nohavica)}{475}{subsection.0.393}%
 \hypertarget {toc:394}{}
-\contentsline {subsection}{\numberline {0.394}Poruba (Jaromír Nohavica)}{483}{subsection.0.394}%
+\contentsline {subsection}{\numberline {0.394}Poslední noc (Epy de Mye)}{477}{subsection.0.394}%
 \hypertarget {toc:395}{}
-\contentsline {subsection}{\numberline {0.395}Poslední noc (Epy de Mye)}{485}{subsection.0.395}%
+\contentsline {subsection}{\numberline {0.395}Poslední vůle (Poletíme?)}{478}{subsection.0.395}%
 \hypertarget {toc:396}{}
-\contentsline {subsection}{\numberline {0.396}Poslední vůle (Poletíme?)}{486}{subsection.0.396}%
+\contentsline {subsection}{\numberline {0.396}Pošta (Ladislav Angyal)}{479}{subsection.0.396}%
 \hypertarget {toc:397}{}
-\contentsline {subsection}{\numberline {0.397}Pošta (Ladislav Angyal)}{487}{subsection.0.397}%
+\contentsline {subsection}{\numberline {0.397}Postel (Poletíme?)}{480}{subsection.0.397}%
 \hypertarget {toc:398}{}
-\contentsline {subsection}{\numberline {0.398}Postel (Poletíme?)}{488}{subsection.0.398}%
+\contentsline {subsection}{\numberline {0.398}Potkal jsem tě po letech (Chinaski)}{481}{subsection.0.398}%
 \hypertarget {toc:399}{}
-\contentsline {subsection}{\numberline {0.399}Potkal jsem tě po letech (Chinaski)}{489}{subsection.0.399}%
+\contentsline {subsection}{\numberline {0.399}Potulní kejklíři (Jaromír Nohavica)}{482}{subsection.0.399}%
 \hypertarget {toc:400}{}
-\contentsline {subsection}{\numberline {0.400}Potulní kejklíři (Jaromír Nohavica)}{490}{subsection.0.400}%
+\contentsline {subsection}{\numberline {0.400}Povalači (Horkýže Slíže)}{483}{subsection.0.400}%
 \hypertarget {toc:401}{}
-\contentsline {subsection}{\numberline {0.401}Povalači (Horkýže Slíže)}{491}{subsection.0.401}%
+\contentsline {subsection}{\numberline {0.401}Pověste ho vejš (Michal Tučný)}{484}{subsection.0.401}%
 \hypertarget {toc:402}{}
-\contentsline {subsection}{\numberline {0.402}Pověste ho vejš (Michal Tučný)}{492}{subsection.0.402}%
+\contentsline {subsection}{\numberline {0.402}Pramínek vlasů (Suchý, Šlitr)}{485}{subsection.0.402}%
 \hypertarget {toc:403}{}
-\contentsline {subsection}{\numberline {0.403}Pramínek vlasů (Suchý, Šlitr)}{493}{subsection.0.403}%
+\contentsline {subsection}{\numberline {0.403}Přátelství na n-tou (Petr Novák)}{486}{subsection.0.403}%
 \hypertarget {toc:404}{}
-\contentsline {subsection}{\numberline {0.404}Přátelství na n-tou (Petr Novák)}{494}{subsection.0.404}%
+\contentsline {subsection}{\numberline {0.404}Prérie (Severní nástupiště)}{487}{subsection.0.404}%
 \hypertarget {toc:405}{}
-\contentsline {subsection}{\numberline {0.405}Prérie (Severní nástupiště)}{495}{subsection.0.405}%
+\contentsline {subsection}{\numberline {0.405}Pro malou Lenku (Jaromír Nohavica)}{488}{subsection.0.405}%
 \hypertarget {toc:406}{}
-\contentsline {subsection}{\numberline {0.406}Pro malou Lenku (Jaromír Nohavica)}{496}{subsection.0.406}%
+\contentsline {subsection}{\numberline {0.406}Probuzení (Pokáč)}{489}{subsection.0.406}%
 \hypertarget {toc:407}{}
-\contentsline {subsection}{\numberline {0.407}Probuzení (Pokáč)}{497}{subsection.0.407}%
+\contentsline {subsection}{\numberline {0.407}Prodavač (Michal Tučný)}{491}{subsection.0.407}%
 \hypertarget {toc:408}{}
-\contentsline {subsection}{\numberline {0.408}Prodavač (Michal Tučný)}{499}{subsection.0.408}%
+\contentsline {subsection}{\numberline {0.408}Proklatej vůz (Greenhorns)}{493}{subsection.0.408}%
 \hypertarget {toc:409}{}
-\contentsline {subsection}{\numberline {0.409}Proklatej vůz (Greenhorns)}{501}{subsection.0.409}%
+\contentsline {subsection}{\numberline {0.409}Proměny (Čechomor)}{494}{subsection.0.409}%
 \hypertarget {toc:410}{}
-\contentsline {subsection}{\numberline {0.410}Proměny (Čechomor)}{502}{subsection.0.410}%
+\contentsline {subsection}{\numberline {0.410}První signální (Chinaski)}{495}{subsection.0.410}%
 \hypertarget {toc:411}{}
-\contentsline {subsection}{\numberline {0.411}První signální (Chinaski)}{503}{subsection.0.411}%
+\contentsline {subsection}{\numberline {0.411}Půlnoční (Václav Neckář)}{496}{subsection.0.411}%
 \hypertarget {toc:412}{}
-\contentsline {subsection}{\numberline {0.412}Půlnoční (Václav Neckář)}{504}{subsection.0.412}%
+\contentsline {subsection}{\numberline {0.412}Pyšný Janek (Jaromír Nohavica)}{497}{subsection.0.412}%
 \hypertarget {toc:413}{}
-\contentsline {subsection}{\numberline {0.413}Pyšný Janek (Jaromír Nohavica)}{505}{subsection.0.413}%
+\contentsline {subsection}{\numberline {0.413}Racci (Cermaque \& Iamme Candlewick)}{498}{subsection.0.413}%
 \hypertarget {toc:414}{}
-\contentsline {subsection}{\numberline {0.414}Racci (Cermaque \& Iamme Candlewick)}{506}{subsection.0.414}%
+\contentsline {subsection}{\numberline {0.414}Raci v práci (Kabát)}{499}{subsection.0.414}%
 \hypertarget {toc:415}{}
-\contentsline {subsection}{\numberline {0.415}Raci v práci (Kabát)}{507}{subsection.0.415}%
+\contentsline {subsection}{\numberline {0.415}Rád chodím na poštu (Pokáč)}{500}{subsection.0.415}%
 \hypertarget {toc:416}{}
-\contentsline {subsection}{\numberline {0.416}Rád chodím na poštu (Pokáč)}{508}{subsection.0.416}%
+\contentsline {subsection}{\numberline {0.416}Ráda se miluje (Karel Plíhal)}{501}{subsection.0.416}%
 \hypertarget {toc:417}{}
-\contentsline {subsection}{\numberline {0.417}Ráda se miluje (Karel Plíhal)}{509}{subsection.0.417}%
+\contentsline {subsection}{\numberline {0.417}Radioactive (Imagine Dragons)}{502}{subsection.0.417}%
 \hypertarget {toc:418}{}
-\contentsline {subsection}{\numberline {0.418}Radioactive (Imagine Dragons)}{510}{subsection.0.418}%
+\contentsline {subsection}{\numberline {0.418}Rána v trávě (Pavel Lohonka Žalman)}{503}{subsection.0.418}%
 \hypertarget {toc:419}{}
-\contentsline {subsection}{\numberline {0.419}Rána v trávě (Pavel Lohonka Žalman)}{511}{subsection.0.419}%
+\contentsline {subsection}{\numberline {0.419}Řekni, kde ty kytky jsou (Jiřina Fikejzová)}{504}{subsection.0.419}%
 \hypertarget {toc:420}{}
-\contentsline {subsection}{\numberline {0.420}Řekni, kde ty kytky jsou (Jiřina Fikejzová)}{512}{subsection.0.420}%
+\contentsline {subsection}{\numberline {0.420}Riptide (Vance Joy)}{505}{subsection.0.420}%
 \hypertarget {toc:421}{}
-\contentsline {subsection}{\numberline {0.421}Riptide (Vance Joy)}{513}{subsection.0.421}%
+\contentsline {subsection}{\numberline {0.421}Rok 1849 (americká / Greenhorns)}{506}{subsection.0.421}%
 \hypertarget {toc:422}{}
-\contentsline {subsection}{\numberline {0.422}Rok 1849 (americká / Greenhorns)}{514}{subsection.0.422}%
+\contentsline {subsection}{\numberline {0.422}Rolničky}{507}{subsection.0.422}%
 \hypertarget {toc:423}{}
-\contentsline {subsection}{\numberline {0.423}Rolničky}{515}{subsection.0.423}%
+\contentsline {subsection}{\numberline {0.423}Rosa na kolejích (Wabi Daněk)}{508}{subsection.0.423}%
 \hypertarget {toc:424}{}
-\contentsline {subsection}{\numberline {0.424}Rosa na kolejích (Wabi Daněk)}{516}{subsection.0.424}%
+\contentsline {subsection}{\numberline {0.424}Rose Tattoo (Dropkick Murphys)}{509}{subsection.0.424}%
 \hypertarget {toc:425}{}
-\contentsline {subsection}{\numberline {0.425}Rose Tattoo (Dropkick Murphys)}{517}{subsection.0.425}%
+\contentsline {subsection}{\numberline {0.425}Rozárka (Divokej Bill)}{511}{subsection.0.425}%
 \hypertarget {toc:426}{}
-\contentsline {subsection}{\numberline {0.426}Rozárka (Divokej Bill)}{519}{subsection.0.426}%
+\contentsline {subsection}{\numberline {0.426}Rozárka (Divokej Bill)}{512}{subsection.0.426}%
 \hypertarget {toc:427}{}
-\contentsline {subsection}{\numberline {0.427}Rozárka (Divokej Bill)}{520}{subsection.0.427}%
+\contentsline {subsection}{\numberline {0.427}Ruty šuty}{513}{subsection.0.427}%
 \hypertarget {toc:428}{}
-\contentsline {subsection}{\numberline {0.428}Ruty šuty}{521}{subsection.0.428}%
+\contentsline {subsection}{\numberline {0.428}Růže z papíru (Jan Nedvěd)}{514}{subsection.0.428}%
 \hypertarget {toc:429}{}
-\contentsline {subsection}{\numberline {0.429}Růže z papíru (Jan Nedvěd)}{522}{subsection.0.429}%
+\contentsline {subsection}{\numberline {0.429}Růže z Texasu (traditional / Ivo Fischer)}{515}{subsection.0.429}%
 \hypertarget {toc:430}{}
-\contentsline {subsection}{\numberline {0.430}Růže z Texasu (traditional / Ivo Fischer)}{523}{subsection.0.430}%
+\contentsline {subsection}{\numberline {0.430}Růžička (Spirituál kvintet)}{516}{subsection.0.430}%
 \hypertarget {toc:431}{}
-\contentsline {subsection}{\numberline {0.431}Růžička (Spirituál kvintet)}{524}{subsection.0.431}%
+\contentsline {subsection}{\numberline {0.431}Rybník (Václav Neckář)}{517}{subsection.0.431}%
 \hypertarget {toc:432}{}
-\contentsline {subsection}{\numberline {0.432}Rybník (Václav Neckář)}{525}{subsection.0.432}%
+\contentsline {subsection}{\numberline {0.432}Rychlé šípy (Wabi Ryvola)}{518}{subsection.0.432}%
 \hypertarget {toc:433}{}
-\contentsline {subsection}{\numberline {0.433}Rychlé šípy (Wabi Ryvola)}{526}{subsection.0.433}%
+\contentsline {subsection}{\numberline {0.433}Salome (Karel kryl)}{519}{subsection.0.433}%
 \hypertarget {toc:434}{}
-\contentsline {subsection}{\numberline {0.434}Salome (Karel kryl)}{527}{subsection.0.434}%
+\contentsline {subsection}{\numberline {0.434}Šaman (Kabát)}{520}{subsection.0.434}%
 \hypertarget {toc:435}{}
-\contentsline {subsection}{\numberline {0.435}Šaman (Kabát)}{528}{subsection.0.435}%
+\contentsline {subsection}{\numberline {0.435}Sarajevo (Jaromír Nohavica)}{521}{subsection.0.435}%
 \hypertarget {toc:436}{}
-\contentsline {subsection}{\numberline {0.436}Sarajevo (Jaromír Nohavica)}{529}{subsection.0.436}%
+\contentsline {subsection}{\numberline {0.436}Sáro! (Traband)}{522}{subsection.0.436}%
 \hypertarget {toc:437}{}
-\contentsline {subsection}{\numberline {0.437}Sáro! (Traband)}{530}{subsection.0.437}%
+\contentsline {subsection}{\numberline {0.437}Sáro (Dobrá Poloha)}{523}{subsection.0.437}%
 \hypertarget {toc:438}{}
-\contentsline {subsection}{\numberline {0.438}Sáro (Dobrá Poloha)}{531}{subsection.0.438}%
+\contentsline {subsection}{\numberline {0.438}Sbohem galánečko}{524}{subsection.0.438}%
 \hypertarget {toc:439}{}
-\contentsline {subsection}{\numberline {0.439}Sbohem galánečko}{532}{subsection.0.439}%
+\contentsline {subsection}{\numberline {0.439}Scarborough Fair (Simon \& Garfunkel)}{525}{subsection.0.439}%
 \hypertarget {toc:440}{}
-\contentsline {subsection}{\numberline {0.440}Scarborough Fair (Simon \& Garfunkel)}{533}{subsection.0.440}%
+\contentsline {subsection}{\numberline {0.440}Sedí topič u piána (Karel Plíhal)}{526}{subsection.0.440}%
 \hypertarget {toc:441}{}
-\contentsline {subsection}{\numberline {0.441}Sedí topič u piána (Karel Plíhal)}{534}{subsection.0.441}%
+\contentsline {subsection}{\numberline {0.441}Sedmikráska (Nedvědi)}{527}{subsection.0.441}%
 \hypertarget {toc:442}{}
-\contentsline {subsection}{\numberline {0.442}Sedmikráska (Nedvědi)}{535}{subsection.0.442}%
+\contentsline {subsection}{\numberline {0.442}Sen (Lucie)}{528}{subsection.0.442}%
 \hypertarget {toc:443}{}
-\contentsline {subsection}{\numberline {0.443}Sen (Lucie)}{536}{subsection.0.443}%
+\contentsline {subsection}{\numberline {0.443}Sen (Lucie)}{529}{subsection.0.443}%
 \hypertarget {toc:444}{}
-\contentsline {subsection}{\numberline {0.444}Sen (Lucie)}{537}{subsection.0.444}%
+\contentsline {subsection}{\numberline {0.444}Severní vítr (Zdeněk Svěrák, Jaroslav Uhlíř)}{530}{subsection.0.444}%
 \hypertarget {toc:445}{}
-\contentsline {subsection}{\numberline {0.445}Severní vítr (Zdeněk Svěrák, Jaroslav Uhlíř)}{538}{subsection.0.445}%
+\contentsline {subsection}{\numberline {0.445}Shaalu Shalom Yerushalayim (Žalm 122)}{531}{subsection.0.445}%
 \hypertarget {toc:446}{}
-\contentsline {subsection}{\numberline {0.446}Shaalu Shalom Yerushalayim (Žalm 122)}{539}{subsection.0.446}%
+\contentsline {subsection}{\numberline {0.446}Sibyla (Tomáš Klus)}{532}{subsection.0.446}%
 \hypertarget {toc:447}{}
-\contentsline {subsection}{\numberline {0.447}Sibyla (Tomáš Klus)}{540}{subsection.0.447}%
+\contentsline {subsection}{\numberline {0.447}Síla starejch vín (Škwor)}{533}{subsection.0.447}%
 \hypertarget {toc:448}{}
-\contentsline {subsection}{\numberline {0.448}Síla starejch vín (Škwor)}{541}{subsection.0.448}%
+\contentsline {subsection}{\numberline {0.448}Šimbolice (Čechomor)}{534}{subsection.0.448}%
 \hypertarget {toc:449}{}
-\contentsline {subsection}{\numberline {0.449}Šimbolice (Čechomor)}{542}{subsection.0.449}%
+\contentsline {subsection}{\numberline {0.449}Šípková Růženka (Deep Purple / J. Schelinger)}{535}{subsection.0.449}%
 \hypertarget {toc:450}{}
-\contentsline {subsection}{\numberline {0.450}Šípková Růženka (Deep Purple / J. Schelinger)}{543}{subsection.0.450}%
+\contentsline {subsection}{\numberline {0.450}Skládanka (Jan Nedvěd)}{536}{subsection.0.450}%
 \hypertarget {toc:451}{}
-\contentsline {subsection}{\numberline {0.451}Skládanka (Jan Nedvěd)}{544}{subsection.0.451}%
+\contentsline {subsection}{\numberline {0.451}Slavíci z Madridu (Waldemar Matuška)}{537}{subsection.0.451}%
 \hypertarget {toc:452}{}
-\contentsline {subsection}{\numberline {0.452}Slavíci z Madridu (Waldemar Matuška)}{545}{subsection.0.452}%
+\contentsline {subsection}{\numberline {0.452}Slepic pírka (MIG 21)}{538}{subsection.0.452}%
 \hypertarget {toc:453}{}
-\contentsline {subsection}{\numberline {0.453}Slepic pírka (MIG 21)}{546}{subsection.0.453}%
+\contentsline {subsection}{\numberline {0.453}Slipping through my fingers (ABBA)}{539}{subsection.0.453}%
 \hypertarget {toc:454}{}
-\contentsline {subsection}{\numberline {0.454}Slipping through my fingers (ABBA)}{547}{subsection.0.454}%
+\contentsline {subsection}{\numberline {0.454}Slunečný hrob (Blue Effect)}{540}{subsection.0.454}%
 \hypertarget {toc:455}{}
-\contentsline {subsection}{\numberline {0.455}Slunečný hrob (Blue Effect)}{548}{subsection.0.455}%
+\contentsline {subsection}{\numberline {0.455}Slunovrat (Jelen)}{541}{subsection.0.455}%
 \hypertarget {toc:456}{}
-\contentsline {subsection}{\numberline {0.456}Slunovrat (Jelen)}{549}{subsection.0.456}%
+\contentsline {subsection}{\numberline {0.456}Snad se něco stane (Marek Ztracený)}{542}{subsection.0.456}%
 \hypertarget {toc:457}{}
-\contentsline {subsection}{\numberline {0.457}Snad se něco stane (Marek Ztracený)}{550}{subsection.0.457}%
+\contentsline {subsection}{\numberline {0.457}Snadné je žít (MIG 21)}{543}{subsection.0.457}%
 \hypertarget {toc:458}{}
-\contentsline {subsection}{\numberline {0.458}Snadné je žít (MIG 21)}{551}{subsection.0.458}%
+\contentsline {subsection}{\numberline {0.458}Soudný den (Spirituál Kvintet)}{544}{subsection.0.458}%
 \hypertarget {toc:459}{}
-\contentsline {subsection}{\numberline {0.459}Soudný den (Spirituál Kvintet)}{552}{subsection.0.459}%
+\contentsline {subsection}{\numberline {0.459}Soutěž (Poletíme?)}{545}{subsection.0.459}%
 \hypertarget {toc:460}{}
-\contentsline {subsection}{\numberline {0.460}Soutěž (Poletíme?)}{553}{subsection.0.460}%
+\contentsline {subsection}{\numberline {0.460}Spinkej (J. Denver / Spirituál kvintet)}{546}{subsection.0.460}%
 \hypertarget {toc:461}{}
-\contentsline {subsection}{\numberline {0.461}Spinkej (J. Denver / Spirituál kvintet)}{554}{subsection.0.461}%
+\contentsline {subsection}{\numberline {0.461}Spomienky na budúcnosť (Inekafe)}{547}{subsection.0.461}%
 \hypertarget {toc:462}{}
-\contentsline {subsection}{\numberline {0.462}Spomienky na budúcnosť (Inekafe)}{555}{subsection.0.462}%
+\contentsline {subsection}{\numberline {0.462}Srdce nehasnou (Karel Gott)}{548}{subsection.0.462}%
 \hypertarget {toc:463}{}
-\contentsline {subsection}{\numberline {0.463}Srdce nehasnou (Karel Gott)}{556}{subsection.0.463}%
+\contentsline {subsection}{\numberline {0.463}Šrouby a matice (Mandrage)}{549}{subsection.0.463}%
 \hypertarget {toc:464}{}
-\contentsline {subsection}{\numberline {0.464}Šrouby a matice (Mandrage)}{557}{subsection.0.464}%
+\contentsline {subsection}{\numberline {0.464}Stánky (Brontosauři)}{550}{subsection.0.464}%
 \hypertarget {toc:465}{}
-\contentsline {subsection}{\numberline {0.465}Stánky (Brontosauři)}{558}{subsection.0.465}%
+\contentsline {subsection}{\numberline {0.465}Stará Pivničková (Čechomor)}{551}{subsection.0.465}%
 \hypertarget {toc:466}{}
-\contentsline {subsection}{\numberline {0.466}Stará Pivničková (Čechomor)}{559}{subsection.0.466}%
+\contentsline {subsection}{\numberline {0.466}Statistika (Zdeněk Svěrák, Jaroslav Uhlíř)}{552}{subsection.0.466}%
 \hypertarget {toc:467}{}
-\contentsline {subsection}{\numberline {0.467}Statistika (Zdeněk Svěrák, Jaroslav Uhlíř)}{560}{subsection.0.467}%
+\contentsline {subsection}{\numberline {0.467}Stížnost (Chinaski)}{553}{subsection.0.467}%
 \hypertarget {toc:468}{}
-\contentsline {subsection}{\numberline {0.468}Stížnost (Chinaski)}{561}{subsection.0.468}%
+\contentsline {subsection}{\numberline {0.468}Strakapúd (Jaromír Nohavica)}{554}{subsection.0.468}%
 \hypertarget {toc:469}{}
-\contentsline {subsection}{\numberline {0.469}Strakapúd (Jaromír Nohavica)}{562}{subsection.0.469}%
+\contentsline {subsection}{\numberline {0.469}Strom (Jiřina Doležalová)}{555}{subsection.0.469}%
 \hypertarget {toc:470}{}
-\contentsline {subsection}{\numberline {0.470}Strom (Jiřina Doležalová)}{563}{subsection.0.470}%
+\contentsline {subsection}{\numberline {0.470}Studený nohy (Radůza)}{556}{subsection.0.470}%
 \hypertarget {toc:471}{}
-\contentsline {subsection}{\numberline {0.471}Studený nohy (Radůza)}{564}{subsection.0.471}%
+\contentsline {subsection}{\numberline {0.471}Stýskání (bratři Ebenové)}{557}{subsection.0.471}%
 \hypertarget {toc:472}{}
-\contentsline {subsection}{\numberline {0.472}Stýskání (bratři Ebenové)}{565}{subsection.0.472}%
+\contentsline {subsection}{\numberline {0.472}Svatá Kateřina (lidová / Pavel Lohonka Žalman)}{558}{subsection.0.472}%
 \hypertarget {toc:473}{}
-\contentsline {subsection}{\numberline {0.473}Svatá Kateřina (lidová / Pavel Lohonka Žalman)}{566}{subsection.0.473}%
+\contentsline {subsection}{\numberline {0.473}Svatební (Jaromír Nohavica)}{559}{subsection.0.473}%
 \hypertarget {toc:474}{}
-\contentsline {subsection}{\numberline {0.474}Svatební (Jaromír Nohavica)}{567}{subsection.0.474}%
+\contentsline {subsection}{\numberline {0.474}Světlo ve tmě (Jelen)}{560}{subsection.0.474}%
 \hypertarget {toc:475}{}
-\contentsline {subsection}{\numberline {0.475}Světlo ve tmě (Jelen)}{568}{subsection.0.475}%
+\contentsline {subsection}{\numberline {0.475}Světlušky (Příbuzní)}{561}{subsection.0.475}%
 \hypertarget {toc:476}{}
-\contentsline {subsection}{\numberline {0.476}Světlušky (Příbuzní)}{569}{subsection.0.476}%
+\contentsline {subsection}{\numberline {0.476}Sweet Caroline (Neil Diamond)}{562}{subsection.0.476}%
 \hypertarget {toc:477}{}
-\contentsline {subsection}{\numberline {0.477}Sweet Caroline (Neil Diamond)}{570}{subsection.0.477}%
+\contentsline {subsection}{\numberline {0.477}Sweet Dreams (Marilyn Manson)}{563}{subsection.0.477}%
 \hypertarget {toc:478}{}
-\contentsline {subsection}{\numberline {0.478}Sweet Dreams (Marilyn Manson)}{571}{subsection.0.478}%
+\contentsline {subsection}{\numberline {0.478}Ta naše (Voxel)}{565}{subsection.0.478}%
 \hypertarget {toc:479}{}
-\contentsline {subsection}{\numberline {0.479}Ta naše (Voxel)}{573}{subsection.0.479}%
+\contentsline {subsection}{\numberline {0.479}Tak promiň (Pavel Calta)}{567}{subsection.0.479}%
 \hypertarget {toc:480}{}
-\contentsline {subsection}{\numberline {0.480}Tak promiň (Pavel Calta)}{575}{subsection.0.480}%
+\contentsline {subsection}{\numberline {0.480}Tak už mi má holka mává (bratři Ryvolové)}{568}{subsection.0.480}%
 \hypertarget {toc:481}{}
-\contentsline {subsection}{\numberline {0.481}Tak už mi má holka mává (bratři Ryvolové)}{576}{subsection.0.481}%
+\contentsline {subsection}{\numberline {0.481}Take Me Home, Country Roads (John Denver)}{569}{subsection.0.481}%
 \hypertarget {toc:482}{}
-\contentsline {subsection}{\numberline {0.482}Take Me Home, Country Roads (John Denver)}{577}{subsection.0.482}%
+\contentsline {subsection}{\numberline {0.482}Tančíme spolu (Jelen)}{570}{subsection.0.482}%
 \hypertarget {toc:483}{}
-\contentsline {subsection}{\numberline {0.483}Tančíme spolu (Jelen)}{578}{subsection.0.483}%
+\contentsline {subsection}{\numberline {0.483}Tata (Buty)}{571}{subsection.0.483}%
 \hypertarget {toc:484}{}
-\contentsline {subsection}{\numberline {0.484}Tata (Buty)}{579}{subsection.0.484}%
+\contentsline {subsection}{\numberline {0.484}Tenkrat v ráji (Radůza)}{572}{subsection.0.484}%
 \hypertarget {toc:485}{}
-\contentsline {subsection}{\numberline {0.485}Tenkrat v ráji (Radůza)}{580}{subsection.0.485}%
+\contentsline {subsection}{\numberline {0.485}Tereza (Hoboes)}{573}{subsection.0.485}%
 \hypertarget {toc:486}{}
-\contentsline {subsection}{\numberline {0.486}Tereza (Hoboes)}{581}{subsection.0.486}%
+\contentsline {subsection}{\numberline {0.486}Těšínská (Jaromír Nohavica)}{574}{subsection.0.486}%
 \hypertarget {toc:487}{}
-\contentsline {subsection}{\numberline {0.487}Těšínská (Jaromír Nohavica)}{582}{subsection.0.487}%
+\contentsline {subsection}{\numberline {0.487}The Ballad Of Lucy Gray Baird (Hunger Games)}{575}{subsection.0.487}%
 \hypertarget {toc:488}{}
-\contentsline {subsection}{\numberline {0.488}The Ballad Of Lucy Gray Baird (Hunger Games)}{583}{subsection.0.488}%
+\contentsline {subsection}{\numberline {0.488}The Islander (Nightwish)}{576}{subsection.0.488}%
 \hypertarget {toc:489}{}
-\contentsline {subsection}{\numberline {0.489}The Islander (Nightwish)}{584}{subsection.0.489}%
+\contentsline {subsection}{\numberline {0.489}Tichá noc (Bohouš Josef)}{577}{subsection.0.489}%
 \hypertarget {toc:490}{}
-\contentsline {subsection}{\numberline {0.490}Tichá noc (Bohouš Josef)}{585}{subsection.0.490}%
+\contentsline {subsection}{\numberline {0.490}Tisíc dnů mezi námi (Nerez)}{578}{subsection.0.490}%
 \hypertarget {toc:491}{}
-\contentsline {subsection}{\numberline {0.491}Tisíc dnů mezi námi (Nerez)}{586}{subsection.0.491}%
+\contentsline {subsection}{\numberline {0.491}Tisíc mil (Hedy West / Ivo Fischer)}{579}{subsection.0.491}%
 \hypertarget {toc:492}{}
-\contentsline {subsection}{\numberline {0.492}Tisíc mil (Hedy West / Ivo Fischer)}{587}{subsection.0.492}%
+\contentsline {subsection}{\numberline {0.492}Tmou (Zrní)}{580}{subsection.0.492}%
 \hypertarget {toc:493}{}
-\contentsline {subsection}{\numberline {0.493}Tmou (Zrní)}{588}{subsection.0.493}%
+\contentsline {subsection}{\numberline {0.493}To až jednou (O5 a Radeček)}{581}{subsection.0.493}%
 \hypertarget {toc:494}{}
-\contentsline {subsection}{\numberline {0.494}To až jednou (O5 a Radeček)}{589}{subsection.0.494}%
+\contentsline {subsection}{\numberline {0.494}To ta Heľpa (slovenská)}{582}{subsection.0.494}%
 \hypertarget {toc:495}{}
-\contentsline {subsection}{\numberline {0.495}To ta Heľpa (slovenská)}{590}{subsection.0.495}%
+\contentsline {subsection}{\numberline {0.495}Touch The Sky (Julie Fowlis)}{583}{subsection.0.495}%
 \hypertarget {toc:496}{}
-\contentsline {subsection}{\numberline {0.496}Touch The Sky (Julie Fowlis)}{591}{subsection.0.496}%
+\contentsline {subsection}{\numberline {0.496}Touha (Daniel Landa)}{584}{subsection.0.496}%
 \hypertarget {toc:497}{}
-\contentsline {subsection}{\numberline {0.497}Touha (Daniel Landa)}{592}{subsection.0.497}%
+\contentsline {subsection}{\numberline {0.497}Toulavá (Sebastian)}{585}{subsection.0.497}%
 \hypertarget {toc:498}{}
-\contentsline {subsection}{\numberline {0.498}Toulavá (Sebastian)}{593}{subsection.0.498}%
+\contentsline {subsection}{\numberline {0.498}Toulavej (Vojta Kiďák Tomáško)}{586}{subsection.0.498}%
 \hypertarget {toc:499}{}
-\contentsline {subsection}{\numberline {0.499}Toulavej (Vojta Kiďák Tomáško)}{594}{subsection.0.499}%
+\contentsline {subsection}{\numberline {0.499}Toulavý boty (Poupata)}{587}{subsection.0.499}%
 \hypertarget {toc:500}{}
-\contentsline {subsection}{\numberline {0.500}Toulavý boty (Poupata)}{595}{subsection.0.500}%
+\contentsline {subsection}{\numberline {0.500}Trh ve Scarborough (Spirituál Kvintet)}{588}{subsection.0.500}%
 \hypertarget {toc:501}{}
-\contentsline {subsection}{\numberline {0.501}Trh ve Scarborough (Spirituál Kvintet)}{596}{subsection.0.501}%
+\contentsline {subsection}{\numberline {0.501}Tři bratři (skotská / Spirituál Kvintet)}{589}{subsection.0.501}%
 \hypertarget {toc:502}{}
-\contentsline {subsection}{\numberline {0.502}Tři bratři (skotská / Spirituál Kvintet)}{597}{subsection.0.502}%
+\contentsline {subsection}{\numberline {0.502}Tři cikáni (Skotská / Asonance)}{590}{subsection.0.502}%
 \hypertarget {toc:503}{}
-\contentsline {subsection}{\numberline {0.503}Tři cikáni (Skotská / Asonance)}{598}{subsection.0.503}%
+\contentsline {subsection}{\numberline {0.503}Tři čuníci (Jaromír Nohavica)}{591}{subsection.0.503}%
 \hypertarget {toc:504}{}
-\contentsline {subsection}{\numberline {0.504}Tři čuníci (Jaromír Nohavica)}{599}{subsection.0.504}%
+\contentsline {subsection}{\numberline {0.504}Tři kámošky psycholožky (Poletíme?)}{592}{subsection.0.504}%
 \hypertarget {toc:505}{}
-\contentsline {subsection}{\numberline {0.505}Tři kámošky psycholožky (Poletíme?)}{600}{subsection.0.505}%
+\contentsline {subsection}{\numberline {0.505}Tři kříže (Hop Trop)}{593}{subsection.0.505}%
 \hypertarget {toc:506}{}
-\contentsline {subsection}{\numberline {0.506}Tři kříže (Hop Trop)}{601}{subsection.0.506}%
+\contentsline {subsection}{\numberline {0.506}Tři oříšky (Iveta Bartošová)}{594}{subsection.0.506}%
 \hypertarget {toc:507}{}
-\contentsline {subsection}{\numberline {0.507}Tři oříšky (Iveta Bartošová)}{602}{subsection.0.507}%
+\contentsline {subsection}{\numberline {0.507}Třináctka (Klíč)}{595}{subsection.0.507}%
 \hypertarget {toc:508}{}
-\contentsline {subsection}{\numberline {0.508}Třináctka (Klíč)}{604}{subsection.0.508}%
+\contentsline {subsection}{\numberline {0.508}Trubadúrská (Karel Plíhal)}{596}{subsection.0.508}%
 \hypertarget {toc:509}{}
-\contentsline {subsection}{\numberline {0.509}Trubadúrská (Karel Plíhal)}{605}{subsection.0.509}%
+\contentsline {subsection}{\numberline {0.509}Tu kytaru jsem koupil kvůli tobě (Václav Neckař)}{597}{subsection.0.509}%
 \hypertarget {toc:510}{}
-\contentsline {subsection}{\numberline {0.510}Tu kytaru jsem koupil kvůli tobě (Václav Neckař)}{606}{subsection.0.510}%
+\contentsline {subsection}{\numberline {0.510}Tulácká ukolébavka (Goebel Reeves / P. Lohonka Žalman)}{598}{subsection.0.510}%
 \hypertarget {toc:511}{}
-\contentsline {subsection}{\numberline {0.511}Tulácká ukolébavka (Goebel Reeves / P. Lohonka Žalman)}{607}{subsection.0.511}%
+\contentsline {subsection}{\numberline {0.511}Tulácký ráno (Nedvědi)}{599}{subsection.0.511}%
 \hypertarget {toc:512}{}
-\contentsline {subsection}{\numberline {0.512}Tulácký ráno (Nedvědi)}{608}{subsection.0.512}%
+\contentsline {subsection}{\numberline {0.512}Tunel jménem čas (Ryvolové)}{600}{subsection.0.512}%
 \hypertarget {toc:513}{}
-\contentsline {subsection}{\numberline {0.513}Tunel jménem čas (Ryvolové)}{609}{subsection.0.513}%
+\contentsline {subsection}{\numberline {0.513}Ukolébavka (Karel Kryl)}{601}{subsection.0.513}%
 \hypertarget {toc:514}{}
-\contentsline {subsection}{\numberline {0.514}Ukolébavka (Karel Kryl)}{610}{subsection.0.514}%
+\contentsline {subsection}{\numberline {0.514}Upír (Omega)}{602}{subsection.0.514}%
 \hypertarget {toc:515}{}
-\contentsline {subsection}{\numberline {0.515}Upír (Omega)}{611}{subsection.0.515}%
+\contentsline {subsection}{\numberline {0.515}Uspávanka (Jindra Kejak)}{603}{subsection.0.515}%
 \hypertarget {toc:516}{}
-\contentsline {subsection}{\numberline {0.516}Uspávanka (Jindra Kejak)}{612}{subsection.0.516}%
+\contentsline {subsection}{\numberline {0.516}Už to nenapravím (Jaroslav Samson Lenk)}{604}{subsection.0.516}%
 \hypertarget {toc:517}{}
-\contentsline {subsection}{\numberline {0.517}Už to nenapravím (Jaroslav Samson Lenk)}{613}{subsection.0.517}%
+\contentsline {subsection}{\numberline {0.517}V 7:25 ( Michal Horák)}{605}{subsection.0.517}%
 \hypertarget {toc:518}{}
-\contentsline {subsection}{\numberline {0.518}V 7:25 ( Michal Horák)}{614}{subsection.0.518}%
+\contentsline {subsection}{\numberline {0.518}V bílých peřinách (Vojtěch Drahokoupil)}{606}{subsection.0.518}%
 \hypertarget {toc:519}{}
-\contentsline {subsection}{\numberline {0.519}V bílých peřinách (Vojtěch Drahokoupil)}{615}{subsection.0.519}%
+\contentsline {subsection}{\numberline {0.519}V blbým věku (Xindl X)}{607}{subsection.0.519}%
 \hypertarget {toc:520}{}
-\contentsline {subsection}{\numberline {0.520}V blbým věku (Xindl X)}{617}{subsection.0.520}%
+\contentsline {subsection}{\numberline {0.520}V čase zpátky (Voxel)}{609}{subsection.0.520}%
 \hypertarget {toc:521}{}
-\contentsline {subsection}{\numberline {0.521}V čase zpátky (Voxel)}{619}{subsection.0.521}%
+\contentsline {subsection}{\numberline {0.521}V lese (Pokáč)}{610}{subsection.0.521}%
 \hypertarget {toc:522}{}
-\contentsline {subsection}{\numberline {0.522}V lese (Pokáč)}{620}{subsection.0.522}%
+\contentsline {subsection}{\numberline {0.522}V moři je místa dost (Jaromír Nohavica)}{611}{subsection.0.522}%
 \hypertarget {toc:523}{}
-\contentsline {subsection}{\numberline {0.523}V moři je místa dost (Jaromír Nohavica)}{621}{subsection.0.523}%
+\contentsline {subsection}{\numberline {0.523}Valčíček(Nedvědi)}{612}{subsection.0.523}%
 \hypertarget {toc:524}{}
-\contentsline {subsection}{\numberline {0.524}Valčíček(Nedvědi)}{622}{subsection.0.524}%
+\contentsline {subsection}{\numberline {0.524}Válečná (Tomáš Klus)}{613}{subsection.0.524}%
 \hypertarget {toc:525}{}
-\contentsline {subsection}{\numberline {0.525}Válečná (Tomáš Klus)}{623}{subsection.0.525}%
+\contentsline {subsection}{\numberline {0.525}Válka růží (Spirituál Kvintet)}{614}{subsection.0.525}%
 \hypertarget {toc:526}{}
-\contentsline {subsection}{\numberline {0.526}Válka růží (Spirituál Kvintet)}{624}{subsection.0.526}%
+\contentsline {subsection}{\numberline {0.526}Vánoce na míru (Ewa Farna)}{615}{subsection.0.526}%
 \hypertarget {toc:527}{}
-\contentsline {subsection}{\numberline {0.527}Vánoce na míru (Ewa Farna)}{625}{subsection.0.527}%
+\contentsline {subsection}{\numberline {0.527}Vánoce, Vánoce přicházejí}{616}{subsection.0.527}%
 \hypertarget {toc:528}{}
-\contentsline {subsection}{\numberline {0.528}Vánoce, Vánoce přicházejí}{626}{subsection.0.528}%
+\contentsline {subsection}{\numberline {0.528}Vánoční (Johny Machette)}{617}{subsection.0.528}%
 \hypertarget {toc:529}{}
-\contentsline {subsection}{\numberline {0.529}Vánoční (Johny Machette)}{627}{subsection.0.529}%
+\contentsline {subsection}{\numberline {0.529}Variace na renesanční téma (Vladimír Mišík)}{618}{subsection.0.529}%
 \hypertarget {toc:530}{}
-\contentsline {subsection}{\numberline {0.530}Variace na renesanční téma (Vladimír Mišík)}{628}{subsection.0.530}%
+\contentsline {subsection}{\numberline {0.530}Včelín (Čechomor)}{619}{subsection.0.530}%
 \hypertarget {toc:531}{}
-\contentsline {subsection}{\numberline {0.531}Včelín (Čechomor)}{629}{subsection.0.531}%
+\contentsline {subsection}{\numberline {0.531}Ve znamení blíženců (Jarret)}{620}{subsection.0.531}%
 \hypertarget {toc:532}{}
-\contentsline {subsection}{\numberline {0.532}Ve znamení blíženců (Jarret)}{630}{subsection.0.532}%
+\contentsline {subsection}{\numberline {0.532}Veď mě dál, cesto má (Pavel Bobek)}{621}{subsection.0.532}%
 \hypertarget {toc:533}{}
-\contentsline {subsection}{\numberline {0.533}Veď mě dál, cesto má (Pavel Bobek)}{631}{subsection.0.533}%
+\contentsline {subsection}{\numberline {0.533}Vedle tebe usínám (Mirai)}{622}{subsection.0.533}%
 \hypertarget {toc:534}{}
-\contentsline {subsection}{\numberline {0.534}Vedle tebe usínám (Mirai)}{632}{subsection.0.534}%
+\contentsline {subsection}{\numberline {0.534}Veličenstvo Kat (Karel Kryl)}{623}{subsection.0.534}%
 \hypertarget {toc:535}{}
-\contentsline {subsection}{\numberline {0.535}Veličenstvo Kat (Karel Kryl)}{633}{subsection.0.535}%
+\contentsline {subsection}{\numberline {0.535}Velká voda (Jaromír Nohavica)}{625}{subsection.0.535}%
 \hypertarget {toc:536}{}
-\contentsline {subsection}{\numberline {0.536}Velká voda (Jaromír Nohavica)}{635}{subsection.0.536}%
+\contentsline {subsection}{\numberline {0.536}Velmi nesmělá (Jablkoň)}{627}{subsection.0.536}%
 \hypertarget {toc:537}{}
-\contentsline {subsection}{\numberline {0.537}Velmi nesmělá (Jablkoň)}{637}{subsection.0.537}%
+\contentsline {subsection}{\numberline {0.537}Velrybářská výprava (Pacifik)}{628}{subsection.0.537}%
 \hypertarget {toc:538}{}
-\contentsline {subsection}{\numberline {0.538}Velrybářská výprava (Pacifik)}{638}{subsection.0.538}%
+\contentsline {subsection}{\numberline {0.538}Verunčina píseň lásky (Ivan Hlas)}{629}{subsection.0.538}%
 \hypertarget {toc:539}{}
-\contentsline {subsection}{\numberline {0.539}Verunčina píseň lásky (Ivan Hlas)}{639}{subsection.0.539}%
+\contentsline {subsection}{\numberline {0.539}VeSmíru (Tomáš Klus)}{630}{subsection.0.539}%
 \hypertarget {toc:540}{}
-\contentsline {subsection}{\numberline {0.540}VeSmíru (Tomáš Klus)}{640}{subsection.0.540}%
+\contentsline {subsection}{\numberline {0.540}Vězeňská trilogie (Joan Baez / Pavel Lohonka Žalman)}{631}{subsection.0.540}%
 \hypertarget {toc:541}{}
-\contentsline {subsection}{\numberline {0.541}Vězeňská trilogie (Joan Baez / Pavel Lohonka Žalman)}{641}{subsection.0.541}%
+\contentsline {subsection}{\numberline {0.541}Víno (Klíč)}{633}{subsection.0.541}%
 \hypertarget {toc:542}{}
-\contentsline {subsection}{\numberline {0.542}Víno (Klíč)}{643}{subsection.0.542}%
+\contentsline {subsection}{\numberline {0.542}Víno (Chinaski)}{635}{subsection.0.542}%
 \hypertarget {toc:543}{}
-\contentsline {subsection}{\numberline {0.543}Víno (Chinaski)}{645}{subsection.0.543}%
+\contentsline {subsection}{\numberline {0.543}Víš, lásko (Iveta Bartošová)}{637}{subsection.0.543}%
 \hypertarget {toc:544}{}
-\contentsline {subsection}{\numberline {0.544}Víš, lásko (Iveta Bartošová)}{647}{subsection.0.544}%
+\contentsline {subsection}{\numberline {0.544}Vlaštovko leť (Jaromír Nohavica)}{638}{subsection.0.544}%
 \hypertarget {toc:545}{}
-\contentsline {subsection}{\numberline {0.545}Vlaštovko leť (Jaromír Nohavica)}{648}{subsection.0.545}%
+\contentsline {subsection}{\numberline {0.545}Vlaštovky (Traband)}{639}{subsection.0.545}%
 \hypertarget {toc:546}{}
-\contentsline {subsection}{\numberline {0.546}Vlaštovky (Traband)}{649}{subsection.0.546}%
+\contentsline {subsection}{\numberline {0.546}Vodácká holka (Hop Trop)}{640}{subsection.0.546}%
 \hypertarget {toc:547}{}
-\contentsline {subsection}{\numberline {0.547}Vodácká holka (Hop Trop)}{650}{subsection.0.547}%
+\contentsline {subsection}{\numberline {0.547}Vymyslená (Elán)}{641}{subsection.0.547}%
 \hypertarget {toc:548}{}
-\contentsline {subsection}{\numberline {0.548}Vymyslená (Elán)}{651}{subsection.0.548}%
+\contentsline {subsection}{\numberline {0.548}Vysoký jalovec}{642}{subsection.0.548}%
 \hypertarget {toc:549}{}
-\contentsline {subsection}{\numberline {0.549}Vysoký jalovec}{652}{subsection.0.549}%
+\contentsline {subsection}{\numberline {0.549}Vývar z krtka}{643}{subsection.0.549}%
 \hypertarget {toc:550}{}
-\contentsline {subsection}{\numberline {0.550}Vývar z krtka}{653}{subsection.0.550}%
+\contentsline {subsection}{\numberline {0.550}Vzhůru na palubu (Ze seriálu Dva roky prázdnin)}{644}{subsection.0.550}%
 \hypertarget {toc:551}{}
-\contentsline {subsection}{\numberline {0.551}Vzhůru na palubu (Ze seriálu Dva roky prázdnin)}{654}{subsection.0.551}%
+\contentsline {subsection}{\numberline {0.551}Vzpomínka (Aneta Langerová)}{645}{subsection.0.551}%
 \hypertarget {toc:552}{}
-\contentsline {subsection}{\numberline {0.552}Vzpomínka (Aneta Langerová)}{655}{subsection.0.552}%
+\contentsline {subsection}{\numberline {0.552}We Shall Overcome (traditional / Spirituál kvintet)}{646}{subsection.0.552}%
 \hypertarget {toc:553}{}
-\contentsline {subsection}{\numberline {0.553}We Shall Overcome (traditional / Spirituál kvintet)}{656}{subsection.0.553}%
+\contentsline {subsection}{\numberline {0.553}What's Up (4 Non Blondes)}{647}{subsection.0.553}%
 \hypertarget {toc:554}{}
-\contentsline {subsection}{\numberline {0.554}What's Up (4 Non Blondes)}{657}{subsection.0.554}%
+\contentsline {subsection}{\numberline {0.554}Wild World (Cat Stevens)}{648}{subsection.0.554}%
 \hypertarget {toc:555}{}
-\contentsline {subsection}{\numberline {0.555}Wild World (Cat Stevens)}{658}{subsection.0.555}%
+\contentsline {subsection}{\numberline {0.555}Wonderwall (Oasis)}{649}{subsection.0.555}%
 \hypertarget {toc:556}{}
-\contentsline {subsection}{\numberline {0.556}Wonderwall (Oasis)}{659}{subsection.0.556}%
+\contentsline {subsection}{\numberline {0.556}Wounded Knee (Radůza)}{652}{subsection.0.556}%
 \hypertarget {toc:557}{}
-\contentsline {subsection}{\numberline {0.557}Wounded Knee (Radůza)}{662}{subsection.0.557}%
+\contentsline {subsection}{\numberline {0.557}Yesterday (The Beatles)}{653}{subsection.0.557}%
 \hypertarget {toc:558}{}
-\contentsline {subsection}{\numberline {0.558}Yesterday (The Beatles)}{663}{subsection.0.558}%
+\contentsline {subsection}{\numberline {0.558}Za 100 let (Xindl X)}{654}{subsection.0.558}%
 \hypertarget {toc:559}{}
-\contentsline {subsection}{\numberline {0.559}Za 100 let (Xindl X)}{664}{subsection.0.559}%
+\contentsline {subsection}{\numberline {0.559}Za svou pravdou stát (Spirituál kvintet)}{655}{subsection.0.559}%
 \hypertarget {toc:560}{}
-\contentsline {subsection}{\numberline {0.560}Za svou pravdou stát (Spirituál kvintet)}{665}{subsection.0.560}%
+\contentsline {subsection}{\numberline {0.560}Zabili, zabili (Balada pro banditu)}{656}{subsection.0.560}%
 \hypertarget {toc:561}{}
-\contentsline {subsection}{\numberline {0.561}Zabili, zabili (Balada pro banditu)}{666}{subsection.0.561}%
+\contentsline {subsection}{\numberline {0.561}Zabili, zabili (Balada pro banditu)}{657}{subsection.0.561}%
 \hypertarget {toc:562}{}
-\contentsline {subsection}{\numberline {0.562}Zabili, zabili (Balada pro banditu)}{667}{subsection.0.562}%
+\contentsline {subsection}{\numberline {0.562}Zachraňte koně (Kamelot)}{658}{subsection.0.562}%
 \hypertarget {toc:563}{}
-\contentsline {subsection}{\numberline {0.563}Zachraňte koně (Kamelot)}{668}{subsection.0.563}%
+\contentsline {subsection}{\numberline {0.563}Zafúkané (Fleret)}{659}{subsection.0.563}%
 \hypertarget {toc:564}{}
-\contentsline {subsection}{\numberline {0.564}Zafúkané (Fleret)}{669}{subsection.0.564}%
+\contentsline {subsection}{\numberline {0.564}Zahrada ticha (Pavel Roth)}{660}{subsection.0.564}%
 \hypertarget {toc:565}{}
-\contentsline {subsection}{\numberline {0.565}Zahrada ticha (Pavel Roth)}{670}{subsection.0.565}%
+\contentsline {subsection}{\numberline {0.565}Zákon světlušek}{661}{subsection.0.565}%
 \hypertarget {toc:566}{}
-\contentsline {subsection}{\numberline {0.566}Zákon světlušek}{671}{subsection.0.566}%
+\contentsline {subsection}{\numberline {0.566}Žal se odkládá (Jiří Korn)}{662}{subsection.0.566}%
 \hypertarget {toc:567}{}
-\contentsline {subsection}{\numberline {0.567}Žal se odkládá (Jiří Korn)}{672}{subsection.0.567}%
+\contentsline {subsection}{\numberline {0.567}Zálinský (Čechomor)}{663}{subsection.0.567}%
 \hypertarget {toc:568}{}
-\contentsline {subsection}{\numberline {0.568}Zálinský (Čechomor)}{673}{subsection.0.568}%
+\contentsline {subsection}{\numberline {0.568}Zanedbaný sex (Elán)}{664}{subsection.0.568}%
 \hypertarget {toc:569}{}
-\contentsline {subsection}{\numberline {0.569}Zanedbaný sex (Elán)}{674}{subsection.0.569}%
+\contentsline {subsection}{\numberline {0.569}Zatanči (Jaromír Nohavica)}{665}{subsection.0.569}%
 \hypertarget {toc:570}{}
-\contentsline {subsection}{\numberline {0.570}Zatanči (Jaromír Nohavica)}{675}{subsection.0.570}%
+\contentsline {subsection}{\numberline {0.570}Zatančím (Kryštof)}{666}{subsection.0.570}%
 \hypertarget {toc:571}{}
-\contentsline {subsection}{\numberline {0.571}Zatančím (Kryštof)}{676}{subsection.0.571}%
+\contentsline {subsection}{\numberline {0.571}Zatancuj si so mnou (Adam Ďurica)}{667}{subsection.0.571}%
 \hypertarget {toc:572}{}
-\contentsline {subsection}{\numberline {0.572}Zatancuj si so mnou (Adam Ďurica)}{677}{subsection.0.572}%
+\contentsline {subsection}{\numberline {0.572}Zatímco se koupeš (Jaromír Nohavica)}{668}{subsection.0.572}%
 \hypertarget {toc:573}{}
-\contentsline {subsection}{\numberline {0.573}Zatímco se koupeš (Jaromír Nohavica)}{678}{subsection.0.573}%
+\contentsline {subsection}{\numberline {0.573}Zatracenej život (Greenhorns)}{669}{subsection.0.573}%
 \hypertarget {toc:574}{}
-\contentsline {subsection}{\numberline {0.574}Zatracenej život (Greenhorns)}{679}{subsection.0.574}%
+\contentsline {subsection}{\numberline {0.574}Zavolejte stráže (Svěrák, Uhlíř)}{670}{subsection.0.574}%
 \hypertarget {toc:575}{}
-\contentsline {subsection}{\numberline {0.575}Zavolejte stráže (Svěrák, Uhlíř)}{680}{subsection.0.575}%
+\contentsline {subsection}{\numberline {0.575}Zdálo se ti zdálo (Jaroslav Samson Lenk)}{671}{subsection.0.575}%
 \hypertarget {toc:576}{}
-\contentsline {subsection}{\numberline {0.576}Zdálo se ti zdálo (Jaroslav Samson Lenk)}{681}{subsection.0.576}%
+\contentsline {subsection}{\numberline {0.576}Zejtra mám (Ready Kirken)}{672}{subsection.0.576}%
 \hypertarget {toc:577}{}
-\contentsline {subsection}{\numberline {0.577}Zejtra mám (Ready Kirken)}{682}{subsection.0.577}%
+\contentsline {subsection}{\numberline {0.577}Zelené fracouské pláně (Asonance)}{673}{subsection.0.577}%
 \hypertarget {toc:578}{}
-\contentsline {subsection}{\numberline {0.578}Zelené fracouské pláně (Asonance)}{683}{subsection.0.578}%
+\contentsline {subsection}{\numberline {0.578}Země antilop (Kamelot)}{674}{subsection.0.578}%
 \hypertarget {toc:579}{}
-\contentsline {subsection}{\numberline {0.579}Země antilop (Kamelot)}{684}{subsection.0.579}%
+\contentsline {subsection}{\numberline {0.579}Ženy mužů (Epy de Mye)}{675}{subsection.0.579}%
 \hypertarget {toc:580}{}
-\contentsline {subsection}{\numberline {0.580}Ženy mužů (Epy de Mye)}{685}{subsection.0.580}%
+\contentsline {subsection}{\numberline {0.580}Zítra ráno v pět (Jaromír Nohavica)}{676}{subsection.0.580}%
 \hypertarget {toc:581}{}
-\contentsline {subsection}{\numberline {0.581}Zítra ráno v pět (Jaromír Nohavica)}{686}{subsection.0.581}%
+\contentsline {subsection}{\numberline {0.581}Žízeň (Spirituál Kvintet)}{677}{subsection.0.581}%
 \hypertarget {toc:582}{}
-\contentsline {subsection}{\numberline {0.582}Žízeň (Spirituál Kvintet)}{687}{subsection.0.582}%
+\contentsline {subsection}{\numberline {0.582}Zlatý rám (Epy de Mye)}{678}{subsection.0.582}%
 \hypertarget {toc:583}{}
-\contentsline {subsection}{\numberline {0.583}Zlatý rám (Epy de Mye)}{688}{subsection.0.583}%
+\contentsline {subsection}{\numberline {0.583}Znala Panna Pána (Helena Vondráčková)}{679}{subsection.0.583}%
 \hypertarget {toc:584}{}
-\contentsline {subsection}{\numberline {0.584}Znala Panna Pána (Helena Vondráčková)}{689}{subsection.0.584}%
+\contentsline {subsection}{\numberline {0.584}Znamení doby (Karel Kryl)}{680}{subsection.0.584}%
 \hypertarget {toc:585}{}
-\contentsline {subsection}{\numberline {0.585}Znamení doby (Karel Kryl)}{690}{subsection.0.585}%
+\contentsline {subsection}{\numberline {0.585}Zombie (The Cranberries)}{681}{subsection.0.585}%
 \hypertarget {toc:586}{}
-\contentsline {subsection}{\numberline {0.586}Zombie (The Cranberries)}{691}{subsection.0.586}%
+\contentsline {subsection}{\numberline {0.586}Zrození hvězd (Kamelot)}{682}{subsection.0.586}%
 \hypertarget {toc:587}{}
-\contentsline {subsection}{\numberline {0.587}Zrození hvězd (Kamelot)}{692}{subsection.0.587}%
+\contentsline {subsection}{\numberline {0.587}Zubm a Robinson(Šavlozubý ponožky)}{683}{subsection.0.587}%
 \hypertarget {toc:588}{}
-\contentsline {subsection}{\numberline {0.588}Zubm a Robinson(Šavlozubý ponožky)}{693}{subsection.0.588}%
+\contentsline {subsection}{\numberline {0.588}Zůstaň}{684}{subsection.0.588}%
 \hypertarget {toc:589}{}
-\contentsline {subsection}{\numberline {0.589}Zůstaň}{694}{subsection.0.589}%
-\hypertarget {toc:590}{}
-\contentsline {subsection}{\numberline {0.590}Zvon (Ginevra)}{695}{subsection.0.590}%
+\contentsline {subsection}{\numberline {0.589}Zvon (Ginevra)}{685}{subsection.0.589}%
