@@ -85,7 +85,7 @@
 }
 
 \newcommand{\pic}{							% Automaticky vloží na zbytek stránky JPG obrázek stejného jména jako má písnička
-	\IfFileExists{{images/\currfilebase}.jpg}{
+	\IfFileExists{{images/lu/\currfilebase}.jpg}{
 		\begin{center}
 			\vspace*{\fill}
 			\scalegraphics{{images/\currfilebase}.jpg}
@@ -110,23 +110,27 @@
 \setcounter{tocdepth}{3} 				% Aby se v obsahu objevily pouze písně (ne sloky atd.)
 \newcommand{\folder}{images}			% Název složky s obrázky %%Zrušit!
 
-\author{Mara + Rádio} 							% Autor zpěvníku
-\title{Zpěvník -- aktualizováno 18.7 2022}			% Název zpěvníku
+%\author{Mara + Rádio} 							% Autor zpěvníku
+%\title{Zpěvník -- aktualizováno 18.7 2022}			% Název zpěvníku
+
+%\author{Rádio} 							% Autor zpěvníku
+%\title{Písařov 24}			% Název zpěvníku
+
+
 
 %%%%%%%%%%%%%%%%%%%%%
 % ZAČÁTEK DOKUMENTU %
 %%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+%\setcounter{page}{2}  					% nastaví čítač stránek. V základu začne od 1, ale když by třeba bylo v plánu připojit ještě obálku...
 
-\setcounter{page}{2}  					% nastaví čítač stránek. V základu začne od 1, ale když by třeba bylo v plánu připojit ještě obálku...
-
-%Nastavení číslování stránek pro úvod a obsah
-%\pagestyle{empty}	%bez čísla
-\pagestyle{plain}	%s číslem
+%Nastavení číslování stránek pro úvod a obsahS
+\pagestyle{empty}	%bez čísla
+%\pagestyle{plain}	%s číslem
 
 %Vytvoření automatického obsahu. Správně se vygeneruje vždy až při druhém překladu.
-\label{obsah}
-\tableofcontents
+\newpage
+\tableofcontents\label{obsah}
 
 
 %Nastavení číslování stránek pro samotný zpěvník
@@ -134,7 +138,7 @@
 \pagestyle{plain}
 
 %vložení .txt souboru se seznamem písniček
-\input{songs/seznam_javo_23.txt} % přidání celého textového souboru s písněmi - více písní najednou
+\input{seznamy/seznam_lu_2024.txt} % přidání celého textového souboru s písněmi - více písní najednou
 
 
 \end{document}
