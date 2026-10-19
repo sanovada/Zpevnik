@@ -1,0 +1,27 @@
+x-hardening: &hardening
+  restart: unless-stopped
+  read_only: true
+  security_opt:
+    - no-new-privileges:true
+  cap_drop:
+    - ALL
+  pids_limit: 100
+  mem_limit: 128m
+  logging:
+    driver: json-file
+    options: { max-size: "5m", max-file: "3" }
+
+services:
+  zpevnik:
+    <<: *hardening
+    build:
+      context: ..
+      dockerfile: web-app/Dockerfile
+    image: zpevnik:latest
+    container_name: zpevnik
+    tmpfs:
+      - /tmp:size=16m
+    ports:
+      # Only reachable from this machine (cloudflared on the same host).
+      # For LAN access use "8080:8080" instead.
+      - "127.0.0.1:8080:8080"

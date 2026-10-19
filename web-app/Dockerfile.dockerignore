@@ -1,0 +1,6 @@
+*
+!web-app/build.py
+!web-app/static
+!web-app/nginx.conf
+!web-app/security-headers.conf
+!songs/*.tex
