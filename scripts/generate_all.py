@@ -1,6 +1,6 @@
 import os
 
-def generuj_seznam_pisni(slozka_pisin='songs', vystupni_soubor='all_songs.txt'):
+def generuj_seznam_pisni(slozka_pisin='songs', vystupni_soubor='seznamy/seznam_vsechny.txt'):
     """
     Projde zadanou složku, najde všechny soubory s příponou .tex
     a vytvoří textový soubor ve formátu \add{jmeno_pisne.tex}.
@@ -26,4 +26,4 @@ def generuj_seznam_pisni(slozka_pisin='songs', vystupni_soubor='all_songs.txt'):
 
 if __name__ == '__main__':
     # Předpokládáme složku s názvem 'songs'
-    generuj_seznam_pisni('songs', 'all_songs.txt')
+    generuj_seznam_pisni('songs', 'seznamy/seznam_vsechny.txt')

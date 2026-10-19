@@ -5,8 +5,8 @@ import unicodedata
 
 
 # --- Konfigurace ---
-VSTUPNI_SOUBOR = 'seznamy_csv/javo26.csv'  # Můžeš změnit na .csv nebo jiný formát
-VYSTUPNI_SOUBOR = 'seznamy_csv/soubor.txt'
+VSTUPNI_SOUBOR = 'seznamy/javo26.csv'  # Můžeš změnit na .csv nebo jiný formát
+VYSTUPNI_SOUBOR = 'seznamy/seznam_javo26.txt'
 # -------------------
 
 def zpracuj_a_uloz(vstup, vystup):
