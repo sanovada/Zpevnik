@@ -8,7 +8,14 @@ Projekt sbírky písní v LaTeX formátu.
 - **zpevnik_elektronicky.tex** - Elektronická verze zpěvníku (všechny písně)
 - **zpevnik_nastroj.tex** - Verze zpěvníku zaměřená na rychlé čtení jedné písničky
 - **zpevnik_papirovy.tex** - Verze zpěvníku optimalizovaná pro tisk
-- **zpevnik_kluci.tex**, **zpevnik_lu.tex** - Zpěvníky pro konkrétní akce
+
+### Složky
+- **songs/** - Kolekce jednotlivých písní v .tex formátu, seřazené alfabeticky
+- **nové_písničky/** - Nové písně po sdileni všem skautum na Overleaf
+- **images/** - Obrázky a doplňující materiál
+- **web-app/** - Webová aplikace zpěvníku, běží na https://zpevnik.tomasbartek.cz
+
+### Pomocné soubory
 - **guitar.sty** - Vlastní LaTeX styl pro formátování
 
 ### Složky
