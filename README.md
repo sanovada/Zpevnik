@@ -13,6 +13,7 @@ Projekt sbírky písní v LaTeX formátu.
 - **songs/** - Kolekce jednotlivých písní v .tex formátu, seřazené alfabeticky
 - **nové_písničky/** - Nové písně po sdileni všem skautum na Overleaf
 - **images/** - Obrázky a doplňující materiál
+- **web-app/** - Webová aplikace zpěvníku, běží na https://zpevnik.tomasbartek.cz
 
 ### Pomocné soubory
 - **guitar.sty** - Vlastní LaTeX styl pro formátování

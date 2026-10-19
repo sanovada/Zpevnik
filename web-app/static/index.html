@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Zpěvník</title>
+  <meta name="description" content="Zpěvník s texty a akordy">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#d4622a">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="apple-mobile-web-app-title" content="Zpěvník">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="modulepreload" href="chords.js">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <main>
+    <!-- Song list -->
+    <section id="view-list" class="view" aria-labelledby="app-title">
+      <header class="bar">
+        <div class="bar-row">
+          <h1 id="app-title">Zpěvník</h1>
+          <span id="count" class="muted" aria-live="polite"></span>
+          <button id="theme-btn" class="icon-btn" type="button" aria-label="Vzhled"></button>
+        </div>
+        <form id="search-form" role="search">
+          <label for="search" class="visually-hidden">Hledat</label>
+          <input id="search" type="search" placeholder="Hledat název, interpreta nebo text…"
+                 autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+          <button id="search-clear" type="button" aria-label="Smazat hledání" title="Smazat hledání" hidden>✕</button>
+        </form>
+        <div class="filters">
+          <label for="artist" class="visually-hidden">Interpret</label>
+          <select id="artist">
+            <option value="">Všichni interpreti</option>
+          </select>
+          <button id="artist-clear" class="chip" type="button" aria-label="Zrušit filtr interpreta" title="Zrušit filtr interpreta" hidden>✕</button>
+          <button id="favs-btn" class="chip" type="button" aria-pressed="false" aria-label="Jen oblíbené" title="Jen oblíbené">★</button>
+        </div>
+      </header>
+      <ul id="list"></ul>
+      <nav id="az" aria-label="Skok na písmeno" hidden></nav>
+      <p id="empty" class="muted center" hidden>Nic nenalezeno.</p>
+    </section>
+
+    <!-- Song view -->
+    <section id="view-song" class="view" aria-labelledby="s-title" hidden>
+      <header class="bar song-bar">
+        <div class="bar-row">
+          <button id="back" class="icon-btn" type="button" aria-label="Zpět na seznam">‹</button>
+          <div class="song-head">
+            <h2 id="s-title"></h2>
+            <button id="s-artist" class="muted" type="button" title="Další písničky interpreta"></button>
+          </div>
+          <button id="fav" class="icon-btn" type="button" aria-pressed="false" aria-label="Oblíbená">☆</button>
+        </div>
+        <div class="tools" role="toolbar" aria-label="Zobrazení písničky">
+          <div class="grp">
+            <button type="button" data-act="tr-" aria-label="Transponovat dolů">−</button>
+            <output id="tr" title="Transpozice" aria-label="Transpozice">0</output>
+            <button type="button" data-act="tr+" aria-label="Transponovat nahoru">+</button>
+          </div>
+          <button type="button" data-act="chords" id="chords-btn" aria-pressed="true">Akordy</button>
+          <div class="grp">
+            <button type="button" data-act="font-" aria-label="Menší písmo">A−</button>
+            <button type="button" data-act="font+" aria-label="Větší písmo">A+</button>
+          </div>
+          <div class="grp">
+            <button type="button" data-act="scroll" id="scroll-btn" aria-pressed="false" aria-label="Automatické posouvání">▶</button>
+            <button type="button" data-act="speed" id="speed-btn" aria-label="Rychlost posouvání">1×</button>
+          </div>
+        </div>
+      </header>
+      <article id="song"></article>
+    </section>
+  </main>
+
+  <div id="chord-pop" role="dialog" aria-label="Hmat akordu" hidden></div>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <noscript><p class="center">Zpěvník potřebuje zapnutý JavaScript.</p></noscript>
+</body>
+</html>
