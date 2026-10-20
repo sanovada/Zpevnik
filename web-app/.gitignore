@@ -1,1 +1,3 @@
 dist/
+# server-only settings (ports, networks)
+docker-compose.override.yml
