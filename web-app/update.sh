@@ -9,6 +9,9 @@
 #   cd ~/zpevnik && git sparse-checkout set songs web-app
 # Server-only settings (ports, networks) go to web-app/docker-compose.override.yml (not in git).
 set -eu
+# cron runs with PATH=/usr/bin:/bin, runuser lives in sbin
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+export PATH
 cd "$(dirname "$0")/.."
 
 owner=$(stat -c %U .)
